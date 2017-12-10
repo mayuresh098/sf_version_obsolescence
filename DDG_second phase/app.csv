@@ -1,0 +1,1204 @@
+Agency,Application name,Primary domain,Number of users,Number of licenses,Number of government support staff,Number of contractors,Start of use date,End of use date,is-custom,is-service,Manufacturer,Product/service name,Estimated replacement cost
+DAF,Forestry GIS,"Executive, Management Information Systems",45,45,0.8,0.1,01/04/1995 0:00,1/12/2018 0:00,No,No,ArcGIS,Forestry GIS,90000
+DAF,Forestry Sales Management Information Service,Case Management,50,50,1.8,Not reported,02/04/2011 0:00,1/12/2018 0:00,Yes,No,DAFF,Forestry Sales Management Information Service,170000
+DAF,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,0.3,1,01/01/2002 0:00,31/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+DAF,SAP - Finance CSP 400,Receipting,50,50,0.1,0.02,02/04/2011 0:00,1/12/2018 0:00,No,No,SAP,SAP,10000
+DAF,Rally,Project Portfolio Management,50,50,1.2,0.2,01/06/2014 0:00,31/12/2018 0:00,No,No,CA Technologies,Rally,22000
+DAF,1Contact,Employee Administration,1000,1000,0.5,0.1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+DAF,Agricultural Property System,Information Provision,117,117,0.3,0.11,01/01/2004 0:00,01/07/2019 0:00,Yes,No,DAFF,APS,960000
+DAF,Animal Identification System,Customer Service and Support,50,50,1.9,0.4,01/07/1996 0:00,01/01/2019 0:00,Yes,No,Microsoft,AIS Brands/iBrands,150000
+DAF,Biosecurity Surveillance (Incident Response and Tracking),Information Submission,250,250,5.2,1,01/09/2010 0:00,01/07/2018 0:00,Yes,No,Spatial Vision,BioSIRT application,920000
+DAF,Clarity,Enterprise Performance Management,423,150,1.5,0.3,01/01/2000 0:00,01/07/2018 0:00,No,No,CA,Clarity,600000
+DAF,Client Event Notification Tracking,Infringement Management,70,70,1.4,0.3,01/01/2009 0:00,01/07/2018 0:00,Yes,No,DAFF,CENT,180000
+DAF,DataPond - Finance,"Executive, Management Information Systems",500,500,1.1,0.2,01/01/2000 0:00,01/01/2020 0:00,Yes,No,DAFF,Custom,122000
+DAF,Drought and Disaster Assistance Management System,"Subsidies, Grants, Benefits and Assistance",100,100,0.1,0.04,01/01/1992 0:00,1/12/2016 0:00,Yes,No,SMS Consulting,DDAMS,750000
+DAF,eDOCS,Document and Records Management,1100,1100,1,0.2,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+DAF,Financial Reporter,Financial Management,50,50,0.1,0.02,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+DAF,Fisheries Data Mining Environment,Information Provision,141,141,4.3,0.8,06/09/2006 0:00,01/07/2025 0:00,Yes,No,DAFF,Custom,1500000
+DAF,HR Reporter,Employee Administration,50,50,0,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+DAF,Plant Pathology Herbarium & Insect Collection Database,Laboratory Systems,20,10,0.6,0.1,01/06/2002 0:00,01/06/2023 0:00,Yes,No,KE Software,Custom,100000
+DAF,Landesk,Investigations Management,90,90,0.6,0.1,01/01/2005 0:00,01/01/2018 0:00,Yes,No,Landesk,Touchpaper,500000
+DAF,Phoenix,Brand Management,10,10,1,0,1/10/2005 0:00,01/06/2017 0:00,Yes,No,Reflector System Pty Ltd,Phoenix,380000
+DAF,Shark Control Program,Case Management,1000,1000,1.2,0.2,02/04/2011 0:00,31/12/2018 0:00,Yes,No,DAFF,Shark Control Program,120000
+DAF,Stocked Impoundment Permits,"Authorities, Licences, Permits and Awards",35,35,0.3,0,01/07/2007 0:00,01/07/2017 0:00,Yes,No,DAFF,Custom,250000
+DAF,Vessel Monitoring System,Registrations and Inspections,125,125,0.4,0,01/06/2008 0:00,01/07/2020 0:00,No,No,TerraVision Pty Ltd,VMS,500000
+DAF,Web Contact Centre Phone System,Customer Service and Support,22,1,0.1,0,01/03/2008 0:00,01/01/2017 0:00,No,No,Telstra,Total Contact Centre,100000
+DAF,Beekeeper,"Authorities, Licences, Permits and Awards",20,20,0.2,0.1,01/07/2002 0:00,01/07/2019 0:00,Yes,No,DAFF,Custom,100000
+DAF,Citrus Canker Corrective Actions Database,Investigations Management,50,50,0.1,0.05,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DAFF,Custom,10000
+DAF,Electric Ant Information System,Registrations and Inspections,120,120,0.2,0.05,01/07/2002 0:00,01/07/2015 0:00,Yes,No,DAFF,EAIS,450000
+DAF,ACCPAC / TICFev,Case Management,50,50,0.4,Not reported,02/04/2011 0:00,1/12/2018 0:00,No,No,Sage,Sage 300,70000
+DAF,InfoView BAM,Costing,50,50,0,0,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+DAF,Web Services DAF (Application),"Authorities, Licences, Permits and Awards",5000,5000,1,0.2,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,200000
+DAF,Spatial,Information Provision,5000,5000,7.3,1.5,02/04/2011 0:00,1/12/2018 0:00,Yes,No,ESRI,ESRI,700000
+DAF,Qfish,Case Management,50,50,0.4,0.1,02/04/2011 0:00,31/12/2018 0:00,Yes,No,DAFF,Qfish,70000
+DAF,LIMS - Sample Manager,Laboratory Systems,80,29,2.5,0.5,01/02/2005 0:00,01/07/2023 0:00,No,No,ThermoFisher Scientific,Sample Manager,500000
+DAF,Fire Ant Management System,Case Management,200,200,0.2,0.1,11/06/2013 0:00,11/06/2023 0:00,Yes,No,Readify,Suite,1500000
+DAF,Regulated Dogs Register,Customer Service and Support,150,150,0.4,0,09/05/2011 0:00,30/06/2018 0:00,Yes,No,Simient,Custom,150000
+DAF,DAF Customer Relationship Management (DAF CRM),Client Account Management,500,500,0.4,0.5,02/04/2011 0:00,31/12/2018 0:00,Yes,No,Microsoft,Microsoft Dynamics,70000
+DAF,Clearcost,Budgeting,50,50,0.2,0.5,02/04/2013 0:00,31/12/2018 0:00,No,No,Clearcost,Clearcost,210000
+DAF,Tadpole,Time and Attendance,500,500,1,0.2,01/07/2014 0:00,1/12/2018 0:00,No,No,Information PLUS Pty Ltd,Tadpole,100000
+DAF,Smart Forms Support DAFF Biosecurity,Case Management,50,50,1.5,0.2,01/06/2013 0:00,31/12/2018 0:00,Yes,No,DAFF,Adobe,120000
+DAF,NLIS Reporter,Case Management,50,50,1.1,0.2,01/06/2013 0:00,31/12/2018 0:00,Yes,No,DAFF,NLIS Reporter,125000
+DAF,Web-based Agriculture Land Information,Case Management,5000,5000,0.9,0.2,01/06/2013 0:00,1/12/2018 0:00,Yes,No,DAFF,Squiz,100000
+DAF,CSP; Human Resource Management/ Payroll,Payroll,50,50,0,0,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+DAF,CSP; Financial Mgmt,Financial Management,50,50,0,0,01/01/1990 0:00,31/12/2018 0:00,No,No,SAP,R/3,0
+DAF,ePettyCash,Financial Management,50,50,0,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ePettyCash,0
+DAF,Employee Self Service,Employee Administration,5000,5000,0,0,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+DAF,HRMS Payroll Archive,Payroll,50,50,0,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+DAF,SpringBoard,Recruitment,50,50,0,0,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+DAF,eAssets,Enterprise Asset Management,50,50,0,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eAssets,0
+DAF,Web Technical Services - Infrastructure DAF,Information Provision,5000,5000,1,0.2,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,0
+DCCSDS,[DJAG] Youth and Family Support Service Client Information System,Case Management,12,0,0,0,30/06/2002 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Coldfusion Implementation,0
+DCCSDS,DCCSDS FYP; Financial Mgmt,Financial Management,4500,1,0,0,31/12/2003 0:00,12/01/2016 0:00,No,No,QSS,QSS Shared Service SAP FI Implementation,0
+DCCSDS,NGO Information System,"Authorities, Licences, Permits and Awards",10,0,0,0,31/01/2008 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,131448
+DCCSDS,IJIS/EMMA,Information Provision,12,0,0,0,31/03/2009 0:00,12/01/2016 0:00,No,No,Microsoft,Configured BizTalk Implementation,2887806
+DCCSDS,Corporate Phone List,Information Provision,7000,0,0,0,08/01/2013 0:00,12/01/2017 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net/SQL Implementation,0
+DCCSDS,Maximizer CRM,Information Provision,12,39,0,0,31/12/2006 0:00,12/01/2016 0:00,No,No,CRM Central Pty Ltd,Configured Maximizer Implementation,0
+DCCSDS,RecFind [COM],Document and Records Management,300,102,0,0,31/12/1989 0:00,12/01/2016 0:00,No,No,KnowledgeOne,Configured RecFind Implementation,0
+DCCSDS,SAS,Information Provision,600,1,0,0,29/07/2008 0:00,12/01/2016 0:00,No,No,SAS Institute Australia Pty Ltd/ Metacoda Pty Ltd,Configured SAS/Metacoda Security Plugin Implementation,1090932
+DCCSDS,ePettyCash,Financial Management,571,1,0,0,31/12/2005 0:00,12/01/2016 0:00,Yes,No,QSS,QSS Shared Service Implementation,0
+DCCSDS,Training Records Administration System,Organisational Development,15,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Coldfusion Implementation,0
+DCCSDS,"Critical Incident Recording, Management and Reporting System",Case Management,230,0,0,0,29/03/2009 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,Libero - WebOpac,Library Management,11367,3,0,0,16/06/2010 0:00,12/01/2016 0:00,No,No,Insight Informatics,Configured Libero LMS including Web Opac Implementation,0
+DCCSDS,Community Sector Information System,Case Management,100,0,0,0,31/07/2007 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,466984
+DCCSDS,Fraedom,Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2015 0:00,12/01/2016 0:00,No,No,Fraedom SAAS?,Fraedom SAAS?,0
+DCCSDS,DCCSDS Internet,Information Provision,1000000,0,0,0,31/12/1989 0:00,12/01/2017 0:00,No,No,"Autonomy, HP",Configured TeamSite/SQL Implementation - Internet Site,0
+DCCSDS,Qtravel,Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2015 0:00,12/01/2016 0:00,No,No,QSS Shared Service Implenetation,QSS Shared Service Implenetation,0
+DCCSDS,Communities Collaboration Central CCC,Information Provision,4500,0,0,0,31/12/2012 0:00,12/01/2017 0:00,No,No,Microsoft,Configured Sharepoint Implementation,0
+DCCSDS,DCCSDS Intranet,Information Provision,4500,0,0,0,31/12/1989 0:00,12/01/2017 0:00,No,No,"Autonomy, HP",Configured TeamSite/SQL Implementation - Intranet,0
+DCCSDS,e-Tender,Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,01/01/1990 0:00,12/01/2016 0:00,No,No,QSS,QSS Shared Service Implementation,0
+DCCSDS,DCCSDS CorpTech Other SAP Functionality,Costing,3252,1,0,0,31/12/2003 0:00,12/01/2016 0:00,No,No,QSS,"QSS SAP Project System, Inventory Mgt, Investment Mgt",0
+DCCSDS,Alfred,"Call Centre, Help Desk",100,100,Not reported,Not reported,07/01/2014 0:00,07/01/2020 0:00,No,No,Atlassian,Configured Atlassian Confluence Imlementation,0
+DCCSDS,[DJAG] FAMYJ,Case Management,1500,0,0,0,31/12/1998 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Powerbuilder/Ingres Implementation,1688672
+DCCSDS,Women's Info Link (WIL) Cleaner - Office for Women,Information Provision,5,0,0,0,27/04/2008 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access/SQL Implementation,0
+DCCSDS,[DATSIP] Community and Personal Histories Requests,Information Submission,18,0,0,0,10/10/1999 0:00,31/12/2018 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,System Access Request,"Call Centre, Help Desk",7000,0,0,0,31/12/2012 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,iLearn,Skills Management,8000,Not reported,0,0,01/01/2015 0:00,01/01/2020 0:00,No,No,Veracity Business Solutions,Configured Janison's Cloud Learning System (CLS) Implementation,0
+DCCSDS,DCCSDS MINCOR Ministerial Correspondence System,Information Provision,500,10000,0,0,29/10/2006 0:00,12/01/2018 0:00,No,No,Bay Technologies Pty Ltd,Configured MINCOR Implementation,20490
+DCCSDS,Adoptions Case Management System (ACMS),Case Management,30,33,0,0,15/07/2004 0:00,12/01/2016 0:00,No,No,Oracle,Configured Siebel CRM Implementation,3489946
+DCCSDS,Reports Database,Information Provision,3,0,0,0,31/01/2003 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,[DATSIP] Document Management System [DMS],Document and Records Management,30,0,0,0,31/12/2001 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Coldfusion Implementation,0
+DCCSDS,HR Reporting,"Executive, Management Information Systems",12,Not reported,Not reported,Not reported,07/01/2014 0:00,07/01/2020 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Sharepoint/SQL Service Reporting/.Net Implementation,0
+DCCSDS,Central Screening Unit (CSU),Information Submission,35,0,0,0,31/07/2006 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,1311539
+DCCSDS,Evolve Data Framework System,Case Management,100,0,0,0,31/08/2010 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,Womens Infolink Find a Service,Information Provision,75,0,0,0,31/12/2005 0:00,12/01/2016 0:00,No,No,Microsoft,Configured TeamSite/SQL Implementation - Internet Site,0
+DCCSDS,Grants Management System,Information Submission,11,0,0,0,31/12/1997 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access/SQL Implementation,2197720
+DCCSDS,GHADAP Guide Hearing & Assistance Dogs Administration Platform,Case Management,5,5,0,0,31/07/2009 0:00,12/01/2016 0:00,No,No,Beethoven Computer Services Pty Ltd,Configured Resolve Implementation,0
+DCCSDS,Asset Management System AMS,Enterprise Asset Management,30,0,1,0,11/01/2013 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,TeamMate,Accreditation,Not reported,Not reported,Not reported,Not reported,01/01/2012 0:00,12/01/2018 0:00,No,No,Wolters Kluwer,Configured TeamMate AM/SQL Implementation,0
+DCCSDS,Submissions Database,Information Submission,3,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,Mastercard Smart Data Generation 2,Receipting,Not reported,Not reported,Not reported,Not reported,01/01/2014 0:00,12/01/2016 0:00,No,No,QSS Shared Service Implementation,QSS Shared Service Implementation,0
+DCCSDS,Online Data Collection,Information Submission,600,0,0,0,31/12/2005 0:00,12/01/2016 0:00,Yes,No,Polymorphic & DCCSDS,Custom .Net Implementation,0
+DCCSDS,Recruitment Tracking Database,Recruitment,5,0,0,0,31/12/2008 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,Carepay,Client Account Management,12,0,0,0,31/12/1998 0:00,07/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Powerbuilder/Ingres Implementation,0
+DCCSDS,ICMS Mobile Viewer,Information Provision,60,Not reported,Not reported,Not reported,25/08/2014 0:00,30/11/2019 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,DCCSDS Extranet,Information Provision,200000,0,0,0,31/12/1989 0:00,12/01/2017 0:00,No,No,Microsoft,Configured SharePoint/SQL Implemenentation - Extranet Site,0
+DCCSDS,BMC Remedy Action Request System,"Call Centre, Help Desk",280,248,0,0,31/12/1999 0:00,12/01/2017 0:00,No,No,BMC Software Asia Pacific Pty Ltd,Configured BMC Remedy Imlementation,0
+DCCSDS,[DJAG] QUEST,Case Management,13,0,0,0,30/09/2002 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access/SQL Implementation,0
+DCCSDS,[DJAG] Conferencing Reporting Information System - YJ (CRIS-YJ),Case Management,Not reported,Not reported,Not reported,Not reported,21/05/2012 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,Grants Budget System,"Subsidies, Grants, Benefits and Assistance",2,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,Criminal History Checks Database,Employee Administration,6,Not reported,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,210257
+DCCSDS,Web CC,Client Account Management,100,1,0,0,31/12/2009 0:00,12/01/2017 0:00,No,No,Telstra,Configured Telstra IVR Service Implementation,0
+DCCSDS,Time and Dissection Program On-line,Time and Attendance,3340,1407,0,0,31/12/2008 0:00,12/01/2018 0:00,No,No,Information Plus Pty Ltd,Configured TADPOLE Implementation,0
+DCCSDS,Critical Incident and Child Safety Concern Report Database,Case Management,8,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access/SQL Implementation,0
+DCCSDS,Redress Scheme Information System,"Subsidies, Grants, Benefits and Assistance",1,0,0,0,23/02/2015 0:00,01/01/2020 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net/SQL Implementation,0
+DCCSDS,EmpLive,Rostering,120,120,0,0,31/12/1989 0:00,12/01/2016 0:00,No,No,One Click Solutions Ltd t/a RosterLive,Configured RosterLive Implementation,0
+DCCSDS,FAMYJ Child Safety Instance,Case Management,500,0,0,0,31/12/1998 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom Powerbuilder/Ingres Implementation,0
+DCCSDS,"Workplace Injury, Illness and Incident Report Form",Occupational Health and Safety Management,199,0,0,0,31/05/2003 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net/SQL Implementation,0
+DCCSDS,Community Recovery Processing System,Case Management,320,0,0,0,31/01/2009 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,926446
+DCCSDS,[DJAG] Shift Worker Employee Allowance Payments [SWEAP],Rostering,14,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,DCCSDS Aurion HR & Payroll,Human Capital Management,4500,1,0,0,25/05/2015 0:00,01/01/2020 0:00,No,No,QSS Shared Service,QSS Shared Service Aurion HR Implementation,0
+DCCSDS,eDocs,Document and Records Management,1500,3500,0,0,31/08/2006 0:00,12/01/2017 0:00,No,No,Open Text,Configured eDocs/Hummingbird Implementation,0
+DCCSDS,[DATSIP] Internet,Information Provision,1000000,0,0,0,31/12/1989 0:00,12/01/2017 0:00,No,No,"Autonomy, HP",Configured TeamSite/SQL Implementation - Internet Site,0
+DCCSDS,RecFind Online Search (ROS),Document and Records Management,Not reported,Not reported,Not reported,Not reported,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,SmartyGrants,Information Submission,20000,1,0,0,12/11/2012 0:00,12/01/2018 0:00,Yes,No,Our Community Pty Ltd,SaaS SmartyGrants - Custom J2EE Implemenation,0
+DCCSDS,Recfind [DCHS],Document and Records Management,600,102,0,0,31/12/1989 0:00,12/01/2016 0:00,No,No,KnowledgeOne,Configured RecFind Implementation,0
+DCCSDS,SCAN Team Information System,Case Management,240,0,0,0,30/04/2006 0:00,12/01/2018 0:00,No,No,Microsoft,Configured Sharepoint Implementation,198873
+DCCSDS,Funding Memos Database,Information Provision,4,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,[DATSIP] Perceptive Enterprise Search,Document and Records Management,30,0,0,0,12/05/2006 0:00,12/01/2017 0:00,No,No,Lexmark Enterprise Software,Configured Perceptive Enterprise Search Implementation,0
+DCCSDS,Utilisation Management System,ENTERPRISE RESOURCE PLANNING,5,1,0,0,31/12/2003 0:00,12/01/2016 0:00,Yes,No,Department of Housing and Public Works,QSS Shared Service Implenetation,0
+DCCSDS,[DJAG] Integrated Client Management System,Case Management,500,0,0,0,26/03/2007 0:00,30/11/2019 0:00,Yes,No,Dialogue & DCCSDS,Custom .Net Implementation,32290324
+DCCSDS,eMerchant SAM System,Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,01/01/2014 0:00,12/01/2016 0:00,No,No,Configured SaaS,Configured SaaS (part of Communitiy Recovery),0
+DCCSDS,Child Related Costs - Placement & Support,Case Management,3,0,0,0,31/12/1989 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,Shared Mailboxes & Workgroup System [.NET],Information Provision,5000,0,0,0,31/12/2006 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net & Configured Exchange Server Implementation,0
+DCCSDS,Critical Incident Reporting Management System,Case Management,210,0,0,0,30/11/2008 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,CCaRRS - Clinical Case Recording and Reporting System,Case Management,70,10,0,0,31/07/2009 0:00,12/01/2016 0:00,No,No,Beethoven Computer Services Pty Ltd,Configured Resolve Implementation,0
+DCCSDS,CHIIP - Card Holder & Industry Information Platform,Registrations and Inspections,40,0,0,0,22/06/2008 0:00,12/01/2017 0:00,Yes,No,"Polymorphic Solutions & Department of Communities, Child Safety",Custom .Net Implementation,1113250
+DCCSDS,ICMS - Child Protection,Case Management,2000,Not reported,0,0,26/03/2007 0:00,31/12/2018 0:00,Yes,No,Dialogue & DCCSDS,Custom .Net Implementation,45980874
+DCCSDS,RTI,Information Provision,14,35,0,0,30/06/2012 0:00,12/01/2016 0:00,No,No,Beethoven Computer Services Pty Ltd,Configured Resolve Implementation,488809
+DCCSDS,[DATSIP] Retail Store - HR/FI,Merchandising and Retailing,Not reported,1,Not reported,Not reported,07/01/2010 0:00,12/01/2016 0:00,No,No,"HR3 Pty Ltd, Sage Pastel International",Configured HR3pay/SAGE Pastel Evolution Implementation,0
+DCCSDS,Complaints Management System,Client Account Management,40,77,0,0,8/11/2007 0:00,12/01/2016 0:00,No,No,Beethoven Computer Services Pty Ltd,Configured Resolve Implementation,193389
+DCCSDS,Strategic Information Portal,Information Provision,12,12,0,0,31/12/1989 0:00,12/01/2016 0:00,No,No,SAS,Configured SAS Implementation,471247
+DCCSDS,Criminal History Screening System,Employee Administration,110,77,0,0,20/12/2006 0:00,12/01/2016 0:00,No,No,Beethoven Computer Services Pty Ltd,Configured Resolve Implementation,210257
+DCCSDS,FinEX,Financial Management,Not reported,0,Not reported,Not reported,12/01/2014 0:00,12/01/2018 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom (MS Excel).Net/SQL Implementation,0
+DCCSDS,OASIS,Information Submission,600,0,0,0,30/06/2008 0:00,12/01/2016 0:00,Yes,No,Polymorphic Solutions Pty Ltd,Custom .Net Implementation,1349462
+DCCSDS,Employee Self Service,Human Capital Management,4500,1,Not reported,Not reported,01/01/2004 0:00,12/01/2016 0:00,Yes,No,QSS Shared Service Custom Implementation,QSS Custom ESS v2,0
+DCCSDS,"[DATSIP] Retail Store - POS, Procurement & Stock Control Systems",Merchandising and Retailing,30,7,0,0,30/06/2010 0:00,12/01/2016 0:00,No,No,Worldsmart Retech Pty,Configured Retail Stores Grocery Manager Implementation,0
+DCCSDS,Forensic Disability Act Information System,Case Management,100,0,0,0,30/06/2012 0:00,12/01/2017 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,0
+DCCSDS,TriData,Budgeting,14,Not reported,0,0,31/12/2005 0:00,12/01/2016 0:00,Yes,No,Queensland Treasury,Custom QLD Treasury Implementation,0
+DCCSDS,DCCSDS CorpTech Other Offerings,Enterprise Asset Management,3252,1,0,0,31/12/2003 0:00,12/01/2016 0:00,No,No,QSS,QSS Admin Support Including AMIS,0
+DCCSDS,Time Limited Response,Case Management,15,0,0,0,01/01/1990 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access Implementation,0
+DCCSDS,[DATSIP] Grants Administration System,Information Submission,19,0,0,0,31/12/2003 0:00,12/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom MS Access/SQL Implementation,0
+DCCSDS,BIS - Business Information System,Case Management,1500,1580,0,7.77,31/03/2007 0:00,06/01/2019 0:00,Yes,No,IBM Curam,Configured Curam and Custom J2EE Implementation,40513046
+DCCSDS,[DJAG] DCOIS,Case Management,900,0,0,0,26/02/2011 0:00,12/01/2018 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services",Custom .Net Implementation,3800768
+DCCSDS,Ready Reserve Management System,Customer Service and Support,1420,3000,0,0,22/10/2014 0:00,07/01/2020 0:00,No,No,Better Impact,Configured Volunteer Impact Implementation,10000
+DCCSDS,Sortli,Case Management,Not reported,Not reported,Not reported,1,11/05/2014 0:00,07/01/2020 0:00,Yes,No,Klyp,"Sortli - Custom Mobile Application/iOS, Android, Windows",0
+DET,MyHR Recruitment,Human Capital Management,20000,1,7,3,01/01/2012 0:00,30/06/2019 0:00,Yes,No,N/A,Microsoft .NET Framework 3.5,8103925
+DET,MyHR Payroll,Human Capital Management,98500,1,5,7.5,30/06/1996 0:00,31/12/2020 0:00,Yes,No,Sum Total Systems,The Software Solution (TSS) version 5.2.1,80000000
+DET,"MyHR Performance, Capability and Talent",Human Capital Management,5000,1,1.2,0.1,30/06/2009 0:00,30/06/2019 0:00,Yes,No,N/A,Microsoft .NET Framework 4.0,150000
+DET,MyHR Workplace Health and Safety,Human Capital Management,62886,8,2.5,0,14/02/2011 0:00,31/12/2018 0:00,No,No,SAI Global,Cintellate (ver.5.9.2.8a),5543121
+DET,MyHR Corporate Reporting,Human Capital Management,35000,1,2.5,1,01/09/2009 0:00,30/06/2017 0:00,Yes,No,N/A,Custom,453263
+DET,International Students Management System (ISMS),Customer Service,367,300,3,1,22/03/2013 0:00,31/12/2023 0:00,Yes,No,Dialog Information Technology,Microsoft CRM,1500000
+DET,Manage Employee Conduct and Complaints System (MEC),Complaints Management,80,49,1,0.02,15/12/2012 0:00,15/12/2018 0:00,Yes,No,Resolve PTY LTD,Resolve,2000000
+DET,LALB Case Management System (RTI),Case Management,9,9,0.5,0,30/08/2012 0:00,20/06/2020 0:00,No,No,Resolve,Resolve DCM Solution 1.0 R1,941000
+DET,Training and Youth Internet Management System (STA-TYIMS),Risk and Issue Management,10,10,0.33,0,01/01/2002 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,600000
+DET,Queensland Studies Authority (STA-QSA),Risk and Issue Management,20,20,0.2,0,01/01/2002 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,600000
+DET,Cost Recovery Alloc8 Reporting Tool (CRART),General Ledger,5,5,0.1,0,01/01/2010 0:00,07/01/2020 0:00,Yes,No,N/A,Custom,200000
+DET,DESD99,Information Provision,15,0,0.01,0,01/01/1999 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,1000
+DET,Native II,Information Provision,2,0,0.01,0,01/01/1999 0:00,31/12/2020 0:00,Yes,No,DET,Custom,1000
+DET,Brisbane School of Distance Education (BSDE),Case Management,100,100,1,0,17/12/2012 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,612395
+DET,School Budget Module (SBM),Budgeting,5000,Not reported,0,0.5,26/10/2013 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,450000
+DET,SMS Archive,Information Provision,1400,1400,0.2,0,03/04/2012 0:00,03/04/2019 0:00,Yes,No,N/A,Custom,250000
+DET,The Learning Place,Information Provision,175000,1,5,2,15/12/2010 0:00,30/06/2017 0:00,Yes,No,Microsoft,Sharepoint,2500000
+DET,QGrants,"Subsidies, Grants, Benefits and Assistance",36,36,0.4,0,01/04/2013 0:00,30/06/2020 0:00,No,No,SAP,SAP,0
+DET,Employment Initiatives System (EIS),"Subsidies, Grants, Benefits and Assistance",22,22,0.1,0,01/01/2007 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,600000
+DET,TRACC-SAP Reconciliation Process,Payments,10,10,6.50E-03,0,01/01/2006 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,100000
+DET,VOL (Variations Online),Customer Support,2000,2000,0.74,0,01/01/2012 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,700000
+DET,Alloc8,Time and Attendance,10700,0,0,0,01/07/2007 0:00,30/06/2017 0:00,No,No,QSS,Alloc8,400000
+DET,SpringBoard,Recruitment,30,0,0,0,01/07/2007 0:00,30/06/2016 0:00,No,No,QSS,RecruitASP v. 1,0
+DET,SAP Finance and Procurement,General Ledger,1325,0,13.3,5.1,1/10/2013 0:00,30/06/2023 0:00,No,No,SAP,SAP ERP6,6890000
+DET,SAP Business Warehouse,Budgeting,1325,0,3.8,1.6,1/10/2013 0:00,30/06/2023 0:00,No,No,SAP,SAP Business Warehouse,2522739
+DET,TeamMate,Case Management,29,36,0.38,0,20/12/2013 0:00,20/12/2018 0:00,No,No,CCH TeamMate,TeamMate,125000
+DET,MyFacilities,Information Provision,5000,0,3,1,01/05/2014 0:00,30/06/2020 0:00,Yes,No,N/A,Custom,500000
+DET,Duke of Edinburgh Award System,"Authorities, Licences, Permits and Awards",6,Not reported,0,0.5,17/09/2014 0:00,01/01/2025 0:00,Yes,No,N/A,Custom,450000
+DET,SAP Plant Maintenance,Enterprise Asset Management,120,Not reported,1.9,0.8,11/08/2014 0:00,30/06/2023 0:00,No,No,SAP,ERP6,3060454
+DET,ApprenticePortal,Customer Service,120000,0,0.07,0,01/07/2014 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,450000
+DET,SkillsGateway,Sales Automation,300000,0,0.75,0,01/07/2014 0:00,31/12/2020 0:00,Yes,No,In-house,Custom,4500000
+DET,QParents,Information Submission,10000,300000,4,0,27/07/2015 0:00,30/06/2020 0:00,Yes,No,Readify,Custom,500000
+DET,Daptiv,Portfolio Management,173,322,1.2,0,01/01/2015 0:00,30/06/2016 0:00,No,No,Changepoint,Daptiv PPM Tool,80000
+DET,MyHR Home,Recruitment,70000,1,1.5,2,25/09/2014 0:00,31/12/2019 0:00,Yes,No,N/A,Custom,480000
+DET,Apprenticeship Information Self Service (AISS),Customer Service,500000,500000,6.50E-03,0,01/01/2006 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,300000
+DET,Australian Music Examinations Board (AMEB),Scheduling and Bookings,10000,1,1,0,01/01/2010 0:00,01/01/2025 0:00,Yes,No,N/A,Custom,600000
+DET,Avetmiss Training Activity (ATA),Information Provision,465,465,0.04,0,01/01/2006 0:00,01/06/2018 0:00,Yes,No,N/A,Custom,600000
+DET,eLearn,Computer Based Training,321967,75000,1,0.25,01/07/2013 0:00,30/06/2020 0:00,No,No,Blackboard,BlackboardLMS,367200
+DET,Business Rules Admin (BRAdmin),Customer Support,5,5,0.07,0,01/01/2006 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,500000
+DET,Central Approval System (CAS),Risk and Issue Management,200,200,0.1,0,01/01/2002 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,500000
+DET,Centre Information System (CIS),Information Submission,140,140,1.6,0,01/01/2010 0:00,07/01/2020 0:00,Yes,No,N/A,Custom,250000
+DET,Child Care Information System (CCIS),Case Management,160,160,6.50E-03,0,01/07/2010 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,600000
+DET,Course Access Management System (CAMS),Library Management,638101,0,1.25,0.25,01/09/2013 0:00,30/06/2020 0:00,Yes,No,N/A,Custom (CAMS),750000
+DET,Departmental Housing Management System (DHMS),Case Management,5,5,0.2,0,01/05/1996 0:00,30/06/2020 0:00,Yes,No,N/A,Microsoft Access 2010,200000
+DET,Digital Data Source (DDS),Information Provision,1600,1600,0.13,0,01/01/2001 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,400000
+DET,Digital Resource Centre (Equella),Computer Based Training,632806,1,0.5,0.25,01/01/2014 0:00,31/12/2020 0:00,No,No,The Learning Edge (Pearson Australia),Equella,183600
+DET,Direct Entry Level Training Administration System (DELTA),Case Management,392,392,0.9,0,01/01/1998 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,3500000
+DET,EduPoint,Registrations and Inspections,240,1,0.05,0,30/06/2002 0:00,30/06/2016 0:00,No,No,Eclipse Computing,EduPoint (previously known as eMinerva),0
+DET,School Appropriation and Budget Allocation (SABA),Information Provision,1400,1400,1,0,01/01/2001 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,1607040
+DET,HP TRIM,Document and Records Management,3982,4500,4.5,0.3,27/05/2002 0:00,30/06/2017 0:00,No,No,HP,HP TRIM,1300000
+DET,iConnect,Computer Based Training,632806,99999,1,0.25,01/01/2014 0:00,01/01/2019 0:00,No,No,Blackboard Inc,Blackboard Collaborate,408000
+DET,International Travel Database (iTravel),Registrations and Inspections,4,10,1,0.5,30/06/2009 0:00,31/12/2020 0:00,Yes,No,Dialog Information Technology,Microsoft CRM,200000
+DET,Living Away From Home Allowance System (LAFHAS),"Subsidies, Grants, Benefits and Assistance",1500,1500,0.1,0,01/01/2009 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,50880
+DET,OnePortal,Information Submission,60000,1,11.45,0,1/12/2009 0:00,01/07/2017 0:00,Yes,No,N/A,Custom,2091083
+DET,OneSchool,Scheduling and Bookings,160000,500000,6.55,11,30/06/2007 0:00,30/06/2022 0:00,Yes,No,Agresso (OneSchool Finance),Custom,14303292
+DET,Padlock Novell Interface (PNI),Accreditation,140,140,6.50E-03,0,01/01/2005 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,200000
+DET,DET Connect (Partner Portal),Client Account Management,2661,2661,0.2,1,30/06/2006 0:00,01/01/2018 0:00,Yes,No,N/A,Custom,500000
+DET,Phone Directory (WPHO/WPHE),Information Provision,5000,5000,0.2,0,01/01/1997 0:00,01/09/2015 0:00,Yes,No,N/A,Custom,115200
+DET,PurchaseIT,Information Submission,2500,1,0,0.46,01/01/2005 0:00,31/12/2016 0:00,Yes,No,N/A,Custom,248800
+DET,Purchasing Online (POL),Supply Chain Planning,200,200,0.05,0,01/01/2004 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,2000000
+DET,Queensland Training Information System (QTIS),Partner Relationship Management,50000,50000,0.13,0,01/01/1997 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,400000
+DET,Resource Replacement Scheme System (RRSS),Enterprise Asset Management,5,5,0.2,0,1/11/1999 0:00,30/06/2020 0:00,Yes,No,N/A,Microsoft Access 2010,100000
+DET,Smart Data Online (SDOL),Payments,7000,10000,0,0,01/07/2011 0:00,31/12/2016 0:00,No,No,MasterCard,SDOL,0
+DET,State Training Agency Clearinghouse (STAC),Information Provision,141,141,2.75,0,01/01/1996 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,3500000
+DET,Study Tours Support System (STSS or QSTAR),Registrations and Inspections,400,400,0.6,0,01/01/2008 0:00,1/12/2020 0:00,Yes,No,N/A,Custom,680000
+DET,Telstra Web CC,"Call Centre, Help Desk",85000,120,1,0,30/06/2006 0:00,30/12/2015 0:00,No,No,Telstra,Telstra Web CC,350000
+DET,Training Queensland Customer Relationship Management (TQ CRM),"Call Centre, Help Desk",278,360,1,0,30/06/2010 0:00,30/06/2020 0:00,Yes,No,Microsoft,Microsoft CRM Dynamics,4000000
+DET,Training Downloads,Information Submission,550,550,0.18,0,01/01/2008 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,800000
+DET,Training Purchasing - Payment Component (TPAY),Contract Management,66,66,0.74,0,01/01/1999 0:00,31/12/2020 0:00,Yes,No,N/A,Custom,2000000
+DET,Training Purchasing (TPUR),Sourcing and Procurement,50,50,0.29,0,01/01/1999 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,2000000
+DET,Training Reference Database (TRDB),Accreditation,660,660,0.01,0,01/01/1996 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,300000
+DET,Travel and Accommodation (TRACC),Payments,15000,15000,0.32,0,1/12/2009 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,1000000
+DET,VET Accreditation Registration System (VARS),"Authorities, Licences, Permits and Awards",100,100,0.48,0,01/01/1995 0:00,01/01/2020 0:00,Yes,No,N/A,Custom,1500000
+DET,VET Systems Reporting (VSR),Information Provision,100,100,0.5,0,30/06/2006 0:00,31/12/2017 0:00,Yes,No,N/A,Custom,30000
+DEWS,Water Industry compliance Database Core Module,Risk and Issue Management,70,70,1,0,1/12/2001 0:00,31/12/2018 0:00,Yes,No,DEWS,WICD,3000000
+DEWS,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,0.3,0.06,01/07/2002 0:00,31/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+DEWS,1Contact,Employee Administration,1000,1000,0.5,1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+DEWS,eDOCS,Document and Records Management,1100,1,1,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+DEWS,CSP; Financial Mgmt,Financial Management,50,50,Not reported,Not reported,01/01/1990 0:00,31/12/2018 0:00,No,No,SAP,R/3,0
+DEWS,CSP; Human Resource Management/ Payroll,Payroll,50,50,Not reported,Not reported,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+DEWS,Employee Self Service,Employee Administration,5000,5000,Not reported,Not reported,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+DEWS,Financial Reporter,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+DEWS,HRM Reporter,Employee Administration,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+DEWS,HRMS Payroll Archive,Payroll,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+DEWS,SpringBoard,Recruitment,50,50,Not reported,Not reported,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+DEWS,InfoView BAM,Costing,50,50,Not reported,Not reported,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+DEWS,eGift Register,Client Account Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eGift Register,0
+DEWS,eAssets,Enterprise Asset Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eAssets,0
+DEWS,Web Technical Services - Infrastructure DEWS,Information Provision,5000,5000,1,Not reported,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,0
+DEWS,Web Services - DEWS,"Authorities, Licences, Permits and Awards",9999,9999,0.1,0.02,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,429000
+DH,Placeholder,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,Visualfiles,Case Management,200,140,0.7,Not reported,31/12/2003 0:00,1/12/2018 0:00,Yes,No,Lexis Nexis,Visualfiles,2400000
+DJAG,WHSQ Data Warehouse,"Executive, Management Information Systems",25,Not reported,0.1,Not reported,09/04/2006 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Data Warehouse,Not reported
+DJAG,Project Information Management System,Budgeting,21,Not reported,0.07,Not reported,30/06/2012 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,100000
+DJAG,"Business Names, Associations, Charities and Co-operatives system","Authorities, Licences, Permits and Awards",300,40,0.8,0.03,01/01/1999 0:00,30/06/2020 0:00,Yes,No,CITEC/Ajilon,Oracle,5000000
+DJAG,Body Corporate & Community Management Management Informations System,Case Management,33,Not reported,0.07,Not reported,01/07/1995 0:00,30/06/2019 0:00,Yes,No,Microsoft,Visual Basic 6.0,Not reported
+DJAG,Body Corporate & Community Management Online Assessment & Training,Computer Based Training,1000000,Not reported,0.07,Not reported,01/07/2006 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,CABTRAK,Financial Management,6,Not reported,0.07,Not reported,01/07/2004 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,Carson,Case Management,32,Not reported,0.07,Not reported,21/10/2010 0:00,30/06/2022 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework (WPF Silver light),Not reported
+DJAG,Certificate Validation Service,Registrations and Inspections,110,83,0.1,0.03,01/07/1995 0:00,30/06/2021 0:00,No,No,KE Software,CVS,50000
+DJAG,Chem Large Dangerous Goods,Case Management,6,Not reported,0.55,0.03,01/01/1995 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,Not reported
+DJAG,Confiscations System,Case Management,15,1,0.1,Not reported,01/07/1995 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,30000
+DJAG,Court of Appeal Management System,Case Management,10,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,VB 6.0,50000
+DJAG,Courts Information System CISW,Information Provision,114,Not reported,Not reported,Not reported,01/01/2003 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,Courts Innovation Program Evaluation System,Case Management,30,Not reported,Not reported,Not reported,8/11/2007 0:00,30/06/2024 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,500000
+DJAG,Elite 3E Practice Management System,Time and Attendance,200,200,0.81,Not reported,14/10/2010 0:00,1/10/2025 0:00,Yes,No,Thomson Reuters,Elite3E,2000000
+DJAG,Fair Trading Licensing Register,Registrations and Inspections,100000,0,0.07,0,01/07/2009 0:00,30/06/2030 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,150000
+DJAG,Find a JP,Information Provision,100000,0,0.07,0,01/06/2005 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,Not reported
+DJAG,First OPAC,Library Management,4000,10,0.06,Not reported,1/11/2006 0:00,1/11/2018 0:00,Yes,No,First Software,Optimus Prime,0
+DJAG,HP Quality Centre,Knowledge Management,15,20,Not reported,Not reported,01/07/2008 0:00,31/07/2021 0:00,Yes,No,HP,Quality Centre,Not reported
+DJAG,FYP; Financial Mgmt,Document and Records Management,2,Not reported,Not reported,Not reported,01/01/1990 0:00,30/06/2015 0:00,No,No,SAP,R/3,Not reported
+DJAG,Online Subscription Services,Event Management,100000,Not reported,0,Not reported,11/02/2010 0:00,30/06/2020 0:00,Yes,No,Vision 6,Not reported,0
+DJAG,Phonebook,Information Provision,4278,Not reported,0.07,Not reported,03/05/2005 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,.NET Framework,Not reported
+DJAG,QCIVIL,Case Management,400,1,1.08,Not reported,01/07/1995 0:00,30/06/2024 0:00,Yes,No,Strategic Business Consulting,Not reported,Not reported
+DJAG,QIRC Emails Letters and faxes,Customer Support,10,Not reported,0,Not reported,01/01/2008 0:00,30/06/2018 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Safety Information System,Customer Service,50,Not reported,0.2,Not reported,23/04/2007 0:00,30/06/2017 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Software Asset Register,Inventory Management,39,Not reported,0.07,Not reported,01/01/2009 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,ASP.NET,Not reported
+DJAG,Systems Appraisal Management,Risk and Issue Management,3,1,0.05,Not reported,01/01/1995 0:00,30/06/2020 0:00,Yes,No,In House Developed,System Appraisal Management,0
+DJAG,Trust System,Registrations and Inspections,3,Not reported,0.07,Not reported,01/07/2009 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,0
+DJAG,VIKT,Partner Relationship Management,62,Not reported,0.2,Not reported,20/07/2011 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,ELI Internet Public Search,Information Provision,100000,Not reported,0.85,Not reported,17/04/2009 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,ELI,Not reported
+DJAG,ESO Approvals and Labeling,Registrations and Inspections,15,Not reported,0.3,Not reported,23/08/2008 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,ESO Electrical Licensing,"Authorities, Licences, Permits and Awards",15,Not reported,1,Not reported,23/08/2008 0:00,30/06/2018 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Fines system,Case Management,10,Not reported,0,Not reported,6/12/2007 0:00,30/06/2017 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Inspection Audit System,Case Management,56,Not reported,0.55,Not reported,01/07/1995 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Queensland Electrical Equipment Approval Certificate Search,"Authorities, Licences, Permits and Awards",10,Not reported,0.1,Not reported,15/05/2009 0:00,30/06/2019 0:00,Yes,No,Not reported,Not reported,1
+DJAG,Caseworks (QCAT),Case Management,160,100,0.5,0.07,01/07/2009 0:00,01/06/2019 0:00,Yes,No,Reprise Consulting,Caseworks,500000
+DJAG,Integrated Criminal Justice (ICJ) Service - IJIS View,Information Provision,6,Not reported,0,Not reported,01/09/2009 0:00,30/06/2024 0:00,Yes,No,CITEC,IJIS VIEW,Not reported
+DJAG,Integrated Criminal Justice (ICJ) Service - Information Exchange Framework (IEF) DJAG spoke,Information Provision,90000,Not reported,0.15,Not reported,01/07/2008 0:00,30/06/2024 0:00,Yes,No,CITEC,DJAG Spoke,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Information Exchange Framework (IEF) ODPP spoke,Information Submission,90000,Not reported,0.15,Not reported,01/07/2008 0:00,30/06/2024 0:00,Yes,No,Not reported,ODPP Spoke,0
+DJAG,Communication Resolution System,Customer Service,40,Not reported,0,0.11,01/04/2010 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Compliance Inspectorial System (CISR),Infringement Management,300,Not reported,1.2,0.11,11/06/2010 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Infringement and Enforcement Database (Compliance,Not reported
+DJAG,"Conferences, Seminars and Events Subscription Management Services",Event Management,5,Not reported,0,0.07,11/02/2010 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Java,0
+DJAG,Corporate Office of Gaming Systems,"Authorities, Licences, Permits and Awards",300,Not reported,2.39,Not reported,01/05/2006 0:00,30/06/2020 0:00,Yes,No,in-house,Oracle,0
+DJAG,Cyberscience CQCS,Financial Management,5,120,0.01,Not reported,01/07/2011 0:00,1/10/2017 0:00,No,No,Cyberscience,CQCS,0
+DJAG,eDocs - Advocacy,Human Capital Management,14,1,0.07,Not reported,01/03/2008 0:00,30/06/2020 0:00,No,No,Open Text,eDOCS,Not reported
+DJAG,eDocs - ODPP,Case Management,423,1,0.07,Not reported,01/07/2009 0:00,30/06/2030 0:00,Yes,No,Open Text,eDOCS,7000000
+DJAG,QWIC Service - Specialty Courts Interface,Information Provision,5,Not reported,Not reported,Not reported,01/07/2007 0:00,01/06/2024 0:00,Yes,No,Department of Justice and Attorney-General,Specialty Courts Interface,Not reported
+DJAG,QWIC Service - SPER,Case Management,1000,Not reported,0.1,Not reported,01/07/2007 0:00,01/06/2024 0:00,Yes,No,Department of Justice and Attorney-General,QWIC/SPER interface,Not reported
+DJAG,Criminal Register System Archive - CRS,Case Management,243,Not reported,Not reported,Not reported,1/11/2000 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,Visualfiles - ODPP,Case Management,423,280,2,Not reported,01/07/2009 0:00,30/06/2030 0:00,Yes,No,LexisNexis,Visualfiles,7000000
+DJAG,Liquor Licensing System (LLS),"Authorities, Licences, Permits and Awards",100,Not reported,0,Not reported,01/07/2011 0:00,31/12/2016 0:00,Yes,No,Not reported,Oracle,1
+DJAG,OLGR Data Warehouse,Customer Service and Support,300,Not reported,0.2,Not reported,01/03/2001 0:00,30/06/2015 0:00,Yes,No,Not reported,Oracle,1
+DJAG,Q-Win,Customer Service,7,1,0,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Q-Matic,Q-Win,20000
+DJAG,Funds Management System (FMS),"Subsidies, Grants, Benefits and Assistance",5,Not reported,Not reported,Not reported,01/09/2002 0:00,31/12/2016 0:00,Yes,No,Not reported,Oracle,1
+DJAG,ODPP SMS,Customer Service and Support,30,1,0.1,Not reported,01/07/2011 0:00,30/06/2030 0:00,No,No,Telstra,ODPP SMS,0
+DJAG,Linkworks (WHSQ EDMS),Information Submission,769,Not reported,0.05,Not reported,30/11/1995 0:00,30/06/2020 0:00,Yes,No,HP,Not reported,1
+DJAG,Online Benchmarking (OFSWQ),Occupational Health and Safety Management,100000,Not reported,0.2,Not reported,01/07/2011 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Online Surveys,0
+DJAG,ODPP Incident Logging and Management Sharepoint,Analytics,7,Not reported,0.3,Not reported,01/07/2011 0:00,30/06/2030 0:00,Yes,No,Micosoft,Sharepoint,3383
+DJAG,Victim Liaison Officer Contact Register,Case Management,30,1,0.3,Not reported,01/07/2011 0:00,30/06/2020 0:00,Yes,No,Microsoft,Excel,3383
+DJAG,DJAG Timesheeting,Time and Attendance,4278,Not reported,0,Not reported,1/10/2008 0:00,30/06/2021 0:00,Yes,No,Microsoft,Excel,Not reported
+DJAG,Infringement Notice Register (INR),Infringement Management,30,Not reported,Not reported,Not reported,01/07/2011 0:00,30/06/2020 0:00,Yes,No,Not reported,Classic ASP 3.0,0
+DJAG,Web site - OLGR Online Services,"Authorities, Licences, Permits and Awards",1000000,Not reported,1,Not reported,01/05/2010 0:00,30/06/2020 0:00,Yes,No,Not reported,Not reported,0
+DJAG,iKnow,"Call Centre, Help Desk",18,Not reported,0.65,Not reported,16/03/2011 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,ESO Cathodic,Registrations and Inspections,5,Not reported,0.6,Not reported,24/02/2002 0:00,30/06/2015 0:00,No,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Information Management System (IMS),Case Management,66,Not reported,0.5,Not reported,04/08/2005 0:00,30/06/2015 0:00,No,No,Not reported,Not reported,0
+DJAG,IPAY,Customer Service,20,Not reported,0.6,Not reported,05/04/2011 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Records (OFSWQ),Document and Records Management,5,Not reported,0.1,Not reported,23/08/2008 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,WASP,Information Provision,15,Not reported,0.2,Not reported,12/06/2010 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Web Review (WEBR),Information Provision,10,Not reported,0,Not reported,11/07/2008 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,Not reported
+DJAG,Resolve - Victim Assist Queensland,Case Management,40,40,0.25,Not reported,1/12/2009 0:00,30/06/2020 0:00,No,No,Resolve Software,Resolve,0
+DJAG,Resolve - Criminal Injuries Compensation Unit,Case Management,2,2,0.02,Not reported,1/11/2007 0:00,30/06/2020 0:00,No,No,Resolve Software,Resolve,1
+DJAG,Resolve - Office of the Adult Guardian,Case Management,120,77,0.7,Not reported,15/08/2011 0:00,30/06/2020 0:00,Yes,No,Resolve Software Group Pty,Custom,450000
+DJAG,Body Corporate & Community Management (BCCM) Templates,Document and Records Management,33,Not reported,0.07,Not reported,01/07/1995 0:00,30/06/2019 0:00,Yes,No,Microsoft,Office,Not reported
+DJAG,Department of Justice (DJAG) Templates,Case Management,4552,Not reported,0.07,Not reported,01/07/1995 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Office,Not reported
+DJAG,eDOCS - Coroners,Financial Management,121,1,0.07,Not reported,01/03/2008 0:00,30/06/2020 0:00,No,No,Open Text,eDOCS,Not reported
+DJAG,Court List Display - System,Information Provision,50,Not reported,0.15,Not reported,23/11/2007 0:00,01/06/2024 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,Not reported
+DJAG,JPs Shopping Cart,Customer Marketing,100000,0,0.07,0,01/07/1995 0:00,31/08/2021 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,Queensland Charities and Associations Online Register,Information Provision,100000,Not reported,0.08,Not reported,29/03/2010 0:00,30/06/2030 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,150000
+DJAG,Tribunals List Display System,Information Provision,11,Not reported,0.07,Not reported,15/11/2009 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,Not reported
+DJAG,Genesys Contact - OCB CMS,Case Management,20,20,0.07,Not reported,01/02/2008 0:00,30/06/2021 0:00,Yes,No,Genesys,Custom,Not reported
+DJAG,Ministerial Tracking (Mintrak),Document and Records Management,15,Not reported,0.07,Not reported,01/07/1995 0:00,30/06/2020 0:00,Yes,No,KnowledgeOne,Classic ASP 3.0,Not reported
+DJAG,Genesys  contact - Legal Services OGC CMS,Case Management,15,15,0.07,Not reported,01/01/2009 0:00,30/06/2021 0:00,Yes,No,Genesys,Custom,Not reported
+DJAG,TeamMate,Customer Service,11,13,0.07,Not reported,1/10/2007 0:00,30/06/2030 0:00,No,No,Wolters Kluwer,TeamMate Suite,102889
+DJAG,Genesys contact - RTI & Privacy CMS,Case Management,24,24,0.07,Not reported,01/07/2009 0:00,30/06/2030 0:00,Yes,No,Genesys,Custom,0
+DJAG,Legal Services Commission (LSC) CMS,Case Management,20,20,0.07,Not reported,01/05/2004 0:00,30/06/2021 0:00,Yes,No,Genesys,Custom,Not reported
+DJAG,ELI (Internet and Intranet Electrical Licensing Pages),"Authorities, Licences, Permits and Awards",100000,Not reported,0.45,Not reported,10/08/2004 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,ELI,375000
+DJAG,Web CC - WHSQ Lutwyche,Customer Service and Support,30,22,0,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,Web CC - OLGR,Customer Service,10,10,Not reported,Not reported,06/02/2012 0:00,30/06/2015 0:00,No,No,Telstra,WebCC,0
+DJAG,Web CC - Courts Service Centre,Customer Service,13,13,0.05,Not reported,01/07/2010 0:00,30/06/2019 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,Web CC - DJAG IT Service Desk,Customer Service,11,14,Not reported,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,Electronic Trials,Document and Records Management,50,0,1.2,Not reported,01/07/2011 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,Sharepoint,Not reported
+DJAG,MACS Market Accreditation and Compliance System,"Authorities, Licences, Permits and Awards",380,40,1.5,2.5,10/06/2003 0:00,30/06/2020 0:00,Yes,No,CITEC/Ajilon,Oracle,10000000
+DJAG,RecFind (OFSWQ),Document and Records Management,5,Not reported,0.07,Not reported,01/07/2009 0:00,30/06/2019 0:00,Yes,No,KnowledgeOne,Custom,Not reported
+DJAG,Coroners Case Management System (CCMS),Case Management,50,Not reported,Not reported,Not reported,20/10/2009 0:00,30/06/2022 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework (WPF),Not reported
+DJAG,Web CC - RBDM,Customer Service,10,10,0,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,250000
+DJAG,QCIVIL Lawlist Database,Information Submission,80,Not reported,0.1,Not reported,01/07/2011 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,.NET Framework,Not reported
+DJAG,QCIVIL Reporting Server,Information Provision,50,Not reported,0.05,Not reported,01/07/2011 0:00,30/06/2019 0:00,Yes,No,Not reported,Cystal Reporting Server,Not reported
+DJAG,CDRS Claims and Debt Recoveries System,Case Management,12,Not reported,0.3,0.03,01/07/2002 0:00,01/07/2017 0:00,Yes,No,Microsoft,MS Access,382500
+DJAG,Plant on-line,"Authorities, Licences, Permits and Awards",100000,Not reported,0.35,Not reported,23/02/2012 0:00,30/06/2022 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,Internet Compliance and Investigation System,Registrations and Inspections,100000,Not reported,1,0,10/08/2002 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,0
+DJAG,eDOCS - Coroners Training,Computer Based Training,121,1,Not reported,Not reported,01/03/2008 0:00,30/06/2020 0:00,No,No,Open Text,eDOCS,Not reported
+DJAG,eDOCS - DJAG Training,Document and Records Management,4200,1,0.07,Not reported,01/03/2008 0:00,30/06/2020 0:00,No,No,Open Text,eDOCS,Not reported
+DJAG,eDOCS Transcript Library,Customer Service and Support,314,1,Not reported,Not reported,01/07/2008 0:00,30/06/2020 0:00,Yes,No,Open Text,eDOCS,Not reported
+DJAG,Vision 6 service,"Product, Service Development and Marketing",6,Not reported,0,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Vision 6,Vision 6,0
+DJAG,FAMYJ,Case Management,1500,Not reported,Not reported,Not reported,31/12/1998 0:00,31/12/2017 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,Integrated Client Management System,Case Management,500,Not reported,Not reported,Not reported,26/03/2007 0:00,30/11/2019 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,Civil Listing and Information Management System (CLAIMS),Case Management,750,0,0.4,Not reported,01/07/2004 0:00,30/06/2016 0:00,Yes,No,Department of Justice and Attorney-General,CLAIMS,2500000
+DJAG,eDOCS - Crown Law (previously referred to as CLDM5),Document and Records Management,200,300,0.45,Not reported,12/05/2005 0:00,1/10/2017 0:00,Yes,No,Open Text,eDOCS,1000000
+DJAG,Integrated Criminal Justice (ICJ) Service - Electronic Transfer of Court Results,Information Provision,90000,0,1.35,Not reported,01/02/2009 0:00,30/06/2024 0:00,Yes,No,CITEC,ETCR,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Enhanced Court List Query (eCLQ),Information Provision,300,0,0.55,0.06,01/06/2006 0:00,30/06/2024 0:00,Yes,No,CITEC,eCLQ,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Notifications,Information Provision,90000,Not reported,0.15,Not reported,10/07/2008 0:00,30/06/2024 0:00,Yes,No,Not reported,Notifications,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Information Exchange Framework (IEF) Hub,Information Submission,90000,Not reported,0.15,Not reported,01/07/2008 0:00,30/06/2024 0:00,Yes,No,CITEC,Hub,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Out of Phase Offender Linking (OFL),Information Submission,90000,Not reported,0.03,Not reported,01/09/2009 0:00,30/06/2024 0:00,Yes,No,CITEC,OFL,Not reported
+DJAG,Integrated Criminal Justice (ICJ) Service - Reference Data Management (RDM),Information Submission,90000,Not reported,0.03,Not reported,01/07/2008 0:00,30/06/2024 0:00,Yes,No,Not reported,RDM,0
+DJAG,Integrated Criminal Justice (ICJ) Service - Test Console,Information Submission,3,Not reported,0.05,Not reported,01/07/2008 0:00,30/06/2024 0:00,Yes,No,CITEC,TEST CONSOLE,Not reported
+DJAG,Integrated Criminal Justice (ICJ) Service - Transfer Bench Charge Sheets (TBCS),Information Submission,90000,Not reported,0.78,0.1,01/06/2005 0:00,30/06/2024 0:00,Yes,No,Not reported,TBCS,0
+DJAG,OLGR eDocs,Customer Service and Support,360,1,Not reported,Not reported,01/07/2011 0:00,30/06/2030 0:00,No,No,Open Text,eDocs,0
+DJAG,OLGR Grants Management System (OLGR Service),"Subsidies, Grants, Benefits and Assistance",30,Not reported,0,Not reported,01/09/2009 0:00,30/06/2020 0:00,Yes,No,SAP,RMS,0
+DJAG,Dalet Recordings Archive,Information Provision,10,Not reported,0.01,Not reported,01/07/2013 0:00,30/06/2019 0:00,Yes,No,Department of Justice and Attorney-General,In House Developed Solution,100000
+DJAG,AAA (Advisory and Assessment),Payroll,40,Not reported,0.9,Not reported,01/07/2012 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Not reported,Not reported
+DJAG,RAPS Assessor Portal (RLP),Accreditation,100000,0,0.35,Not reported,01/07/2013 0:00,30/06/2021 0:00,Yes,No,CITEC,Not reported,Not reported
+DJAG,Online Assessment Tool (Benchline),Marketing and Advocacy,Not reported,Not reported,0.2,Not reported,01/07/2013 0:00,01/07/2021 0:00,No,No,Vision 6,Not reported,Not reported
+DJAG,Skills Maintenance,Case Management,Not reported,Not reported,0.2,Not reported,01/07/2013 0:00,01/07/2021 0:00,No,No,DPW,Not reported,Not reported
+DJAG,Smart Forms Processor  (SFP),Case Management,Not reported,Not reported,0.2,Not reported,01/07/2013 0:00,01/07/2021 0:00,No,No,Department of Justice and Attorney-General,Not reported,Not reported
+DJAG,RAPS Renewals Process (RRP),Accreditation,100000,0,0.35,Not reported,01/07/2013 0:00,30/06/2021 0:00,Yes,No,CITEC,Not reported,Not reported
+DJAG,Fire Tracking System (FTS),Investigations Management,Not reported,Not reported,0.05,Not reported,01/07/2013 0:00,01/07/2021 0:00,No,No,Department of Justice and Attorney-General,Not reported,Not reported
+DJAG,OLGR Business Intelligence,Enterprise Business Intelligence,300,Not reported,0.98,Not reported,01/07/2013 0:00,30/06/2020 0:00,No,No,Oracle,OBIEE,0
+DJAG,InfoView BAM,Budgeting,4278,Not reported,0.29,Not reported,01/08/2011 0:00,06/01/2019 0:00,No,No,InfoView Technologies Pty Ltd,Not reported,Not reported
+DJAG,Data Requirements Exchange Process (DR),Accreditation,20,Not reported,0.05,Not reported,01/05/2013 0:00,30/06/2020 0:00,Yes,No,Not reported,Oracle,0
+DJAG,DCOIS,Case Management,900,Not reported,Not reported,Not reported,26/02/2011 0:00,26/03/2018 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,QUEST,Case Management,13,Not reported,Not reported,Not reported,30/09/2002 0:00,30/11/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,Youth and Family Support Service Client Information System,Case Management,12,Not reported,Not reported,Not reported,30/06/2002 0:00,30/11/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,eDOCS OFT,"Call Centre, Help Desk",206,1,Not reported,Not reported,30/06/2014 0:00,30/06/2020 0:00,No,No,Open Text,eDOCS,0
+DJAG,Q-COMP Intelligence (QI),"Authorities, Licences, Permits and Awards",120,Not reported,0,Not reported,01/07/2011 0:00,01/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Q-COMP Intelligence (QI),Not reported
+DJAG,Q-COMP Core System (QCS),Constituent Services,12,Not reported,0,Not reported,01/07/2003 0:00,01/07/2015 0:00,Yes,No,Department of Justice and Attorney-General,Q-COMP Core System (QCS),Not reported
+DJAG,Q-COMP Scheme Analysis (QSA),Information Submission,15,Not reported,0,Not reported,01/07/2003 0:00,01/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Q-COMP Scheme Analysis (QSA),Not reported
+DJAG,Online services (OLS),Registrations and Inspections,1000,Not reported,0.2,Not reported,01/04/2013 0:00,01/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Online services (OLS),Not reported
+DJAG,Online Awards nomination system,Library Management,500,Not reported,0,Not reported,01/04/2010 0:00,01/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,Online Awards nomination system,Not reported
+DJAG,Accellion,Constituent Services,48,49,Not reported,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,QCPDOCS01,Not reported
+DJAG,Service Outlook,Information Submission,180,180,Not reported,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,Not reported,Not reported
+DJAG,MobileIron,Constituent Services,163,185,0,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,Not reported,Not reported
+DJAG,MailStore,Constituent Services,120,140,0,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,QCPMailStore01,Not reported
+DJAG,HP Record manager (TRIM),Case Management,120,175,0,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,WCRRM01 /  WCRRM02,Not reported
+DJAG,Harmony,Constituent Services,5,5,0,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,Not reported,Not reported
+DJAG,SAS,Information Provision,5,15,Not reported,Not reported,30/06/2013 0:00,30/06/2019 0:00,No,No,Not reported,QCPSAS02,Not reported
+DJAG,eDOCS - DJAG,Document and Records Management,4200,1,0.07,Not reported,01/03/2008 0:00,30/06/2020 0:00,Yes,No,Open Text,eDOCS,Not reported
+DJAG,HRMS Payroll Archive,Human Capital Management,4,Not reported,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,Not reported
+DJAG,Justice of the Peace (JP) System,Accreditation,18,Not reported,0.07,Not reported,01/06/2005 0:00,30/06/2030 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,Not reported
+DJAG,ACE; Human Resources Mgmt/Payroll,Payroll,4858,4858,Not reported,Not reported,05/01/1999 0:00,01/06/2018 0:00,No,No,Aurion,Aurion,Not reported
+DJAG,Mediation Organiser,Case Management,116,Not reported,0.07,Not reported,19/06/2008 0:00,06/01/2019 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework,Not reported
+DJAG,QWIC,Case Management,1000,Not reported,2.5,Not reported,01/07/2000 0:00,01/06/2024 0:00,Yes,No,Department of Justice and Attorney-General,Queensland Wide Interlinked Courts,Not reported
+DJAG,Renewable and Photographic Licensing (RAPS),"Authorities, Licences, Permits and Awards",15,Not reported,0.35,Not reported,20/05/2008 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,RAPS,Not reported
+DJAG,QTP; Financial Mgmt,Financial Management,2,Not reported,Not reported,Not reported,01/01/1990 0:00,01/06/2015 0:00,No,No,SAP,R/3,Not reported
+DJAG,QTP; Human Resources Mgmt/Payroll,Human Capital Management,4,Not reported,Not reported,Not reported,01/01/1990 0:00,30/06/2015 0:00,No,No,SAP,ERP,Not reported
+DJAG,FYP; Human Resources Mgmt/Payroll,Payroll,4,Not reported,Not reported,Not reported,01/01/1990 0:00,01/06/2018 0:00,No,No,SAP,ERP,Not reported
+DJAG,CBP; Business Warehouse,Information Provision,750,Not reported,0.1,0,01/01/2000 0:00,01/06/2018 0:00,No,No,SAP,ECC,Not reported
+DJAG,CEP; Financial Mgmt,Sourcing and Procurement,750,Not reported,0.05,0.07,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,ECC,Not reported
+DJAG,Resolve (Complaints),Event Management,4744,10,0,0,01/02/2007 0:00,30/06/2016 0:00,Yes,No,Resolve Pty Ltd,Resolve,120000
+DJAG,Standard HR Offering Service Lattice v3.1,Employee Administration,180,105,0,0,07/01/1995 0:00,06/01/2019 0:00,Yes,No,Talent2,Lattice,79205000
+DJAG,Wise.NET - [IS],Accreditation,10,0,0,0,01/06/2002 0:00,01/01/2015 0:00,No,No,Wisenet,Wisenet,0
+DJAG,PTAS,Inventory Management,278,0,0.2,0,01/01/2011 0:00,01/01/2021 0:00,Yes,No,Inhouse,Inhouse,1052660
+DJAG,Advance2Work - [IS],Computer Based Training,30,0,0.1,0,01/01/2006 0:00,01/08/2014 0:00,Yes,No,Custom,Custom,261888
+DJAG,Integrated Offender Management System,Event Management,4744,0,6.87,0,15/08/2005 0:00,1/10/2019 0:00,Yes,No,QCS,QCS,13854973
+DJAG,Knowledge Place - [IS],Knowledge Management,4744,90,0.2,0,01/01/2005 0:00,01/06/2015 0:00,Yes,No,QCS,Custom,1728458
+DJAG,Microster,Rostering,80,50,0,0,06/01/1998 0:00,01/01/2018 0:00,No,No,Microster Pty Ltd,Microster,511000
+DJAG,QCS Portal,Knowledge Management,4744,0,0.54,0,03/01/2002 0:00,30/06/2020 0:00,Yes,No,QCS,Custom,0
+DJAG,Quality Centre - [IS],Risk and Issue Management,8,8,0,0,01/02/2008 0:00,01/01/2017 0:00,Yes,No,HP,Product,60758
+DJAG,VDO Vehicle Tracking - [IS],Event Management,5,0,0,0,01/02/2001 0:00,01/02/2020 0:00,No,No,Fleet manager,SGESCO,52378
+DJAG,RecFind 6.0 (QCS) - [IS],Document and Records Management,1000,89,0,0,1/11/2012 0:00,01/01/2017 0:00,Yes,No,Knowledgeone,Knowledgeone,122563
+DJAG,GPS Offender Monitoring,Case Management,104,20,0,0,28/09/2011 0:00,28/09/2015 0:00,Yes,No,3M Track and Trace Solutions,Supply of GPS based offender monitoring technology,2230004
+DJAG,AuthorIT - [IS],Computer Based Training,2,4,0,0,01/01/2005 0:00,21/09/2015 0:00,No,No,Author-it Software Corporation,Author-IT,6369
+DJAG,InfoAware2 - [IS],Computer Based Training,4744,1,0,0,01/09/2007 0:00,01/01/2025 0:00,No,No,Safecoms,Infoaware,26189
+DJAG,QCS iBase,Event Management,16,16,0.03,0,01/01/2013 0:00,01/06/2015 0:00,No,No,Visual Analysis,i2 ibase,531440
+DJAG,ROADS - [IS],Computer Based Training,25,0,0.03,0,01/07/2013 0:00,01/07/2018 0:00,Yes,No,Custom,Custom,419020
+DJAG,OPAS - [IS],Information Submission,1,0,0,0,01/01/2007 0:00,1/12/2016 0:00,Yes,No,QCS,OPAS,31427
+DJAG,DCS Financials (QCS) - [IS],Information Provision,1315,0,0,0,01/01/2001 0:00,01/06/2015 0:00,Yes,No,QCS,DCS Financials,261888
+DJAG,Keys (QCS),Information Provision,20,8,0,0,01/01/2014 0:00,01/06/2015 0:00,Yes,No,Macksam Consultancy Pty Ltd / QCS,Keys Budgeting System,20951
+DJAG,DMS,Information Provision,3,Not reported,Not reported,Not reported,29/01/2015 0:00,30/06/2030 0:00,No,No,Internal,DMS,30000
+DJAG,BRS,Registrations and Inspections,100000,Not reported,Not reported,Not reported,04/02/2015 0:00,30/06/2030 0:00,No,No,KE Software,qldBirthsClient,80000
+DJAG,Orders,Sales,100000,Not reported,Not reported,Not reported,09/07/2014 0:00,30/06/2030 0:00,No,No,Internal,Orders,10000
+DJAG,QFleet client access (CAS),Fleet Management,84,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,CAS,0
+DJAG,Fleetscape,Fleet Management,7,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,Fleetscape,0
+DJAG,Betasphere,Fleet Management,94,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,Betasphere,0
+DJAG,Utilisation Management System (UMS),Fleet Management,Not reported,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,UMS,0
+DJAG,Caltex - My Star Cards,Fleet Management,6,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,MyStarcards,0
+DJAG,BP Plus,Fleet Management,6,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,BP Plus,0
+DJAG,Shell fuel cards,Fleet Management,4,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,Shell Cards Online,0
+DJAG,goVia,Fleet Management,5,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,goVia,0
+DJAG,SGS ID cards,Employee Administration,3,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,SGS ID Cards,0
+DJAG,IPG Connect 2,Employee Administration,137,Not reported,Not reported,Not reported,01/07/1995 0:00,30/06/2030 0:00,No,No,unknown,IPG Connect 2,0
+DJAG,MYOB,Inventory Management,130,45,Not reported,Not reported,01/07/2014 0:00,30/06/2030 0:00,No,No,MYOB,MYOB,0
+DJAG,Funeral Benefits Trust Fund,Payments,11,Not reported,Not reported,Not reported,01/01/1999 0:00,01/07/2016 0:00,Yes,No,Microsoft,MS Excel,100000
+DJAG,Legal Action Register (LAR),Infringement Management,15,Not reported,Not reported,Not reported,01/01/1999 0:00,01/07/2016 0:00,Yes,No,Microsoft,MS Excel,90000
+DJAG,Jigsaw - Office of the Adult Guardian,Case Management,180,180,Not reported,Not reported,01/06/2009 0:00,30/06/2020 0:00,Yes,No,Microsoft,Dynamics CRM,1000000
+DJAG,ServiceNow,Customer Support,4744,25,0.01,0,01/03/2015 0:00,28/02/2016 0:00,Yes,No,ServiceNow,ServiceNow,120000
+DJAG,BORIS,Case Management,4744,5000,0.02,0,01/07/2014 0:00,19/10/2020 0:00,Yes,No,Argus Global,BORIS,1070559
+DJAG,CMEDocs,Constituent Services,Not reported,Not reported,Not reported,Not reported,01/04/2006 0:00,30/06/2016 0:00,Yes,No,Digicon,Content management system,Not reported
+DJAG,Digitisation Console,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,Eris,Information Submission,15,0,Not reported,Not reported,01/07/2014 0:00,30/06/2030 0:00,Yes,No,Not reported,Not reported,30000
+DJAG,Fines Online,Payments,2,Not reported,Not reported,Not reported,01/07/2010 0:00,30/06/2030 0:00,No,No,Not reported,Fines Online,Not reported
+DJAG,Qtender,Sourcing and Procurement,8,Not reported,Not reported,Not reported,01/09/2009 0:00,30/06/2030 0:00,No,No,HPW,Qtender,Not reported
+DJAG,Tridata,Financial Management,3,Not reported,Not reported,Not reported,30/06/2008 0:00,30/06/2030 0:00,No,No,Treasury,Tridata,Not reported
+DJAG,WEA,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,WEA BSSU,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,TLVs BEIs,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,ACGIH,TLVs and BEIs,Not reported
+DJAG,ANZAC Day Trust,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,BCCM External Decisions,Case Management,10,Not reported,Not reported,Not reported,01/07/2007 0:00,30/06/2020 0:00,Yes,No,Microsoft,Access,Not reported
+DJAG,Enforceable Undertakings,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,ESJ Tracking,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,ESU,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+DJAG,Finance Payroll,Financial Management,10,Not reported,Not reported,Not reported,20/06/2008 0:00,01/07/2020 0:00,Yes,No,Microsoft,MS Access,30000
+DJAG,Incident Trends,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Yes,No,Microsoft,MS Access,Not reported
+DJAG,Liquor Accords,Partner Relationship Management,15,Not reported,Not reported,Not reported,01/07/2009 0:00,01/07/2020 0:00,Yes,No,Microsoft,MS Access,25000
+DJAG,PAMPD,Financial Management,2,Not reported,Not reported,Not reported,01/07/2010 0:00,30/06/2030 0:00,Yes,No,OFT,MS Access,Not reported
+DJAG,Qprime,Investigations Management,5,Not reported,Not reported,Not reported,01/02/2012 0:00,30/06/2016 0:00,Yes,No,Microsoft,MS Access,250000
+DJAG,Commbank DishonourChq,Receipting,2,Not reported,Not reported,Not reported,01/07/2013 0:00,30/06/2030 0:00,Yes,No,OFT,MS Access,Not reported
+DJAG,ACLink,"Authorities, Licences, Permits and Awards",20,Not reported,Not reported,Not reported,01/07/2010 0:00,30/06/2030 0:00,No,No,ACCC,ACLink,Not reported
+DJAG,ASIC NNI Portal,"Authorities, Licences, Permits and Awards",50,Not reported,Not reported,Not reported,01/07/2010 0:00,30/06/2030 0:00,No,No,ASIC,ASIC Portal,Not reported
+DJAG,ASIC Search Registry,"Authorities, Licences, Permits and Awards",50,Not reported,Not reported,Not reported,01/07/2010 0:00,30/06/2030 0:00,No,No,ASIC,ASIC Search Registry,Not reported
+DJAG,ECC Portal,Financial Management,40,Not reported,Not reported,Not reported,01/09/2009 0:00,30/06/2030 0:00,No,No,SAP,SAP ECC,Not reported
+DJAG,Infodynamics,Constituent Services,3,Not reported,0,0,01/07/1995 0:00,30/06/2030 0:00,No,No,Metering Dynamics,InfoDynamics,0
+DJAG,Trello,Risk and Issue Management,10,Not reported,Not reported,Not reported,01/01/2014 0:00,30/06/2030 0:00,No,No,Trello Inc,Trello,Not reported
+DJAG,Contract Lifecycle System - QContracts,Contract Management,Not reported,Not reported,Not reported,Not reported,1/12/2014 0:00,30/06/2030 0:00,No,No,Not reported,Not reported,Not reported
+DJAG,Mastercard SDG2 (Corporate Card reconciliation),Financial Management,450,Not reported,Not reported,Not reported,20/06/2008 0:00,30/06/2030 0:00,No,No,Not reported,Not reported,Not reported
+DJAG,TCIS,Constituent Services,4,Not reported,Not reported,Not reported,1/11/2012 0:00,30/06/2030 0:00,No,No,Not reported,Web Based,Not reported
+DJAG,Old QCS Database,Constituent Services,1,Not reported,Not reported,Not reported,5/11/2013 0:00,30/06/2030 0:00,Yes,No,Dept. Community Safety,Old QCS Database,Not reported
+DJAG,Web CC - JPs Branch,Customer Service,18,18,Not reported,Not reported,01/07/2007 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,Web CC - OPG,Customer Support,5,Not reported,Not reported,Not reported,01/07/2013 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,Web CC - QCAT,Customer Support,7,7,Not reported,Not reported,1/12/2009 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,Not reported
+DJAG,District Court Calendars,Scheduling and Bookings,300,Not reported,0,0,01/07/1995 0:00,01/06/2024 0:00,Yes,No,In-House,Not reported,Not reported
+DJAG,Judicial Allowances / Judicial Entitlements,Constituent Services,5,Not reported,0,0,01/07/1995 0:00,01/06/2024 0:00,Yes,No,In-House,Not reported,Not reported
+DJAG,Supreme Court Calendars,Financial Management,300,Not reported,0,0,01/07/1995 0:00,01/06/2024 0:00,Yes,No,In-House,Not reported,Not reported
+DJAG,Web CC - VAQ,"Call Centre, Help Desk",6,10,Not reported,Not reported,01/07/2011 0:00,30/06/2021 0:00,No,No,Telstra,WebCC,0
+DJAG,YJ LG Database 2014,Financial Management,10,Not reported,Not reported,Not reported,20/06/2008 0:00,01/07/2020 0:00,No,No,Not reported,Not reported,30000
+DJAG,Conferencing Reporting Information System - YJ (CRIS-YJ),Case Management,50,Not reported,Not reported,Not reported,21/05/2012 0:00,21/05/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,Shift Worker Employee Allowance Payments [SWEAP],Financial Management,14,Not reported,Not reported,Not reported,31/12/1989 0:00,31/10/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",0
+DJAG,Critical Incident Reporting Management System,Constituent Services,60,Not reported,Not reported,Not reported,1/12/2008 0:00,Not reported,No,No,Infoxchange Australia,Service Record System (SRS),Not reported
+DJAG,Suicide Risk Information Database,Constituent Services,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",Not reported
+DJAG,Service Record System (SRS),Constituent Services,Not reported,Not reported,Not reported,Not reported,20/05/2013 0:00,Not reported,Yes,No,"Department of Communities, Child Safety and Disability Services","Department of Communities, Child Safety and Disability Services",Not reported
+DJAG,SPER Amnestyá,Constituent Services,150,Not reported,Not reported,Not reported,01/01/2000 0:00,Not reported,Yes,No,Microsoft,Not reported,Not reported
+DJAG,SpringBoard,Recruitment,20,Not reported,Not reported,Not reported,06/01/2007 0:00,12/01/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,Not reported
+DJAG,Committals Information System,Case Management,250,1,0.05,0.07,01/07/2004 0:00,30/06/2019 0:00,Yes,No,In House Developed,Committals Information System,0
+DJAG,Complete Legal Office System (CLO),Time and Attendance,5,120,0.01,Not reported,01/07/1995 0:00,1/10/2017 0:00,Yes,No,Custom First,CLO6,0
+DJAG,Compliance and Investigation System (CIS),Case Management,350,Not reported,0.3,0.11,01/09/2008 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,Oracle Forms Developer,1
+DJAG,PRS Case Management (PRS),Case Management,20,1,0.1,Not reported,30/06/2000 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,ODPP Case Management System,3994665
+DJAG,Electrical Licensing System (ELS),"Authorities, Licences, Permits and Awards",35,Not reported,0.45,0.03,24/02/2002 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,ELI,750000
+DJAG,Evolve - DJAG,Computer Based Training,5588,6500,1.57,3,01/03/2006 0:00,01/06/2020 0:00,No,No,DOTS Talent Solutions,DOTS Learning Management,Not reported
+DJAG,HP ServiceCenter,Computer Based Training,90,45,0.07,Not reported,01/06/2007 0:00,31/08/2021 0:00,No,No,HP,Service Centre,Not reported
+DJAG,Queensland Juries Administration System (QJAS),Client Account Management,250,Not reported,0.15,Not reported,01/07/1995 0:00,30/06/2015 0:00,Yes,No,Department of Justice and Attorney-General,Jury System,1300000
+DJAG,Law Codes,Information Provision,800,Not reported,Not reported,Not reported,01/07/1995 0:00,31/08/2019 0:00,Yes,No,Department of Justice and Attorney-General,Classic ASP 3.0,Not reported
+DJAG,Library Management System,Library Management,4278,10,0.06,Not reported,1/11/2006 0:00,1/11/2018 0:00,Yes,No,First Software,Optimus Prime,150000
+DJAG,Magistrates Register,Registrations and Inspections,24,Not reported,Not reported,Not reported,01/02/2006 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,.NET Framework,Not reported
+DJAG,Online Receipting (OLR),Client Account Management,500,Not reported,0.3,Not reported,05/08/2002 0:00,30/06/2021 0:00,Yes,No,Department of Justice and Attorney-General,OLR,0
+DJAG,Plant Registration (PLANT),"Authorities, Licences, Permits and Awards",584,Not reported,0.6,Not reported,01/07/2002 0:00,30/06/2020 0:00,Yes,No,Department of Justice and Attorney-General,PLANT,0
+DJAG,Training Education Certification System (TECS),"Authorities, Licences, Permits and Awards",124,Not reported,0.2,Not reported,23/08/2008 0:00,30/06/2018 0:00,Yes,No,Department of Justice and Attorney-General,TECS,0
+DJAG,Vitalware,"Authorities, Licences, Permits and Awards",150,150,1.3,1,30/06/2003 0:00,30/06/2021 0:00,Yes,No,KE Software,Vitalware,3000000
+DJAG,Coroners Case Management System - Training,Computer Based Training,20,Not reported,Not reported,Not reported,01/07/2011 0:00,30/06/2022 0:00,Yes,No,Department of Justice and Attorney-General,.Net Framework (WPF),Not reported
+DJAG,Caseworks (Land Court),Case Management,15,20,0.15,Not reported,01/07/2011 0:00,30/06/2019 0:00,Yes,No,Reprise Consulting,Caseworks,230000
+DJAG,Human Resource Business Solution (Aurion ESS),Case Management,4278,Not reported,0,Not reported,01/07/2009 0:00,30/06/2021 0:00,No,No,Aurion,Human Resources Business Solution,0
+DJAG,Maximizer - DJAG,Event Management,3,6,0.01,Not reported,01/07/1995 0:00,30/06/2018 0:00,No,No,Maximizer Software,Maximizer,4000
+DNRM,Land Accounting Information System,Receipting,33,33,1.2,0.3,1/12/1991 0:00,1/12/2020 0:00,Yes,No,EHP,LAIS,500000
+DNRM,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,0.8,0.2,01/07/2002 0:00,1/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+DNRM,Qld Native Title Information Management Environment (QNTIME),Information Provision,1450,1450,3.3,0,1/11/2004 0:00,01/07/2018 0:00,Yes,No,DNRM,QNTIME,1000000
+DNRM,"QAMF (Nucleus, Proploc)",Information Submission,3000,3000,0.2,0,05/09/2011 0:00,1/12/2018 0:00,Yes,No,DNRM,Java Enterprise Edition,400000
+DNRM,Computer Inventory of Survey Plans,Information Submission,3200,3200,0.17,0.13,01/06/1988 0:00,01/07/2018 0:00,Yes,No,DNRM,CISP,3500000
+DNRM,Aerial Photography Database,Information Provision,3200,3200,1.5,0,01/04/2000 0:00,1/12/2018 0:00,Yes,No,DNRM,APDB,900000
+DNRM,Aquatic Ecosystem Information System,Information Submission,40,40,1,0,01/04/2000 0:00,1/12/2018 0:00,Yes,No,DNRM,AQEIS,2000000
+DNRM,Automated Titles System,Registrations and Inspections,1260,1260,3.5,8,01/01/1992 0:00,1/12/2030 0:00,Yes,No,DNRM,ATS,40000000
+DNRM,Compliance Information Register and Management System,Case Management,500,500,0.5,0,1/11/2003 0:00,01/06/2020 0:00,No,No,Bay Technologies,CIRAM Investigation Management System,1000000
+DNRM,Digital Cadastral Database,Information Submission,3200,3200,0.25,0.19,01/01/1997 0:00,01/07/2018 0:00,Yes,No,DNRM,DCDB,10000000
+DNRM,Electronic Land and Vegetation Administration System (Elvas),"Authorities, Licences, Permits and Awards",708,708,9.3,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,eLVAS,12000000
+DNRM,Government Land Register,Information Provision,330,330,4.2,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,GLR,1000000
+DNRM,Groundwater Database,Information Provision,260,260,0,0,1/12/1998 0:00,1/12/2017 0:00,Yes,No,DNRM,GWDB,1000000
+DNRM,Land Asset Management System,Information Provision,68,68,4.2,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,LAMS,1000000
+DNRM,Land Information Management Environment,Information Provision,50,50,1.7,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,LIME,800000
+DNRM,Land Management and Use - Data Warehouse,Information Provision,154,3,4.8,0,01/01/2000 0:00,01/07/2018 0:00,No,No,ThermoFisher Scientific,LMUDW,350000
+DNRM,Land Tenure Ledger,Information Provision,236,1,10.3,0,01/01/2000 0:00,1/12/2020 0:00,Yes,No,DNRM,LTL,7800000
+DNRM,Management Information System,Time and Attendance,3931,1,4.6,0,01/01/2000 0:00,1/12/2020 0:00,No,No,DNRM,MIS,1500000
+DNRM,Notings Database,Information Submission,3200,3200,1.5,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,Notings,400000
+DNRM,Property Location Service,Information Provision,6000,6000,2.4,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,PNDB,200000
+DNRM,Place Names Database,Information Submission,3200,3200,1.3,0,01/01/2000 0:00,01/07/2018 0:00,Yes,No,DNRM,PNDB,500000
+DNRM,Qld Spatial Catalogue,Document and Records Management,0,0,0,0,01/01/2000 0:00,01/07/2018 0:00,No,No,In House Developed,QIC,90000
+DNRM,QVAS Gateway Systems,Case Management,527,527,11.8,2.1,01/01/2000 0:00,1/12/2020 0:00,No,No,DNRM,QVAS Gateway,62000000
+DNRM,Survey Control Database,Document and Records Management,3200,3200,1.2,0,01/01/2000 0:00,01/09/2014 0:00,Yes,No,In House Developed,SCDB,500000
+DNRM,eSurvey,Document and Records Management,50,50,4.2,1,01/01/2000 0:00,01/06/2014 0:00,Yes,No,DNRM,SIP,2000000
+DNRM,Spatial Information Resource Presentation,Information Provision,1200,1200,7.8,0,01/01/2000 0:00,1/12/2020 0:00,No,No,DNRM,SIR,2800000
+DNRM,Historical Mines System,Information Provision,50,50,0.6,0.1,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,Historical Mines System,70000
+DNRM,SmartMap Information Service,Information Provision,3000,0,2.2,0,01/07/2003 0:00,01/08/2015 0:00,Yes,No,In House Developed,SMIS,1450000
+DNRM,Survey points and Marks Database,Information Submission,50,50,2.1,0,01/01/2000 0:00,1/12/2014 0:00,Yes,No,DNRM,SPDB,1000000
+DNRM,ORAApps,Information Provision,350,350,0.4,0,01/01/2000 0:00,1/12/2015 0:00,Yes,No,In House Developed,SPIN,500000
+DNRM,SunPOZ,Information Submission,20,20,1.5,0,01/01/2000 0:00,1/12/2020 0:00,No,No,Trimble,VRS 3Net,850000
+DNRM,Vegetation Clearing House,Information Provision,20,20,0.1,0,01/01/2000 0:00,1/12/2018 0:00,Yes,No,DNRM,VCH,50000
+DNRM,Water Monitoring Information System,Information Submission,900,900,2,0,1/12/1990 0:00,1/12/2020 0:00,No,No,Kisters,Hydstra/Kisters,10000000
+DNRM,Land and Spatial Support System,Information Provision,50,50,0,Not reported,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,Land and Spatial Support System,80000
+DNRM,Enhanced Customer Services,Case Management,50,50,0,Not reported,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,Enhanced Customer Services,120000
+DNRM,Water Entitlements Registration Database,"Authorities, Licences, Permits and Awards",120,120,0.5,0.5,1/12/1998 0:00,1/12/2015 0:00,Yes,No,DNRM,WERD,0
+DNRM,Water Management System,"Authorities, Licences, Permits and Awards",250,250,13.6,4,1/12/2009 0:00,1/12/2015 0:00,Yes,No,DNRM,WMS,6000000
+DNRM,Information Queensland Atlas (including IQ Skins),Information Provision,10000,10000,0.25,Not reported,01/07/2012 0:00,01/01/2025 0:00,Yes,No,In House Developed,ESRI,100000
+DNRM,Bore Location System,Information Provision,100,100,0.25,0,1/12/1998 0:00,1/12/2015 0:00,Yes,No,DNRM,BLS,200000
+DNRM,Groundwater Plotting System,Information Provision,100,100,0,0,1/12/1998 0:00,1/12/2017 0:00,Yes,No,DNRM,Groundwater_Plotting,25000
+DNRM,1Contact,Employee Administration,1000,1000,0.4,0.1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+DNRM,Lotus Notes (Safety and Health),"Authorities, Licences, Permits and Awards",145,145,10,2,01/01/2000 0:00,1/12/2018 0:00,Yes,No,DNRM,"Lotus Notes Domino, Solaris",900000
+DNRM,MinesOnline,"Authorities, Licences, Permits and Awards",5000,5000,1.6,0,01/07/2010 0:00,01/07/2018 0:00,Yes,No,DNRM,MinesOnline,400000
+DNRM,HSU - Coal Mine Workers Health Database,Information Provision,50,50,0.38,0.08,01/01/2000 0:00,01/01/2017 0:00,Yes,No,DNRM,HSU - COAL MINE WORKERS HEALTH DATABASE,100000
+DNRM,Mines Incident Reporting System,Investigations Management,50,50,0.5,Not reported,01/01/2000 0:00,01/01/2015 0:00,Yes,No,DNRM,Custom,50000
+DNRM,MyMinesOnline,"Authorities, Licences, Permits and Awards",5000,5000,35,0,1/11/2011 0:00,01/01/2026 0:00,Yes,No,DNRM,MyMinesOnline,8000000
+DNRM,Queensland Digital Exploration Reports System,Information Submission,5200,5200,0.47,0.25,01/07/2002 0:00,1/12/2018 0:00,Yes,No,DNRM,"Vignette IDM, Apache Tomcat, Oracle, Solaris",2500000
+DNRM,Shield,Financial Management,8,8,0.1,0.1,16/09/2008 0:00,01/01/2020 0:00,Yes,No,Custom MS Access Implementation,Custom,200000
+DNRM,WorkWise,Costing,85,85,1,0,01/01/2000 0:00,1/12/2018 0:00,Yes,No,Jelly Tech,Workwise,550000
+DNRM,Petroleum and Gas Operations,Financial Management,8,8,1,Not reported,30/09/2010 0:00,30/09/2018 0:00,Yes,No,DNRM,Access,200000
+DNRM,Queensland Globe,Information Provision,5000,5000,1.4,0,03/04/2013 0:00,03/04/2018 0:00,No,No,Google,Google Earth Pro,150000
+DNRM,MERLIN,"Authorities, Licences, Permits and Awards",620,620,6.3,1,01/01/1989 0:00,01/07/2018 0:00,Yes,No,DNRM,Merlin,5000000
+DNRM,Mines Online Maps (MOM),Information Submission,5000,5000,7.6,0,01/03/2014 0:00,1/12/2020 0:00,Yes,No,Latitude Geographics,Geocortex; ArcGIS Server,0
+DNRM,QTopo,Information Provision,5000,5000,0.2,0,01/03/2014 0:00,1/12/2018 0:00,No,No,DNRM,QTopo,0
+DNRM,LISystems,Information Provision,50,50,0.5,0.1,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,LISystems,52803
+DNRM,Queensland Digital Exploration Data,Information Provision,5000,5000,0.7,1,01/06/2014 0:00,1/12/2020 0:00,Yes,No,Geosoft,Geosoft DAP Server; Flamingo,300000
+DNRM,SLSM Business Unit,Information Provision,50,50,0.3,0.06,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,SLSM Business Unit,30000
+DNRM,OGIA Business Unit,"Authorities, Licences, Permits and Awards",50,50,0.1,0.02,01/03/2014 0:00,1/12/2018 0:00,Yes,No,DNRM,OGIA Business Unit,60000
+DNRM,Web Services - DNRM,"Authorities, Licences, Permits and Awards",9999,9999,0.8,0.2,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,200000
+DNRM,eGiftRegister,Client Account Management,50,50,Not reported,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eGift Register,0
+DNRM,CSP; Financial Mgmt,Financial Management,50,50,Not reported,0,01/01/1990 0:00,31/12/2018 0:00,No,No,SAP,R/3,0
+DNRM,CSP; Human Resource Management/ Payroll,Payroll,50,50,Not reported,0,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+DNRM,Employee Self Service,Employee Administration,1000,1000,Not reported,0,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+DNRM,Financial Reporter,Financial Management,50,50,Not reported,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+DNRM,HRM Reporter,Employee Administration,50,50,Not reported,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+DNRM,HRMS Payroll Archive,Payroll,50,50,Not reported,0,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+DNRM,SpringBoard,Recruitment,1000,1000,Not reported,Not reported,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+DNRM,InfoView BAM,Costing,50,50,Not reported,0,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+DNRM,Web Technical Services - Infrastructure DNRM,Information Provision,5000,5000,0.8,0.2,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,0
+DNRM,HyLogger,Information Provision,50,50,1.7,0.3,01/03/2014 0:00,1/12/2018 0:00,No,No,DNRM,HyLogger,150000
+DNRM,EDOCS - DNRM,Document and Records Management,1100,1100,0.8,0.2,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+DPC,Client Management System,Policy,10,10,0.25,0.1,01/07/2008 0:00,30/06/2013 0:00,Yes,No,DPC,Client Management System,7800
+DPC,SDG2 Mastercard,Information Submission,10,10,0.1,0.1,01/07/2005 0:00,30/06/2017 0:00,No,No,DPC,Internet and associated sites,0
+DPC,CRM on-line,Client Account Management,40,20,0.1,0.1,01/06/2011 0:00,01/06/2016 0:00,Yes,No,Microsoft,Dynamic CRM online,200000
+DPC,Workforce Analysis and Collection Application (WACA),Workforce Analytics,500,500,0.1,0.1,01/06/2004 0:00,31/12/2015 0:00,Yes,No,AEC Group,AEC Group,500000
+DPC,Performance Information Management System,Performance Management,30,30,0.25,0.1,1/12/2014 0:00,1/12/2021 0:00,Yes,No,Microsoft,Microsoft CRM,0
+DPC,OQPC Legislative Drafting and Publishing System,Information Submission,65,80,1,0.1,01/07/1992 0:00,30/06/2012 0:00,Yes,No,Adobe,FrameMaker,3200000
+DPC,FLP on GovNet,Information Provision,60,1,0.1,0.1,01/07/2000 0:00,30/06/2015 0:00,Yes,No,DPC,Internet and associated sites,12000
+DPC,Queensland Legislation Website,Information Provision,120000,1,0.1,0,07/01/1992 0:00,30/06/2015 0:00,Yes,No,DPC,Internet and associated sites,200000
+DPC,Franchise Internet Site,Information Provision,25,25,0,0.1,01/07/2005 0:00,30/06/2013 0:00,Yes,No,DPC,Internet and associated sites,10000
+DPC,DPC Intranet,Information Provision,750,750,0.25,0.1,01/07/2012 0:00,30/06/2017 0:00,Yes,No,Microsoft,Sharepoint,200000
+DPC,Windward,Merchandising and Retailing,10,4,0,0,01/07/2000 0:00,01/07/2013 0:00,No,No,DPC,Gifts Register,10000
+DPC,GovNet,Information Provision,700,700,0,0.1,01/07/2000 0:00,30/06/2015 0:00,No,No,DPW,Internet and associated sites,0
+DPC,ACE; Human Resources Mgmt/Payroll,Payroll,557,Not reported,0,0,05/01/1999 0:00,01/06/2016 0:00,No,No,Aurion,Aurion,0
+DPC,CBP; Business Warehouse,Information Provision,557,Not reported,0,0,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,ECC,0
+DPC,CEP; Financial Mgmt,Sourcing and Procurement,557,Not reported,0,0,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,ECC,0
+DPC,Aurion ESS,Employee Administration,400,Not reported,0,0,01/01/2011 0:00,07/01/2020 0:00,No,No,Aurion,Aurion ESS,0
+DPC,Aurion ESS,Employee Administration,70,Not reported,3,0,01/01/2000 0:00,01/07/2020 0:00,No,No,Aurion,Aurion ESS,1000000
+DPC,Events Perfect,Event Management,5,Not reported,0,Not reported,01/01/2001 0:00,07/01/2018 0:00,No,No,Priava,Events Perfect,0
+DPC,Website - AQ Internet,Information Provision,4700000,Not reported,Not reported,Not reported,01/01/2006 0:00,07/01/2017 0:00,No,No,MelbourneIT,AQ Internet Site,0
+DPC,Website - CAA Internet,Information Provision,4700000,Not reported,Not reported,Not reported,01/01/2003 0:00,01/07/2018 0:00,No,No,MelbourneIT,CAA Internet Site,3000
+DPC,IRS,Customer Service and Support,20,Not reported,0,Not reported,01/01/1999 0:00,06/01/2015 0:00,Yes,No,Microsoft,Access,0
+DPC,JEMS,Human Capital Management,10,Not reported,0,Not reported,01/06/1999 0:00,01/07/2018 0:00,Yes,No,Microsoft,Access,0
+DPC,LED Signs,Scheduling and Bookings,5,Not reported,0,Not reported,06/01/2003 0:00,07/01/2018 0:00,No,No,LED-Signs,LED-Signs,0
+DPC,Medici,"Subsidies, Grants, Benefits and Assistance",24,Not reported,1,Not reported,12/01/2006 0:00,30/12/2016 0:00,Yes,No,NewBase,Medici,0
+DPC,Online Forms,"Subsidies, Grants, Benefits and Assistance",630,Not reported,1,Not reported,01/03/2014 0:00,30/12/2016 0:00,No,No,GoHosting/Formidable Forms,AQ Online Forms,800
+DPC,Pinnacle,Maintenance Management,11,Not reported,0.5,Not reported,01/01/2002 0:00,07/01/2018 0:00,No,No,Pinnacle,Pinnacle,0
+DPC,SpringBoard,Recruitment,557,Not reported,0,0,06/01/2007 0:00,12/01/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+DPC,ReadyDesk,"Call Centre, Help Desk",24,Not reported,0.1,Not reported,01/06/2011 0:00,31/12/2015 0:00,No,No,ReadyDesk,ReadyDesk,8000
+DPC,Report Central,Information Provision,500,Not reported,0.1,Not reported,01/03/2011 0:00,01/07/2018 0:00,Yes,No,Microsoft,SQL Server Reporting Services,15000
+DPC,ScanNeT,Scheduling and Bookings,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,07/01/2018 0:00,No,No,Access Control Systems. Federal APD (Now part of 3M),ScanNet Central Management System,0
+DPC,TechnologyOne Facilities Management,Maintenance Management,Not reported,Not reported,Not reported,Not reported,01/01/2014 0:00,07/01/2020 0:00,No,No,TechnologyOne,Facilities Management,0
+DPC,TechnologyOne Financials,General Ledger,270,Not reported,4,Not reported,01/01/2000 0:00,01/07/2020 0:00,No,No,TechnologyOne,Financeials,1700000
+DPC,TechnologyOne Financials,General Ledger,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,07/01/2020 0:00,No,No,TechnologyOne,FinanceOne,0
+DPC,Traka Key Management,Inventory Management,5,Not reported,0,Not reported,01/01/2011 0:00,07/01/2018 0:00,No,No,TRAKA,TRAKA,0
+DPC,HPRM,Document and Records Management,70,Not reported,2,Not reported,01/04/2010 0:00,01/07/2020 0:00,No,No,HP,HP Records Manager,800000
+DPC,HPRM,Knowledge Management,Not reported,Not reported,Not reported,Not reported,04/01/2010 0:00,07/01/2020 0:00,No,No,HP,HP Records Manager,0
+DPC,TRIM Cabinet Information System,Document and Records Management,557,50,1,0.5,01/07/2013 0:00,30/06/2018 0:00,Yes,No,HP,HPRM,850000
+DPC,Queensland Register of Nominees,Human Capital Management,10,Not reported,0.1,0.1,30/06/2008 0:00,30/06/2015 0:00,Yes,No,DPC,QLD Register of Nominees (QRON),16890
+DPC,Supply Process Automator,Information Submission,48,48,0.1,0.1,01/07/2010 0:00,01/07/2014 0:00,Yes,No,DPC,Supply Process,30000
+DPC,Executive Council Minutes System,Document and Records Management,4,1,0,0.1,01/07/1994 0:00,30/06/2014 0:00,Yes,No,DPC,Executive Council Database,6525
+DPC,Vision 6 Vee Mail Database,Event Management,220,1,0,0,01/07/2008 0:00,01/07/2015 0:00,No,No,Vision 6,Vision 6,5600
+DPC,Joiners Leavers and Movers,Employee Administration,600,600,0.5,0.1,01/07/2005 0:00,30/06/2014 0:00,Yes,No,JLM Online,JLM Online,142000
+DPC,TRIM eDRMS (OQPC),Document and Records Management,65,65,1,0.1,01/07/2010 0:00,01/07/2014 0:00,Yes,No,HP,HP TRIM,120000
+DPC,Queensland Register of Appointees to Government Bodies,Portfolio Management,6,6,0.1,0.1,30/06/2007 0:00,30/06/2015 0:00,Yes,No,DPC,Queensland Register of Appointees to Government Bodies,13000
+DPC,DPC Extranet Portal & Static Sites,Information Provision,10000,Not reported,0.1,0.1,30/06/2000 0:00,30/06/2020 0:00,Yes,No,DPC,Extranet - Static Site,0
+DPC,DPC Internet site,Information Provision,6000,Not reported,0.25,0.1,01/07/2005 0:00,30/06/2016 0:00,Yes,No,DPC,Internet and associated sites,0
+DPC,DPC HP Records Manager (HPRM),Document and Records Management,660,660,1,0.1,01/04/2012 0:00,31/03/2017 0:00,Yes,No,HP,HPRM,850000
+DSITI,CIDM,Client Account Management,50000,0,0,0,1/11/2013 0:00,01/07/2018 0:00,Yes,No,CITEC,Customer Identity Management,4000000
+DSITI,URL Management System,"Product, Service Development and Marketing",4793622,0,0.5,0,12/12/2013 0:00,1/12/2019 0:00,Yes,No,Smart Service,URL Management System,160000
+DSITI,Funnelback,"Product, Service Development and Marketing",4793622,2,1,0,01/03/2008 0:00,1/11/2017 0:00,No,No,Funnelback,Funnelback,3250000
+DSITI,Form Submissions,"Product, Service Development and Marketing",4793622,0,0.5,0,12/09/2013 0:00,01/07/2018 0:00,Yes,No,Smart Service,Form Submissions,400000
+DSITI,TeamSite,"Product, Service Development and Marketing",20,1,0.25,0,10/01/2010 0:00,01/07/2017 0:00,No,No,Interwoven,Teamsite,400000
+DSITI,RADS,Receipting,20,0,0.5,0,28/10/2010 0:00,1/12/2016 0:00,Yes,No,OSSSIO,RADS,800000
+DSITI,Site Kiosk,Customer Service and Support,4793622,12,0.5,Not reported,24/11/2014 0:00,27/07/2016 0:00,No,No,Provisio Software Enginerring,Site Kiosk,4644
+DSITI,Google Analytics,Customer Service and Support,1,1,0,0,01/04/2015 0:00,30/04/2016 0:00,No,No,Google,Google Analytics,216367
+DSITI,Tableau,Modelling and Simulation,1,3,0,0,01/06/2013 0:00,01/07/2019 0:00,No,No,Tableau,Tableau,6396
+DSITI,QG Online Payment System,Receipting,4793622,0,0.5,0,01/01/2008 0:00,01/06/2020 0:00,Yes,No,Smart Service,Online Payment Application Services,2000000
+DSITI,Air Quality Database,Information Provision,12,88,0.1,0,01/01/2009 0:00,01/07/2019 0:00,Yes,No,DSITI,Air Quality Database,50000
+DSITI,Alloc8,Time and Attendance,60,60,0.05,0,06/01/2007 0:00,01/07/2019 0:00,No,No,Custom,Custom,20400
+DSITI,Archives One,Information Provision,450000,Not reported,1,0,01/01/2001 0:00,01/01/2020 0:00,No,No,Technology One,Archives One,1600000
+DSITI,Aurion,Organisational Development,300,1,0,0,01/05/2013 0:00,1/12/2015 0:00,No,No,Aurion,Aurion Enterprise HRIS & Payroll Software Solution,1000000
+DSITI,Aurion ACE,Skills Management,2552,2552,4,0,01/07/2012 0:00,31/03/2020 0:00,No,No,Aurion,Aurion ACE,4000000
+DSITI,Aurion ESS,Employee Administration,10,Not reported,0,0,01/01/2014 0:00,01/07/2018 0:00,No,No,Aurion,Aurion ESS,0
+DSITI,AussieGRASS,Information Provision,50,0,0.1,0,01/06/1995 0:00,1/12/2020 0:00,Yes,No,DSITI,Aussie Grass/GRASP,1000000
+DSITI,Basecamp,Knowledge Management,48,1,0.01,0,1/11/2013 0:00,30/06/2016 0:00,No,No,Basecamp,Basecamp,0
+DSITI,Chemwatch,Enterprise Asset Management,3,1,0.1,0,01/01/1990 0:00,1/12/2020 0:00,No,No,Chemwatch,Chemwatch,0
+DSITI,Coastal Data System,Information Provision,200,0,0.5,0,01/01/1992 0:00,1/12/2020 0:00,Yes,No,"Science Delivery, DSITI",Coastal Data System,200000
+DSITI,Confirm Applications,Sales,30000,0,5,0.2,01/01/2000 0:00,01/07/2019 0:00,Yes,No,CITEC,Confirm,10000000
+DSITI,Convene,"Executive, Management Information Systems",60,60,0.01,0,30/04/2015 0:00,30/04/2021 0:00,No,No,Azeus,Convene,0
+DSITI,Corveg,Information Provision,80,0,0.1,0,01/06/2008 0:00,01/01/2020 0:00,Yes,No,DSITI,Oracle,500000
+DSITI,CRM,Client Account Management,20,20,1,0,01/01/2012 0:00,01/07/2019 0:00,No,No,Microsoft,Dynamics CRM,50000
+DSITI,DCC,GENERIC SERVICE DELIVERY,3152,3152,1.5,0,01/01/1995 0:00,01/07/2019 0:00,No,No,Microsoft,Office,3377000
+DSITI,DCC,"Authorities, Licences, Permits and Awards",0,0,0,0,01/08/2013 0:00,01/07/2019 0:00,No,No,Microsoft,Office 365,0
+DSITI,DEW,Information Provision,200,0,0.1,0,01/08/1998 0:00,1/12/2015 0:00,Yes,No,Dialog,DEW,50000
+DSITI,Ecomaps,Information Provision,500,1,0.1,0,01/02/2002 0:00,30/06/2016 0:00,Yes,No,ESRI Australia,ArcIMS,300000
+DSITI,eCourts System,Sales,1000,1,0.25,1,01/07/2014 0:00,01/07/2019 0:00,Yes,No,InfoCentral Solutions,eCourts System,2000000
+DSITI,Enterprise GIS,Information Provision,200,2,0.1,0,01/07/2004 0:00,30/06/2016 0:00,Yes,No,ESRI Australia,"Oracle 
+ArcSDE",250000
+DSITI,Fieldglass,Contract Management,1,Not reported,0,0,01/01/2013 0:00,1/12/2016 0:00,No,No,Fieldglass,Fieldglass Vendor Management System (VMS),0
+DSITI,FinanceOne Archive,Financial Management,2,Not reported,0,0,01/01/2014 0:00,30/06/2015 0:00,No,No,TechnologyOne,TechnologyOne Financials,0
+DSITI,FORAGE,Information Provision,450,0,0.4,0,01/06/2009 0:00,01/01/2020 0:00,Yes,No,DSITI,Python,1100000
+DSITI,GAS,"Subsidies, Grants, Benefits and Assistance",15,0,0.1,0,01/06/1999 0:00,30/06/2016 0:00,Yes,No,DSITI,GAS,500000
+DSITI,GITC Access Database,Accreditation,3,3,0.1,0,01/01/2010 0:00,30/06/2016 0:00,Yes,No,Microsoft,Access,3000000
+DSITI,GITC CRM,Accreditation,2,6,0.1,0,01/01/2003 0:00,30/12/2015 0:00,Yes,No,Microsoft,Microsoft Business Solutions CRM,70000
+DSITI,GRASP,Information Provision,50,0,0.1,0,30/06/1980 0:00,01/01/2020 0:00,Yes,No,DSITI,GRASP,3600000
+DSITI,Herbrecs,Information Provision,80,0,0.1,0,01/06/1981 0:00,01/01/2020 0:00,Yes,No,Dialog,Herbrecs (Herbarium Records System) - an Oracle system,8000000
+DSITI,HRMS Payroll Archive,Payroll,Not reported,Not reported,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Unknown,HRMS Payroll Archive,0
+DSITI,Website - Chief Scientist,Information Submission,4793622,Not reported,0,0,01/01/2004 0:00,01/07/2018 0:00,No,No,"Open Source Matters, Inc.",Joomla,100000
+DSITI,Website - OpenData Portal,"Product, Service Development and Marketing",4793622,2,1.5,0,1/12/2012 0:00,20/01/2016 0:00,No,No,CKAN,OpenData portal,2000000
+DSITI,Website - ICT Directory,Event Management,2,1,0,0,1/12/2010 0:00,01/07/2018 0:00,Yes,No,"Department of Employment, Economic Development and Innovation",ICT Directory,1000
+DSITI,Website - Regrowth Benefits Mapping Tool,Information Provision,1000,1,0.4,0,1/10/2014 0:00,01/06/2020 0:00,Yes,No,ESRI Australia,Oracle,200000
+DSITI,Website - QG Publications,Library Management,4793622,2,0.5,0,15/01/2013 0:00,20/01/2016 0:00,No,No,CKAN,Publications portal,1000000
+DSITI,Website - QSA Internet,Information Provision,4793622,Not reported,0.15,0,03/09/2012 0:00,01/01/2020 0:00,No,No,Microsoft,Microsoft SharePoint Server 2007,35000
+DSITI,Website - Maps Online,Information Provision,5000,1,0.4,0,1/12/2003 0:00,01/06/2020 0:00,Yes,No,ESRI Australia,ArcGIS Server,500000
+DSITI,Website - Wetland Maps,Information Provision,8500,1,0.4,0,01/02/2008 0:00,01/06/2020 0:00,Yes,No,ESRI Australia,Oracle,200000
+DSITI,Eventbrite - Science,Information Provision,4793622,0,0,0,01/03/2014 0:00,31/12/2020 0:00,No,No,Eventbrite,Eventbrite,5000
+DSITI,Eventbrite - DEP,Event Management,6,0,0,0,01/02/2013 0:00,01/07/2019 0:00,No,No,Eventbrite,Eventbrite,1000
+DSITI,Website - GoDigitalQld,Event Management,3,1,0,0,1/11/2013 0:00,01/07/2019 0:00,Yes,No,Bang the Table,EngagementHQ,36500
+DSITI,Website - Long Paddock,Information Provision,61000,0,0.1,0,1/12/1995 0:00,01/01/2020 0:00,Yes,No,DSITI,Teamsite Content Management System version,2000000
+DSITI,Website - QGCIO,Information Submission,4793622,1,0.5,0,01/06/2012 0:00,01/06/2017 0:00,No,No,Jentla,Joomla,100000
+DSITI,Website - DSITI Internet,Information Provision,86700,0,0,0,01/03/2015 0:00,01/07/2019 0:00,Yes,No,HP,Interwoven Teamsite,10000000
+DSITI,Website - Queensland Science Capability Directory,Not reported,4793622,0,0.1,0,01/03/2014 0:00,31/12/2020 0:00,Yes,No,DSITI,Website - Queensland Science Capability Directory,50000
+DSITI,Slideshare - Digital Economy Queensland,Event Management,3,0,0,0,07/08/2012 0:00,01/07/2019 0:00,No,No,LinkedIn,Slideshare,1000
+DSITI,Team Up - DEP,Event Management,1,0,1,0,01/07/2012 0:00,01/07/2019 0:00,No,No,Team Up,Team Up,1000
+DSITI,Vision6 - DEP,Information Provision,6,1,0,0,10/06/2008 0:00,01/07/2019 0:00,No,No,Vision6,Vision6,1000
+DSITI,REDD,Information Provision,1000,0,0.1,0,01/01/1997 0:00,31/12/2020 0:00,Yes,No,Microsoft,Access,50000
+DSITI,Website - DSITI Intranet,Information Provision,2788,0,0,0,1/11/2013 0:00,01/07/2019 0:00,Yes,No,Joomla,Joomla Content Management System,5000000
+DSITI,Website - ICT Console,Information Provision,95,155,2,0.2,29/05/2014 0:00,28/05/2016 0:00,No,No,Tibco,Spotfire,250000
+DSITI,Twitter - Digital Queensland,"Product, Service Development and Marketing",4793622,0,0,0,27/03/2015 0:00,01/07/2019 0:00,No,No,Twitter inc,Twitter,0
+DSITI,Twitter - Digital Queensland,Information Provision,3,0,0,0,26/03/2015 0:00,01/07/2019 0:00,No,No,Twitter,Twitter,1000
+DSITI,Twitter - Open Data Queensland,"Product, Service Development and Marketing",4793622,0,0,0,12/08/2014 0:00,01/07/2019 0:00,No,No,Twitter inc,Twitter,0
+DSITI,Twitter - Queensland Science,"Product, Service Development and Marketing",4793622,0,0,0,7/12/2011 0:00,01/07/2019 0:00,No,No,Twitter inc,Twitter,0
+DSITI,Vimeo,"Product, Service Development and Marketing",25,0,0,0,01/01/2015 0:00,01/07/2019 0:00,No,No,Vimeo,Vimeo,0
+DSITI,Vine,"Product, Service Development and Marketing",25,0,0,0,01/01/2015 0:00,01/07/2019 0:00,No,No,Vine Labs Inc,Vine,0
+DSITI,Website - ICT Industry,Event Management,15,0,0,0,07/08/2012 0:00,01/07/2019 0:00,Yes,No,Business Industry Franchise,Government business website,1000
+DSITI,Facebook - Digital Queensland,Event Management,3,0,0,0,01/07/2012 0:00,01/07/2019 0:00,No,No,Facebook,Facebook,1000
+DSITI,Facebook - Open Data Queensland,Information Provision,4793622,0,0,0,12/08/2014 0:00,01/07/2019 0:00,No,No,Facebook Inc,Facebook,0
+DSITI,Facebook - Queensland Science,Information Provision,4793622,0,0,0,23/11/2011 0:00,01/07/2019 0:00,No,No,Facebook Inc,Facebook,0
+DSITI,Website - Get Involved,Customer Marketing,4793622,0,1,0,01/01/2011 0:00,30/06/2018 0:00,Yes,No,Kit Digital,Get Involved Website,500000
+DSITI,Website - QG,Sales,4793622,0,2.5,0,1/11/2011 0:00,30/06/2018 0:00,Yes,No,SSQ,Queensland Government Internet Site,668640
+DSITI,Website - ICT Dashboard QGCIO,Information Provision,5000,0,0.5,0,01/07/2013 0:00,30/06/2016 0:00,Yes,No,OSSSIO,ICT Dashboard,80000
+DSITI,Website - ICT Dashboard OSSSIO,Statistical Tools,4793622,0,0.1,0,1/11/2014 0:00,01/07/2019 0:00,Yes,No,OSSSIO,ICT Dashboard,160000
+DSITI,Survey Monkey - DEP,Information Submission,3,1,0,0,01/07/2012 0:00,01/07/2019 0:00,No,No,Survey Monkey,Survey Monkey,1000
+DSITI,YouTube - DigitalEconomyQld,Event Management,3,0,0,0,01/07/2012 0:00,01/07/2019 0:00,No,No,YouTube,YouTube,1000
+DSITI,YouTube - Queensland Science,Information Provision,4793622,0,0,0,8/12/2011 0:00,01/07/2019 0:00,No,No,Google,YouTube,0
+DSITI,InfoBase Financials,Sales,20,0,0.25,1,01/01/2012 0:00,01/07/2019 0:00,Yes,No,InfoCentral Solutions,InfoBase Financials,5000000
+DSITI,JIRA,Case Management,11,20,0.25,0,01/01/2012 0:00,01/07/2019 0:00,No,No,Atlassian,JIRA,0
+DSITI,LIMS,Laboratory Systems,40,16,0.1,0,01/01/2000 0:00,01/01/2020 0:00,Yes,No,ThermoFisher Scientific,Sample Manager,1500000
+DSITI,MECS,Document and Records Management,285,1,0.15,1,15/09/2014 0:00,01/07/2019 0:00,No,No,Bay Technologies Pty Ltd,Mincor,400000
+DSITI,MEDLI,Information Provision,300,300,0.4,0,01/05/1996 0:00,01/01/2020 0:00,Yes,No,DSITI,MEDLI,250000
+DSITI,My Appointment,Recruitment,2552,0,0.5,0,01/01/2006 0:00,30/12/2018 0:00,Yes,No,Queensland Government,My Appointment,0
+DSITI,Open AM,"Product, Service Development and Marketing",50000,100000,0.25,0.15,01/09/2013 0:00,01/09/2016 0:00,No,No,Sun Microsystems Inc,OpenAM,500000
+DSITI,Open DJ,"Product, Service Development and Marketing",50000,100000,0.25,0.15,01/09/2013 0:00,01/09/2016 0:00,No,No,Sun Microsystems Inc,OpenDJ,500000
+DSITI,QG CIDM,Modelling and Simulation,50000,0,8,0.5,1/12/2014 0:00,01/07/2019 0:00,Yes,No,CITEC,CIDM,5000000
+DSITI,TRIM,Document and Records Management,3,Not reported,Not reported,Not reported,01/01/2009 0:00,01/06/2015 0:00,No,No,DSITI CIO,TRIM,20000
+DSITI,My.Appointment,Recruitment,Not reported,Not reported,0,0,01/01/2013 0:00,01/06/2015 0:00,Yes,No,DSITI CIO,My.Appointment,10000
+DSITI,RAD,Recruitment,30,Not reported,Not reported,Not reported,01/01/2013 0:00,01/06/2015 0:00,Yes,No,DSITI CIO,RAD,0
+DSITI,Alloc8 v2.5,Time and Attendance,2763,Not reported,1,0,01/01/2005 0:00,01/01/2017 0:00,Yes,No,QSS,Alloc8,165000
+DSITI,Alloc8 DPW2010,Payroll,200,Not reported,0.1,0,01/01/2005 0:00,31/12/2019 0:00,Yes,No,SSIO,Alloc8 DPW2010,165000
+DSITI,CAD,Document and Records Management,30,Not reported,Not reported,Not reported,01/01/2013 0:00,01/06/2015 0:00,Yes,No,DSITI CIO,CAD,1000
+DSITI,InfoView BAM,Contract Management,70975,Not reported,0,0,01/08/2011 0:00,31/08/2016 0:00,No,No,InfoView Technologies Pty Ltd,Infoview Billing and Asset Management System (Infoview BAM),1500000
+DSITI,Website - QSS Govnet,Information Provision,885,Not reported,0.4,0,01/01/2011 0:00,01/01/2017 0:00,Yes,No,DPW,SharePoint Portal,140000
+DSITI,Financial Reporter,Financial Management,1799,Not reported,0.4,0,31/12/1999 0:00,30/12/2015 0:00,Yes,No,Corporate Service Agency,Financial Reporter,165000
+DSITI,SASS,Customer Support,30,Not reported,Not reported,Not reported,01/01/2013 0:00,01/06/2015 0:00,No,No,DSITI CIO,SASS,1000
+DSITI,CEP; Financial Mgmt,Enterprise Asset Management,6525,1,12,0,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,ECC,5000000
+DSITI,CSP; Financial Mgmt,Enterprise Asset Management,731,1,6.5,0,01/01/1990 0:00,01/06/2015 0:00,No,No,SAP,ERP,5000000
+DSITI,CSP; Human Resources Mgmt/Payroll,Skills Management,240,1,0,0,01/01/1990 0:00,01/06/2015 0:00,No,No,SAP,ERP,0
+DSITI,CBP; Business Warehouse,Enterprise Business Intelligence,3227,1,4,0,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,Netweaver,5000000
+DSITI,DSP; Receipting,Receipting,33,1,0.2,0,01/01/1990 0:00,01/06/2016 0:00,No,No,SAP,ERP,0
+DSITI,FYP; Financial Mgmt,Enterprise Asset Management,670,1,4,0,01/01/1990 0:00,30/06/2015 0:00,No,No,SAP,ERP,5000000
+DSITI,FYP; Human Resources Mgmt/Payroll,Skills Management,432,1,0,0,01/01/1990 0:00,30/06/2015 0:00,No,No,SAP,ERP,0
+DSITI,HQP; Financial Mgmt,Enterprise Asset Management,1281,1,4,0,01/01/1990 0:00,30/06/2015 0:00,No,No,SAP,ERP,5077000
+DSITI,HQP; Real Estate,Inventory Management,1518,74000,7,0,05/01/2002 0:00,01/06/2015 0:00,No,No,SAP,ERP,0
+DSITI,QTP; Financial Mgmt,Enterprise Asset Management,246,1,1.5,0,01/01/1990 0:00,01/06/2015 0:00,No,No,SAP,ERP,5000000
+DSITI,QTP; Human Resources Mgmt/Payroll,Skills Management,72,1,1,0.25,01/01/1990 0:00,31/12/2012 0:00,No,No,SAP,ERP,0
+DSITI,TPP; Financial Mgmt,Enterprise Asset Management,4749,1,3.5,0,01/01/1990 0:00,01/06/2020 0:00,No,No,SAP,ECC,5000000
+DSITI,TPP; Human Resources Mgmt/Payroll,Skills Management,6903,1,6.6,0.75,01/01/1990 0:00,01/06/2020 0:00,No,No,SAP,ECC,5000000
+DSITI,CITEC;Human Resources Mgmt/Payroll,Skills Management,371,371,0.4,0,01/04/2011 0:00,01/06/2016 0:00,No,No,Aurion Corporation Pty Ltd,Aurion,5000000
+DSITI,ACE; Human Resources Mgmt/Payroll,Skills Management,27369,27369,6,0,05/01/1999 0:00,01/06/2016 0:00,No,No,Aurion Corporation Pty Ltd,Aurion,30500000
+DSITI,QPS; Human Resources Mgmt/Payroll,Skills Management,16835,16835,3,0,05/01/1999 0:00,01/06/2016 0:00,No,No,Aurion Corporation Pty Ltd,Aurion,5000000
+DSITI,DET; Human Resources Mgmt/Payroll,Skills Management,0,0,2,0,05/01/1999 0:00,30/09/2015 0:00,No,No,Aurion Corporation Pty Ltd,Aurion,5000000
+DSITI,PRODCS; Human Resources Mgmt/Payroll,Skills Management,293,115,2.5,0,01/01/1990 0:00,30/06/2017 0:00,No,No,Talent2,Lattice,41700000
+DSITI,PRODES; Human Resources Mgmt/Payroll,Skills Management,286,137,2.5,0,01/01/1990 0:00,30/06/2017 0:00,No,No,Talent2,Lattice,41700000
+DSITI,TBP; Business Warehouse,Enterprise Business Intelligence,40,1,0.3,0,01/01/1990 0:00,01/06/2020 0:00,No,No,SAP,Netweaver,500000
+DSITI,eAssets,Enterprise Asset Management,4338,Not reported,0.4,0,31/12/1999 0:00,30/12/2015 0:00,Yes,No,Corporate Service Agency,eAssets,165000
+DSITI,eGift Register,Enterprise Asset Management,150,Not reported,0.4,0,31/12/1999 0:00,07/01/2017 0:00,Yes,No,Corporate Service Agency,eGift Register,40000
+DSITI,eJournal,Financial Management,476,Not reported,0.4,0,31/12/1999 0:00,07/01/2017 0:00,Yes,No,Corporate Service Agency,eJournal,110000
+DSITI,ePettyCash,General Ledger,1873,Not reported,0.4,0,31/12/1999 0:00,30/12/2015 0:00,Yes,No,Corporate Service Agency,ePettyCash,110000
+DSITI,DCC,Information Provision,0,0,0,0,01/08/2013 0:00,01/07/2019 0:00,No,No,Microsoft,Office 365,0
+DSITI,HRM Reporter,"Executive, Management Information Systems",516,Not reported,0.2,0,31/12/1999 0:00,30/12/2014 0:00,Yes,No,QSS,HRM Reporter,165000
+DSITI,Springboard,Recruitment,1000000,1,3,0,06/01/2007 0:00,12/01/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,1200000
+DSITI,CARM solution,Planning and Governance,176,176,0,0,01/07/2014 0:00,30/05/2017 0:00,No,No,Proviti,CARM solution,40000
+DSITI,ONESource,Payments,25,97,Not reported,Not reported,01/01/2013 0:00,01/06/2015 0:00,No,No,DSITI CIO,ONESource,40000
+DSITI,ServiceNow,Customer Service and Support,310,285,1,0,01/01/2010 0:00,31/12/2020 0:00,No,No,ServiceNow,ServiceNow,850000
+DSITI,QSS Customer Site,Information Provision,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,01/06/2015 0:00,Yes,No,DSITI CIO,QSS Customer Site,10000
+DSITI,QWD,Information Provision,20,0,0.4,0,01/04/2002 0:00,01/06/2018 0:00,Yes,No,DSITI,QWD,450000
+DSITI,Runoff Storage and Irrigation Calculator,Design and Engineering,50,0,0.1,0,01/01/2000 0:00,1/12/2015 0:00,Yes,No,DSITI,RUSTIC,0
+DSITI,SALI,Information Provision,200,0,0.1,0,01/01/2003 0:00,1/12/2015 0:00,Yes,No,DNRM,SALI,1500000
+DSITI,SAP BW,Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,01/06/2025 0:00,No,No,SAP,ECC,0
+DSITI,SAP Finance,Sourcing and Procurement,40,Not reported,0,0,01/01/2000 0:00,01/06/2025 0:00,No,No,SAP,ECC,0
+DSITI,SAP R3,Financial Management,150,1,1.2,0,01/01/2000 0:00,01/07/2017 0:00,No,No,SAP,SAP R3,2638539
+DSITI,SASS,Recruitment,12,0,0.5,0,06/01/2007 0:00,12/01/2018 0:00,No,No,HRX,SASS,0
+DSITI,ServiceNow,Client Account Management,3192,73,2,0,01/01/2009 0:00,01/07/2019 0:00,No,No,ServiceNow,ServiceNow,1000000
+DSITI,ServiceNow,"Call Centre, Help Desk",310,425,2.8,0,31/03/2009 0:00,30/06/2020 0:00,No,No,ServiceNow,ServiceNow,1000000
+DSITI,SILO,Information Provision,700,15,0.4,0,1/12/1995 0:00,01/01/2020 0:00,Yes,No,DSITI,SILO,2200000
+DSITI,SpiraTeam,Information Submission,20,20,0.25,0,01/01/2012 0:00,01/07/2019 0:00,No,No,Inflectra,SpiraTeam,0
+DSITI,CHIIP,Customer Service,270,1,0.2,0,01/07/2006 0:00,1/12/2017 0:00,Yes,No,SMS Management and Technology,Card Holder and Industry Information Platform (CHIIP),1000000
+DSITI,Genesys,Analytics,300,850,1,0.5,1/10/2013 0:00,1/10/2020 0:00,No,No,Genesys,Genesys,4321535
+DSITI,Telstra Analyser,Analytics,6,6,1.00E-03,0,06/01/2009 0:00,06/01/2017 0:00,No,No,Telstra,Telstra Analyser Online,0
+DSITI,TeamMate,Risk and Issue Management,10,10,0.1,0,01/07/2009 0:00,01/07/2019 0:00,No,No,Wolters Kluwer Financial Services,Audit Management System,50000
+DSITI,TimeTrax,Time and Attendance,300,0,1,0,01/01/1996 0:00,01/01/2019 0:00,Yes,No,CITEC,TimeTrax,100000
+DSITI,TRIM,Document and Records Management,8,Not reported,0,0,01/01/2014 0:00,01/07/2018 0:00,No,No,HP,TRIM,0
+DSITI,TRIM Context,Document and Records Management,107,107,0.15,0,01/09/2009 0:00,01/01/2020 0:00,No,No,Hewlett-Packard (HP),TRIM Context,30535
+DSITI,TRIM Context,Document and Records Management,81,0,0.5,0,01/01/2008 0:00,01/07/2019 0:00,No,No,Hewlett-Packard (HP),TRIM Context,0
+DSITI,TRIM Corro,Document and Records Management,5,10,0.05,0,02/04/2013 0:00,01/07/2019 0:00,No,No,Hewlett-Packard (HP),TRIM HP Records Manager,50000
+DSITI,NICE,Analytics,300,850,1,0.05,1/10/2013 0:00,1/10/2020 0:00,No,No,Nice,NICE Perform,723807
+DSITI,QGAP MIS,Customer Service,400,1,0.5,0,20/06/2008 0:00,30/06/2016 0:00,Yes,No,Oracle,Point of Sale,899525
+DSITI,DOTS LMS,Skills Management,900,1500,0.6,0.01,31/05/2007 0:00,30/06/2016 0:00,Yes,No,DOTS Talent Solutions,Learning Management System,180050
+DSITI,Ciboodle,Customer Service,300,600,1,1,01/01/2009 0:00,01/01/2017 0:00,Yes,No,Kana Ciboodle,Ciboodle CRM,1200000
+DSITI,RADS,General Ledger,25,0,0,0.5,01/01/2010 0:00,11/01/2017 0:00,Yes,No,Smart Service,RADS,1850000
+DSITI,Vision6 - SPI,Information Provision,2,1,0,0,01/01/2015 0:00,31/12/2015 0:00,No,No,Vision6,Vision6,2596
+DSITI,WaTERS,Information Submission,100,4,0.4,0,27/10/2013 0:00,31/05/2018 0:00,Yes,No,DSITI,.NET Framework,630000
+DSITI,Website - GovNet Portal,"Authorities, Licences, Permits and Awards",235336,Not reported,1,0,01/01/2000 0:00,01/07/2017 0:00,Yes,No,DSITI,Website - GovNet Portal,200000
+DSITI,WIC,Information Submission,15,1,0.1,0,01/01/2009 0:00,30/06/2016 0:00,Yes,No,Dialog,Oracle,300000
+DSITI,WildNet,"Authorities, Licences, Permits and Awards",5000,1,0.1,0,01/03/1997 0:00,01/01/2020 0:00,Yes,No,Dialog,Oracle,1000000
+DSITI,Wrike,Knowledge Management,48,1,0.05,0,1/10/2014 0:00,01/07/2016 0:00,No,No,"Wrike, Inc.",Wrike,0
+DSITI,CIMS,"Authorities, Licences, Permits and Awards",10,Not reported,0.2,0,6/12/2010 0:00,31/12/2030 0:00,Yes,No,EIS Australia,CIMS,500000
+DSITI,Qflow,"Subsidies, Grants, Benefits and Assistance",15,3,1,1,01/07/2014 0:00,01/07/2016 0:00,No,No,Nexa Group,QFLOW,220000
+DTESB,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,1,1,01/07/2002 0:00,31/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+DTESB,1Contact,Employee Administration,1000,1000,0.5,1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+DTESB,eDOCS,Document and Records Management,1100,1,1,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+DTESB,ePettyCash,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ePettyCash,0
+DTESB,CSP; Financial Mgmt,Financial Management,50,50,Not reported,Not reported,01/01/1990 0:00,31/12/2018 0:00,No,No,SAP,R/3,0
+DTESB,CSP; Human Resource Management/ Payroll,Payroll,50,50,Not reported,Not reported,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+DTESB,Employee Self Service,Employee Administration,5000,5000,Not reported,Not reported,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+DTESB,Financial Reporter,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+DTESB,HRM Reporter,Employee Administration,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+DTESB,HRMS Payroll Archive,Payroll,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+DTESB,SpringBoard,Recruitment,50,50,Not reported,Not reported,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+DTESB,InfoView BAM,Costing,50,50,Not reported,Not reported,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+DTESB,Web Technical Services - Infrastructure DTESB,Information Provision,5000,5000,1,0.2,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,0
+DTESB,Web Services - DTESB,"Authorities, Licences, Permits and Awards",9999,9999,1,1,01/07/2014 0:00,31/12/2018 0:00,Yes,No,Squiz,Squiz,200000
+EHP,Ecosteps - Statutory Environmental Procedures System,Document and Records Management,5000,5000,4.1,1,01/01/2000 0:00,01/06/2018 0:00,No,No,EHP,Ecosteps,1000000
+EHP,Ecotrack,"Authorities, Licences, Permits and Awards",2000,2000,0.98,0.56,01/03/2002 0:00,31/12/2018 0:00,Yes,No,EHP,Ecotrack,200000
+EHP,Environmental Management Register / Contaminated Land Register,Case Management,650,650,0.31,0.03,01/06/1998 0:00,01/06/2015 0:00,Yes,No,Oracle,Oracle,400000
+EHP,Littering and Illegal Dumping Online Reporting System,Information Submission,5000,5000,1.9,0.4,1/11/2011 0:00,1/12/2020 0:00,Yes,No,EHP,Custom,300000
+EHP,Macropod Management System,"Authorities, Licences, Permits and Awards",10,10,0.5,0.1,1/12/2003 0:00,01/06/2018 0:00,Yes,No,Dialog,Macropod Management System,800000
+EHP,Qld Waste Data System,Information Provision,155,155,0.5,0,01/07/2012 0:00,01/09/2018 0:00,Yes,No,EHP,Custom,2400000
+EHP,StrandNet,Information Submission,50,50,0.6,0.1,01/01/2002 0:00,1/12/2018 0:00,Yes,No,EHP,StrandNet,250000
+EHP,WetlandInfo Website,Information Submission,600,600,3.2,0.8,01/06/2006 0:00,01/06/2018 0:00,Yes,No,Adobe,Custom,1000000
+EHP,Employee Self Service,Employee Administration,5000,5000,Not reported,Not reported,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+EHP,Financial Reporter,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+EHP,HRM Reporter - Standard,Employee Administration,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+EHP,Land Accounting Information System,Receipting,33,28,1.5,0.3,1/12/1991 0:00,1/12/2020 0:00,Yes,No,EHP,LAIS,500000
+EHP,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,1,1,01/01/2002 0:00,1/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+EHP,Teamsite,Information Submission,5000,5000,2,0.4,01/01/2010 0:00,31/12/2018 0:00,Yes,No,Interwoven,Interwoven,0
+EHP,1Contact,Employee Administration,1000,1000,0.5,1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+EHP,eDOCS,Document and Records Management,1100,1,1,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+EHP,Property (Lot on Plan) Searches,Information Provision,300,300,0.5,0.1,01/05/2013 0:00,01/06/2020 0:00,No,No,EHP,Java,400000
+EHP,Waste Tracking,"Authorities, Licences, Permits and Awards",4,4,0.1,0.1,1/12/2002 0:00,01/06/2018 0:00,Yes,No,Canon,Teleform / MS-SQL,400000
+EHP,Web Services - EHP,"Authorities, Licences, Permits and Awards",9999,9999,1,1,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Reddot,Reddot,200000
+EHP,ePettyCash,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ePettyCash,0
+EHP,eGift Register,Client Account Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eGift Register,0
+EHP,CSP; Financial Mgmt,Financial Management,50,50,Not reported,Not reported,01/01/1990 0:00,31/12/2018 0:00,No,No,SAP,R/3,0
+EHP,CSP; Human Resource Management/ Payroll,Payroll,50,50,Not reported,Not reported,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+EHP,HRMS Payroll Archive,Payroll,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+EHP,SpringBoard,Recruitment,50,50,Not reported,Not reported,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+EHP,InfoView BAM,Costing,50,50,Not reported,Not reported,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+EHP,eAssets,Enterprise Asset Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,eAssets,0
+EHP,The Spring,Case Management,6,6,0.1,0.25,01/06/2011 0:00,01/09/2018 0:00,Yes,No,Dialog,The Spring,200000
+HPW,Training Database (HPW),Computer Based Training,4,Not reported,Not reported,Not reported,01/06/2007 0:00,30/06/2015 0:00,No,No,Microsoft,MS SQL DB with MS Access front end,100000
+HPW,ISD Knowledge Intranet Portal,Information Provision,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Microsoft,Sharepoint teamsite,0
+HPW,TRIM Context (HPW),Document and Records Management,Not reported,Not reported,Not reported,Not reported,9/10/2009 0:00,31/07/2015 0:00,No,No,HP,TRIM Context,82527
+HPW,ZAP,Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,30/01/2016 0:00,No,No,ZAP,ZAP BI,250000
+HPW,Impaler,Customer Service and Support,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,30/12/2011 0:00,No,No,BAU Websupport,Impaler,50000
+HPW,HPW internet (HPW),Information Submission,Not reported,Not reported,Not reported,Not reported,09/03/2012 0:00,31/12/2014 0:00,Yes,No,Microsoft,Microsoft Sharepoint Server 2007,350000
+HPW,Document Management System (DMS) (HPW),Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,01/07/2013 0:00,Yes,No,Custom,Document Management System 2.5,2500000
+HPW,Queensland Contracts Directory,Client Account Management,Not reported,Not reported,Not reported,Not reported,30/06/2014 0:00,30/06/2016 0:00,No,No,Not reported,Queensland Contracts Directory,Not reported
+HPW,Vehicle Pooling,Scheduling and Bookings,Not reported,Not reported,Not reported,Not reported,01/06/2007 0:00,30/06/2015 0:00,Yes,No,Intelligent Pathways,UMS,200000
+HPW,TRSi - Works,Time and Attendance,Not reported,Not reported,Not reported,Not reported,01/01/2006 0:00,30/06/2012 0:00,Yes,No,Custom,Custom,10000
+HPW,Service Now (HPW),Customer Service,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,31/01/2015 0:00,No,No,ServiceNow,Service-Now,0
+HPW,QTenders,Not reported,Not reported,Not reported,Not reported,Not reported,01/03/2009 0:00,01/01/2015 0:00,No,No,Not reported,QTenders,0
+HPW,InMagic Textworks 13,Library Management,5,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,4750
+HPW,MyHPW (formerly MyHPW),Information Provision,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,30/06/2013 0:00,Yes,No,Microsoft,Microsoft Sharepoint Server 2007,350000
+HPW,Business Intelligence -QFleet,Enterprise Business Intelligence,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,31/12/2015 0:00,No,No,Custom,Microsoft,600000
+HPW,Spot Fire,Enterprise Business Intelligence,30,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,TIBCO Spotfire Main Office,Not reported,150000
+HPW,QBWork Register,Sourcing and Procurement,50,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Department of Housing and Public Works,Not reported,75000
+HPW,Tracker,Scheduling and Bookings,Not reported,Not reported,Not reported,Not reported,01/06/2007 0:00,31/12/2014 0:00,No,No,Not reported,Tracker,0
+HPW,BetaSphere,Act,100,Not reported,Not reported,Not reported,01/01/2007 0:00,31/12/2014 0:00,No,No,Super Group International,BetaSphere,175000
+HPW,BP Card connect & Caltex Card,Electronic,100,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,BP Card connect & Caltex Card,Not reported
+HPW,SAP Core,ENTERPRISE RESOURCE PLANNING,519,519,Not reported,Not reported,01/01/2007 0:00,01/01/2015 0:00,Yes,No,SAP,SAP GUI 7.2,25986
+HPW,SLABS-Production,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,12885
+HPW,PADLS on-line,"Authorities, Licences, Permits and Awards",Not reported,Not reported,Not reported,Not reported,01/01/1996 0:00,30/06/2013 0:00,Yes,No,DLGP,Custom,310000
+HPW,Pools,Information Submission,Not reported,Not reported,Not reported,Not reported,01/05/2011 0:00,01/05/2016 0:00,Yes,No,DLGP,Custom,490000
+HPW,iSpace,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/03/2013 0:00,01/06/2025 0:00,Yes,No,Manhatten,Product,1634004
+HPW,Building Surveying System,Geospatial,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Dept of Housing and Public Works,Building Surveying System,0
+HPW,Buildsoft,Artefact,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,01/01/2015 0:00,No,No,Buildsoft,Buildsoft,200000
+HPW,S.H.E,Occupational Health and Safety Management,Not reported,Not reported,Not reported,Not reported,08/05/2007 0:00,30/06/2015 0:00,Yes,No,Compos,Management Support online system,875000
+HPW,BEMIR,Electronic,9500,3,Not reported,Not reported,01/06/2004 0:00,01/07/2015 0:00,Yes,No,DHPW,Information Service,4000000
+HPW,SAP,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,HP Records Manager (HPW),Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,HP Records Manager (HPW),0
+HPW,HP Records Manager (BCQ),Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,HP Records Manager (BCQ),0
+HPW,MINCOR (Workflow) SR5,Accreditation,Not reported,Not reported,Not reported,Not reported,06/01/2014 0:00,01/06/2025 0:00,No,No,Bay Technologies,Mincor,0
+HPW,TRIM Housing,Document and Records Management,Not reported,Not reported,Not reported,Not reported,30/06/2005 0:00,01/01/2015 0:00,No,No,HP,TRIM,849653
+HPW,Spiratest,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,Not reported
+HPW,WebCAT,Maintenance Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,AIU Companion database,Project Portfolio Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,BAS - Booked Appointment System,Scheduling and Bookings,Not reported,Not reported,Not reported,Not reported,30/06/2004 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",Booked Appointment System,0
+HPW,Bed Count & Usage Type changes,Information Provision,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,BLARGA / Bond Loan and Rental Grant Application,"Subsidies, Grants, Benefits and Assistance",1000,Not reported,Not reported,Not reported,01/03/2012 0:00,01/06/2016 0:00,Yes,No,Department of Housing and Public Works,BLARGA / Bond Loan and Rental Grant Application,0
+HPW,Bondscape,"Subsidies, Grants, Benefits and Assistance",825,Not reported,Not reported,Not reported,01/01/2008 0:00,01/01/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,11729745
+HPW,BRIEF/Bond Loan and Rental Grant Input Entry Form,"Subsidies, Grants, Benefits and Assistance",720,Not reported,Not reported,Not reported,01/01/2009 0:00,01/06/2016 0:00,Yes,No,Department of Housing and Public Works,BRIEF/Bond Loan and Rental Grant Input Entry Form,0
+HPW,CIMSPRM Capital Investment Management System,Information Provision,Not reported,Not reported,Not reported,Not reported,30/06/2004 0:00,01/01/2015 0:00,No,No,"Department of Communities, Child Safety and Disabilities",No,767015
+HPW,CPS Consolidated Property System,Information Provision,631,Not reported,Not reported,Not reported,01/07/2010 0:00,1/12/2016 0:00,Yes,No,SAP,No,2405555
+HPW,CWAT Capital Works & Asset Transfers,Customer Marketing,Not reported,Not reported,Not reported,Not reported,01/07/2010 0:00,01/07/2017 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,275000
+HPW,DMS/Debt Management System,"Subsidies, Grants, Benefits and Assistance",Not reported,Not reported,Not reported,Not reported,01/03/2012 0:00,1/12/2016 0:00,Yes,No,Custom,DMS/Debt Management System,750000
+HPW,e-Queensland Homelessness Information Platform,Information Provision,Not reported,Not reported,Not reported,Not reported,1/10/2013 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,ERCT Electronic Rent Calculation Tool,"Subsidies, Grants, Benefits and Assistance",Not reported,Not reported,Not reported,Not reported,01/01/2004 0:00,01/01/2015 0:00,Yes,No,Dialog Info tech,ERCT Electronic Rent Calculation Tool,0
+HPW,Employee Self Service,Human Capital Management,Not reported,Not reported,Not reported,Not reported,01/01/2010 0:00,30/12/2014 0:00,No,No,SAP,ESS,0
+HPW,HASLink,Case Management,Not reported,Not reported,Not reported,Not reported,30/06/2005 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,363932
+HPW,HASLink Central,Case Management,Not reported,Not reported,Not reported,Not reported,30/06/2005 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,363932
+HPW,HDM3/Help Desk Management 3,Customer Service and Support,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,HDM3/Help Desk Management 3,0
+HPW,Interact,Accreditation,Not reported,Not reported,Not reported,Not reported,30/07/2010 0:00,30/06/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,1542667
+HPW,LMS2/Lease Management System,Enterprise Asset Management,13,Not reported,Not reported,Not reported,30/06/2006 0:00,01/01/2012 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,0
+HPW,Loanscape,"Subsidies, Grants, Benefits and Assistance",Not reported,Not reported,Not reported,Not reported,30/06/1999 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,2488119
+HPW,LoansCor/Loans Correspondence System,Case Management,Not reported,Not reported,Not reported,Not reported,1/12/2013 0:00,01/06/2016 0:00,Yes,No,Department of Housing and Public Works,LoansCor/Loans Correspondence System,0
+HPW,NRAS,Customer Support,Not reported,Not reported,Not reported,Not reported,30/07/2008 0:00,01/01/2011 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,637087
+HPW,OMRH/Online Maintenance Request for Housing,Information Submission,60,Not reported,Not reported,Not reported,01/04/2014 0:00,01/06/2016 0:00,No,No,Department of Housing and Public Works,OMRH/Online Maintenance Request for Housing,0
+HPW,PRIME,Information Provision,Not reported,Not reported,Not reported,Not reported,01/07/2009 0:00,31/12/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,830200
+HPW,Property Selector,Information Provision,Not reported,Not reported,Not reported,Not reported,30/06/2005 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,0
+HPW,PSI - Property Standards Index,Analytics,Not reported,Not reported,Not reported,Not reported,30/06/2003 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,525496
+HPW,PSMS - Property Sales Management System,Information Submission,Not reported,Not reported,Not reported,Not reported,30/06/2002 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,636434
+HPW,QContracts,Contract Management,Not reported,Not reported,Not reported,Not reported,30/06/2014 0:00,30/06/2016 0:00,No,No,Open Windows Australia Pty Ltd,QContracts,0
+HPW,QHIP/Queensland Homelessness Information Platform,Case Management,900,Not reported,Not reported,Not reported,01/09/2013 0:00,01/06/2016 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",QHIP/Queensland Homelessness Information Platform,0
+HPW,CAD Standard Tools,Accountability,Not reported,Not reported,Not reported,Not reported,01/01/1999 0:00,30/06/2016 0:00,No,No,AutoCAD,CAD Standard Tools,40000
+HPW,Rates File Editor,Inventory Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,Not reported
+HPW,RentConnect,Case Management,92,Not reported,Not reported,Not reported,01/09/2008 0:00,01/06/2016 0:00,No,No,Not reported,RentConnect,0
+HPW,Resolve/Complaints Management,Complaints Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Resolve Software Group,Resolve/Complaints Management,177000
+HPW,RPDGeo/Electorate Database,Information Provision,1000,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,RPDGeo/Electorate Database,0
+HPW,SAP Data Services,ENTERPRISE RESOURCE PLANNING,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,SAP Housing,ENTERPRISE RESOURCE PLANNING,99,Not reported,Not reported,Not reported,01/01/1998 0:00,07/09/2015 0:00,Yes,No,SAP,Not reported,70000000
+HPW,Statistical Analysis System (SAS),Statistical Tools,9,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,Not reported
+HPW,SAT/Supply Affordability Tool,Analytics,110,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,SAT/Supply Affordability Tool,0
+HPW,Smart Map Information Services,SCIENCE AND ENGINEERING,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,Not reported
+HPW,Web CC/Telstra Web Call Centre,"Call Centre, Help Desk",50,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Telstra,Not reported,Not reported
+HPW,Alloc8 HPW2010 (HPW),Payroll,150,150,Not reported,Not reported,01/01/2010 0:00,30/06/2013 0:00,No,No,Corptech,Alloc8 v. 1,30000
+HPW,Alloc8 v2.5 (HPW),Time and Attendance,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,01/01/2017 0:00,No,No,Corptech,Alloc8 v. 1,30000
+HPW,Autodesk AutoCAD 2012,Computer-aided Design,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Autodesk,CAD Standard Tools,0
+HPW,CBP; Business Warehouse (HPW),Human Capital Management,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,SAP,Shared Service SAP Implementation,0
+HPW,CEP Financial Mgmt (SAP ECC5 - Housing instance),Financial Management,Not reported,Not reported,Not reported,Not reported,30/06/2003 0:00,30/06/2014 0:00,No,No,Not reported,CEP Financial Mgmt (SAP ECC5 - Housing instance),0
+HPW,CEP Human Resource Mgmt (SAP ECC5 - Reference only),Human Capital Management,Not reported,Not reported,Not reported,Not reported,30/06/2007 0:00,30/06/2014 0:00,No,No,Not reported,CEP Human Resource Mgmt (SAP ECC5 - Reference only),0
+HPW,CEP; Supplier Relationship Management,Case Management,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,SAP,Shared Service SAP Implementation,0
+HPW,Darzin,Partner Relationship Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Darzin Software,Not reported,5000
+HPW,DoH Internet,Information Submission,Not reported,Not reported,Not reported,Not reported,30/06/2002 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,0
+HPW,EDMS,Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,EDMS,0
+HPW,FieldGlass,Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Fieldglass,Not reported,Not reported
+HPW,GovtSwap,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,01/01/2012 0:00,Yes,No,Microsoft,Custom,0
+HPW,CaseWare Monitor,Financial Management,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,70000
+HPW,Insite Data Cube,Information Provision,Not reported,Not reported,Not reported,Not reported,30/06/2014 0:00,30/06/2016 0:00,No,No,Not reported,Insite Data Cube,Not reported
+HPW,Library DB/Textworks 11,Library Management,Not reported,Not reported,Not reported,Not reported,01/01/1999 0:00,31/05/2013 0:00,No,No,InMagic,n/a,4750
+HPW,MINCOR - Ministerial Correspondence System [DH],Enterprise Business Intelligence,Not reported,Not reported,Not reported,Not reported,30/10/2006 0:00,01/01/2015 0:00,No,No,Bay Technologies,MINCOR - Ministerial Correspondence System [DH],110000
+HPW,NRSCH,Registrations and Inspections,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,New South Wales Govt.,Not reported,Not reported
+HPW,Plumbing Applications System,"Authorities, Licences, Permits and Awards",Not reported,Not reported,Not reported,Not reported,01/03/2011 0:00,01/03/2016 0:00,Yes,No,DLGP,Custom,500000
+HPW,Procurement CRM,Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,30/06/2014 0:00,30/06/2016 0:00,No,No,Not reported,Procurement CRM,Not reported
+HPW,QTravel,Scheduling and Bookings,Not reported,Not reported,Not reported,Not reported,01/01/2008 0:00,30/06/2016 0:00,No,No,The Lido Group,Not reported,Not reported
+HPW,RAPS (formerly IRM - Insite Rates Module),General Ledger,Not reported,Not reported,Not reported,Not reported,30/06/2002 0:00,01/01/2015 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,540700
+HPW,BAS Supplier Registration,Partner Relationship Management,Not reported,Not reported,Not reported,Not reported,09/03/2012 0:00,09/03/2017 0:00,No,No,Not reported,BAS Supplier Registration,0
+HPW,Vacancy Reporting System VRS,Information Provision,Not reported,Not reported,Not reported,Not reported,01/07/2010 0:00,01/07/2017 0:00,Yes,No,"Department of Communities, Child Safety and Disabilities",No,0
+HPW,Vendor Panel,SUPPLY CHAIN MANAGEMENT,Not reported,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,No,No,Magnetized Markets Pty Ltd,Not reported,Not reported
+HPW,Zendesk,Information Provision,Not reported,Not reported,Not reported,Not reported,30/06/2014 0:00,30/06/2016 0:00,No,No,Not reported,Zendesk,Not reported
+HPW,CARS+,Direction,Not reported,Not reported,Not reported,Not reported,01/01/2008 0:00,01/07/2013 0:00,No,No,Pearsons Computer Systems NSW,CARS+/Service,100000
+HPW,CAS,Direction,Not reported,Not reported,Not reported,Not reported,01/01/1995 0:00,31/12/2014 0:00,Yes,No,Custom,CAS,500000
+HPW,ePlanRoom and Integration Tools,Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2008 0:00,30/01/2010 0:00,Yes,No,Custom,ePlanRoom and Integration Tools,400000
+HPW,Contract Management System (CMS),Administrative,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,30/06/2015 0:00,Yes,No,Custom,Contract Management System (CMS),14726
+HPW,Microsoft CRM 1.2 GITC,Policy,1000,Not reported,Not reported,Not reported,01/01/2004 0:00,30/06/2016 0:00,No,No,Not reported,Not reported,Not reported
+HPW,Disposals Management Database and Website,Artefact,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,80000
+HPW,Document Publisher,Process,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,30/06/2016 0:00,Yes,No,Custom,Custom,500000
+HPW,Drawing Dimensioning Tool,Administration,Not reported,Not reported,Not reported,Not reported,01/01/2003 0:00,01/07/2015 0:00,Yes,No,Custom,Custom,20000
+HPW,eContract Adminstration,Standard,Not reported,Not reported,Not reported,Not reported,01/01/2005 0:00,01/07/2013 0:00,Yes,No,Custom,Custom,1966450
+HPW,Ellipse,Guideline,Not reported,Not reported,Not reported,Not reported,01/01/2009 0:00,1/11/2014 0:00,Yes,No,ventyx,Ellipse,36000000
+HPW,HPW Drawing Information System,Guideline,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Not reported,Document management,0
+HPW,HPW ePlan Room,Guideline,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Not reported,Document management,0
+HPW,eTender - Project Services BAS,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/03/2009 0:00,01/01/2015 0:00,Yes,No,Custom,Custom,800000
+HPW,FBT Simplifier 2010,Administration,Not reported,Not reported,Not reported,Not reported,01/01/2010 0:00,30/12/2012 0:00,No,No,Thomson Reuters,FBT Simplifier,25000
+HPW,Fleetscape,Client Account Management,Not reported,Not reported,Not reported,Not reported,01/01/2006 0:00,31/12/2014 0:00,Yes,No,Intelligent Pathways/Qfleet,"Fleetscape, Vehicle Pooling, CFS.",3000000
+HPW,Gifts Register,Financial Management,Not reported,Not reported,Not reported,Not reported,31/12/1999 0:00,01/01/2013 0:00,Yes,No,custom,Gift Register,44177
+HPW,IRIS (HPW),Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2005 0:00,30/06/2015 0:00,Yes,No,ARIZ-TECH,Product,100000
+HPW,Kerridge,Administration,Not reported,Not reported,Not reported,Not reported,01/01/1999 0:00,31/12/2014 0:00,Yes,No,ADP,Kerridge,6500000
+HPW,Lease Info Sheets,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Not reported,Lease Info Sheets,0
+HPW,Library Web Publisher Pro 4.1,Library Management,Not reported,Not reported,Not reported,Not reported,01/01/1999 0:00,31/05/2013 0:00,No,No,InMagic,Library Web Publisher Pro 4.1,2288
+HPW,Archibus (HPW),Accountability,50,Not reported,Not reported,Not reported,01/06/2006 0:00,01/07/2011 0:00,No,No,Archibus,Archibus,500000
+HPW,The Office Accommodation Program (OAP) Database,Financial Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Not reported,The Office Accommodation Program (OAP) Database,0
+HPW,OARS,Information Provision,Not reported,Not reported,Not reported,Not reported,01/01/2007 0:00,30/06/2015 0:00,No,No,Not reported,OARS,0
+HPW,Online Project Search,Enterprise Asset Management,1000,Not reported,Not reported,Not reported,31/12/2003 0:00,31/07/2013 0:00,No,No,Not reported,Online Project Search,0
+HPW,Online Searchable Database (web interface),Information Provision,1000,Not reported,Not reported,Not reported,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,Not reported
+HPW,PFMS,Planning and Governance,Not reported,Not reported,Not reported,Not reported,1/10/2001 0:00,30/07/2013 0:00,Yes,No,Custom,Custom,69604
+HPW,Place and Building Index - Project Services,Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2001 0:00,01/07/2013 0:00,No,No,Not reported,Place and Building Index - Project Services,0
+HPW,Place and Building Index - Building and Asset Services,Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2003 0:00,01/07/2013 0:00,Yes,No,Custom,Product,60000
+HPW,Plan Copy Request,Information Provision,Not reported,Not reported,Not reported,Not reported,01/01/2001 0:00,01/07/2015 0:00,Yes,No,Custom,Custom,10000
+HPW,PQC System Database (and Training Database),Contract Management,Not reported,Not reported,Not reported,Not reported,01/01/2004 0:00,31/07/2013 0:00,Yes,No,Custom,Custom,2000000
+HPW,RAMS,Risk and Issue Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,RAMS,0
+HPW,Project Profitability,Project Estimation,Not reported,Not reported,Not reported,Not reported,01/01/2001 0:00,01/07/2015 0:00,Yes,No,Custom,Custom,0
+HPW,PSG Database,Receipting,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,No,No,Not reported,PSG Database,0
+HPW,Qpulse - BAS,Design and Engineering,Not reported,Not reported,Not reported,Not reported,01/01/2001 0:00,01/07/2015 0:00,Yes,No,Gael,Custom,85000
+HPW,Quality Assurance,Quality Management,501,Not reported,Not reported,Not reported,01/01/2006 0:00,30/06/2016 0:00,Yes,No,Not reported,Not reported,25000
+HPW,Quote Tracking,Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,08/07/2010 0:00,08/07/2015 0:00,Yes,No,Custom,Custom,100000
+HPW,Records Management,Document and Records Management,Not reported,Not reported,Not reported,Not reported,01/01/2001 0:00,01/07/2015 0:00,Yes,No,Custom,Custom,60000
+HPW,SUPREM (HPW),Sourcing and Procurement,Not reported,Not reported,Not reported,Not reported,01/01/2004 0:00,01/07/2013 0:00,Yes,No,Custom,SUPREM,1000000
+HPW,ACE Human Resource Mgmt  (Aurion 10),Outcome,Not reported,Not reported,Not reported,Not reported,01/01/2000 0:00,31/07/2013 0:00,Yes,No,Aurion,Aurion,500000
+HPW,Tenancy Management System,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,20/06/2008 0:00,30/06/2015 0:00,Yes,No,HPW,TMS,0
+HPW,RecruitASP (HPW) - SpringBoard,Recruitment,Not reported,Not reported,Not reported,Not reported,01/01/2008 0:00,30/05/2015 0:00,No,No,HRX,RecruitASP,0
+HPW,TRSi - HPW,Time and Attendance,Not reported,Not reported,Not reported,Not reported,01/06/2007 0:00,30/06/2012 0:00,Yes,No,Custom,Custom,41349
+HPW,Plant Database,Enterprise Asset Management,Not reported,Not reported,Not reported,Not reported,01/01/2011 0:00,01/06/2016 0:00,Yes,No,Not reported,Plant Database,40000
+NPSR,Ecotrack,"Authorities, Licences, Permits and Awards",400,400,7.3,1.5,01/03/2002 0:00,31/12/2018 0:00,No,No,EHP,Ecotrack,200000
+NPSR,Land Accounting Information System,Receipting,33,33,0.3,0.06,1/12/1991 0:00,1/12/2020 0:00,Yes,No,EHP,LAIS,500000
+NPSR,Ministerial and Executive Correspondence System,"Executive, Management Information Systems",167,167,0.3,0.06,01/07/2002 0:00,31/12/2018 0:00,Yes,No,Bay Technologies,Mincor,60000
+NPSR,ParksQ,Scheduling and Bookings,968,968,3.2,0.6,01/06/2002 0:00,01/06/2016 0:00,Yes,No,Technology One,IAParks Version 3,800000
+NPSR,ParkInfo,Library Management,400,400,0.1,0.02,1/12/2002 0:00,01/06/2016 0:00,Yes,No,ESRI Australia,ArcView3,2000000
+NPSR,Strategic Asset Management System,Enterprise Asset Management,320,320,0.1,0.02,01/06/2008 0:00,01/06/2016 0:00,Yes,No,In House Developed,SAMS (Strategic Asset Management System),400000
+NPSR,1Contact,Employee Administration,1000,1000,0.5,1,1/12/2010 0:00,31/12/2018 0:00,Yes,No,DAF (ITP),1Contact,10000
+NPSR,eDOCS,Document and Records Management,1100,1100,1,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,Hummingbird,Hummingbird,180000
+NPSR,Laboratory Information Management System - RSC,Laboratory Systems,20,20,1.4,0.3,01/01/2000 0:00,30/06/2018 0:00,Yes,No,Labware,Sample Manager,500000
+NPSR,G2 Grants Administration System,"Subsidies, Grants, Benefits and Assistance",145,145,0.7,0.02,01/01/2014 0:00,01/07/2020 0:00,Yes,No,Tactiv,Enquire,200000
+NPSR,Internet Queensland Academy of Sport,Laboratory Systems,1000,1000,0.1,0.02,01/01/1990 0:00,01/01/2018 0:00,No,No,Microsoft,Internet Queensland Academy of Sport,10000
+NPSR,CEP; Financial Mgmt,Financial Management,1000,1000,Not reported,Not reported,01/01/2000 0:00,31/12/2018 0:00,No,No,SAP,ECC,10000
+NPSR,CSP; Human Resources Mgmt/Payroll,Payroll,50,50,Not reported,Not reported,01/01/1990 0:00,01/07/2015 0:00,No,No,SAP,ERP,0
+NPSR,Ranger Base,Event Management,1050,1050,1,0,01/01/2000 0:00,01/05/2017 0:00,Yes,No,ESRI Australia,ESRI Arcgis Prod,350000
+NPSR,Web Services - NPSR,"Authorities, Licences, Permits and Awards",9999,9999,0.1,0.02,01/02/2012 0:00,31/12/2018 0:00,Yes,No,Reddot,Reddot,200000
+NPSR,CBP; Business Warehouse,Client Account Management,50,50,Not reported,Not reported,01/01/2000 0:00,01/06/2016 0:00,No,No,SAP,ECC,0
+NPSR,Employee Self Service,Employee Administration,1000,1000,Not reported,Not reported,01/01/2011 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,ESS,0
+NPSR,Financial Reporter,Financial Management,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,Financial Reporter,0
+NPSR,HRM Reporter,Employee Administration,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRM Reporter,0
+NPSR,HRMS Payroll Archive,Payroll,50,50,Not reported,Not reported,31/12/1999 0:00,31/12/2018 0:00,Yes,No,Corporate Service Agency,HRMS Payroll Archive,0
+NPSR,SpringBoard,Recruitment,50,50,Not reported,Not reported,06/01/2007 0:00,31/12/2018 0:00,No,No,HRX,RecruitASP/Springboard/SmartJobs Website,0
+NPSR,InfoView BAM,Costing,50,50,Not reported,Not reported,01/08/2011 0:00,01/07/2017 0:00,No,No,InfoView Technologies Pty Ltd,InfoView,0
+PSBA,[PSBA] ArcGIS Mobile - QFRS,Information Submission,100,2,0.25,0,04/01/2011 0:00,12/01/2016 0:00,No,No,ESRI Inc.,ESRI ArcGIS Server Mobile,275000
+PSBA,[PSBA] Air Maestro,GENERIC SERVICE DELIVERY,95,95,0,0,01/08/2010 0:00,01/01/2018 0:00,Yes,No,Avinet,Web-based Software,250000
+PSBA,[PSBA] FoxID,Information Provision,7,1,0,0,01/01/2004 0:00,01/08/2014 0:00,No,No,Fox Technology,FoxID32 Pro,0
+PSBA,[PSBA] Caliber,Enterprise Business Intelligence,5,3,0,0,18/09/2013 0:00,18/09/2014 0:00,No,No,Micro focus,Caliber,8159
+PSBA,[QFES] Event Management System (Noggin),Information Provision,6000,1,0.9,0,25/08/2014 0:00,01/08/2019 0:00,Yes,No,Noggin,OCA Incident Manager,2000000
+PSBA,[DCS] ArcGIS Online - ESRI Collector,Information Submission,100,100,0.1,0,01/08/2014 0:00,01/01/2020 0:00,No,No,ESRI Inc.,ESRI Collector,80000
+PSBA,[PSBA] Cardex,Information Provision,7,4,0.05,0,01/08/2014 0:00,01/08/2016 0:00,No,No,Cardex,Cardexchange Professional,0
+PSBA,[QFES] QFRS e-Lodgement,Registrations and Inspections,535,0,1.5,0,01/07/2013 0:00,01/07/2023 0:00,Yes,No,QFES,QFRS e-lodgement,3000000
+PSBA,[PSBA] Wildfire Alert Level (WAL) and Severe Weather Alert Level (SWAL),Information Submission,200,1,0.05,0,12/01/2011 0:00,12/01/2020 0:00,Yes,No,ESRI Inc.,ArcGIS Server,20000
+PSBA,[PSBA] Situational Awareness Map (SAM),Information Provision,500,4,0.25,0,11/01/2011 0:00,12/01/2020 0:00,No,No,ESRI Inc.,ArcGIS Server,80000
+PSBA,[PSBA] Fire Warden Finder (FWF),Information Provision,200,4,0.05,0,04/01/2009 0:00,01/01/2020 0:00,No,No,ESRI Inc.,ArcGIS Online,5000
+PSBA,[PSBA] Public Fire Incident Website (PFIW),Information Provision,500,3,0.05,0,10/01/2011 0:00,01/06/2015 0:00,Yes,No,Google,Google API,20000
+PSBA,[PSBA] Existing Human Resource Solution Lattice v2.5,Employee Administration,130,122,0,0,07/01/1995 0:00,06/01/2008 0:00,Yes,No,Talent2,Lattice,77500000
+PSBA,[PSBA] Safety Health Environment (SHE) System,Case Management,11000,1,0.25,0,05/01/2008 0:00,01/01/2018 0:00,Yes,No,ComOps,Salvus (SHE),1000000
+PSBA,[PSBA] Job Management System (JMS),Computer-aided Dispatch,16,0,0,0,01/01/2013 0:00,12/01/2017 0:00,Yes,No,Apollosoft,Proprietary Software,228366
+PSBA,[PSBA] SAP ECC5,Case Management,1147,1147,1.1,0,03/08/2010 0:00,06/01/2017 0:00,No,No,SAP,SAP,1262000
+PSBA,[PSBA] SpendVision,Payments,1200,1200,0.5,0,07/01/2002 0:00,06/01/2017 0:00,No,No,SpendVision,SpendVision,0
+PSBA,[PSBA] Asset Management System,Fleet Management,332,0,0.4,0,04/01/1995 0:00,06/01/2015 0:00,Yes,No,DCS,Custom,481108
+PSBA,[PSBA] Audit Issues Tracking System (AITS),"Executive, Management Information Systems",50,0,0.2,0,01/01/2006 0:00,30/06/2016 0:00,Yes,No,DCS,Custom,250000
+PSBA,[PSBA] Complaints Management System (CMS),Complaints Management,10000,0,0.1,0,06/01/2015 0:00,01/02/2020 0:00,Yes,No,DCS,Custom,200000
+PSBA,[PSBA] Department of Community Safety Intranet,Information Provision,10000,0,1.3,0,06/01/2003 0:00,06/01/2015 0:00,Yes,No,DCS,Custom,825000
+PSBA,[PSBA] Departmental Content Management Solution,Information Submission,300,305,0.6,0,06/01/2006 0:00,06/01/2017 0:00,Yes,No,Interwoven,Teamsite,350000
+PSBA,[PSBA] Departmental Volunteer Portal,Information Submission,45738,0,0.2,0,05/01/2009 0:00,01/01/2016 0:00,Yes,No,Data 3Beyond Edge,Custom,716000
+PSBA,[PSBA] Ministerial Correspondence Tracking System,Document and Records Management,500,5000,0,0,06/01/2005 0:00,06/01/2015 0:00,Yes,No,Bay Technologies,Mincor,150000
+PSBA,[QFES] DCS Collaborative Learning Online (CLO),Computer Based Training,300,0,0.5,0.2,12/01/2007 0:00,12/01/2016 0:00,No,No,Moodle.org,Moodle,2000
+PSBA,[PSBA] Online Surveys,Analytics,25,25,0.02,0,03/01/2005 0:00,06/01/2015 0:00,No,No,Opinio,Opinio,8000
+PSBA,[PSBA] WorkSpace,Knowledge Management,500,10000,0.57,0,11/01/2007 0:00,06/01/2017 0:00,Yes,No,Microsoft,SharePoint,165000
+PSBA,[PSBA] ESRA,"Executive, Management Information Systems",1300,0,0.7,0,04/01/2007 0:00,30/06/2017 0:00,Yes,No,DCS,Custom,100000
+PSBA,[PSBA] Emergency Information,"Executive, Management Information Systems",100,0,0.7,0,08/01/2007 0:00,30/06/2017 0:00,Yes,No,DCS,Custom,50000
+PSBA,[QFES] Electronic Incident Action Plan (eIAP) ver 3.5.3,Event Management,700,0,0,0,01/01/2010 0:00,06/01/2014 0:00,Yes,No,QFRS,eIAP,1000000
+PSBA,[PSBA] RecFind 6.0 (Former DES),Document and Records Management,800,91,0.2,0,01/09/2012 0:00,05/01/2017 0:00,Yes,No,Knowledgeone,Knowledgeone,117000
+PSBA,[PSBA] VMware Service Manager(Formerly Infra),Customer Service,800,223,1,0,01/01/2003 0:00,01/01/2018 0:00,Yes,No,Alemba,vFire,528923
+PSBA,[PSBA] improved Mapping Application for Communication Centres (iMACC),Information Provision,351,351,0,0,30/06/1994 0:00,30/06/2013 0:00,Yes,No,MapInfo,improved Mapping Application for Communication Cen,295135
+PSBA,[PSBA] Electronic Practice Management System,Knowledge Management,18,20,0,0,06/01/2010 0:00,01/06/2016 0:00,Yes,No,Lexis Nexis,Visualfiles Corporate Counsel,30686
+PSBA,[PSBA] SABA (DCS),Computer Based Training,10000,52000,0.2,0,09/01/2008 0:00,10/01/2015 0:00,No,No,Saba,Saba Learning,1000000
+PSBA,[QFES]Disaster Management Portal,Information Submission,4000,1,0.1,0,06/01/2004 0:00,01/06/2014 0:00,Yes,No,Microsoft,SharePoint,80000
+PSBA,[QFES] Community Safety Operations System (CSOS),Case Management,421,0,1.5,0,07/01/2011 0:00,06/01/2021 0:00,Yes,No,QFES,Community Safety Operations System (CSOS),7443286
+PSBA,[QFES] Goldmine/Quotewerks,Client Account Management,58,20,1,0,07/01/2001 0:00,06/01/2015 0:00,No,No,Front Range,Goldmine/Quotewerks,103437
+PSBA,[QFES] Corskill,Information Provision,15,10,0,0,07/01/2001 0:00,01/06/2014 0:00,No,No,Corskill,Corskill,15000
+PSBA,[QFES]RFA Online,Scheduling and Bookings,1403,0,0.2,0,10/01/2009 0:00,01/06/2014 0:00,Yes,No,NSW SES,Custom,1500000
+PSBA,[QFES] Centralised Operations Reporting Environment  (CORE),Analytics,100,2,1,0,07/01/2008 0:00,06/01/2020 0:00,Yes,No,QFRS,Custom,1000000
+PSBA,[QFES] QFRS Operations Management System (OMS),Event Management,4618,0,7,0,11/01/2010 0:00,10/01/2020 0:00,Yes,No,PSBA - ICS,QFRS Operational Management System,15268840
+PSBA,[PSBA] Total Operational Mapping (TOM2),Information Submission,1000,8,1.25,0,10/01/2011 0:00,12/01/2020 0:00,No,No,Latitude Geographics,Geocortex Essentials,150000
+PSBA,[QFES] Mass Communication Tool,Information Provision,250,1,0.01,0,01/04/2013 0:00,01/04/2016 0:00,Yes,No,noggin online business applications,OCA Alerts,250000
+PSBA,[QFES]SES 1232500,Scheduling and Bookings,450,0,0.1,0,1/10/2013 0:00,30/06/2014 0:00,Yes,No,Intelligent Pathways,Custom,1300000
+PSBA,[PSBA] External Websites,Scheduling and Bookings,1182000,0,1.25,0,06/01/2003 0:00,01/06/2015 0:00,Yes,No,DCS,Custom,800000
+PSBA,[PSBA] Aerial total Operational Mapping (A-TOM),Information Submission,100,2,0.2,0,11/01/2009 0:00,01/04/2015 0:00,Yes,No,ESRI Inc.,ESRI ArcGIS Server Mobile,50000
+PSBA,[QFES] ESCAD QFES,Case Management,1450,Not reported,6,0,03/01/2008 0:00,06/01/2018 0:00,Yes,No,Tritech,VisiCad,12004472
+PSBA,[PSBA] MEGA,Enterprise Asset Management,4,54,0.3,0.3,06/05/2013 0:00,06/05/2017 0:00,No,No,MEGA,MEGA HOPEX,400000
+PSBA,[DCS] Mosaic,Library Management,4,9,0,0,01/01/2009 0:00,01/01/2019 0:00,No,No,Information Technology Services Perth (ITS),Mosaic Collections,10000
+PSBA,[QFES] Station Turnout (STO),Information Provision,45,45,0,0,01/01/1996 0:00,1/12/2014 0:00,Yes,No,Meridian,Proprietary Software,199000
+PSBA,Enterprise Architect,Enterprise Asset Management,13,13,0,0,1/12/2014 0:00,31/12/2017 0:00,No,No,Sparx Systems,Enterprise Architect,3417
+PSBA,Geofeedia,Enterprise Business Intelligence,7,7,2,Not reported,30/06/2015 0:00,01/07/2016 0:00,No,No,Geofeedia,Geofeedia,40000
+PSBA,Kana Insights,Enterprise Business Intelligence,5,5,1,Not reported,01/05/2015 0:00,31/10/2016 0:00,No,No,Kana/Verint,Kana Insights,50000
+PSBA,PIMS,CUSTOMER RELATIONSHIP MANAGEMENT,300,300,2,Not reported,30/06/2015 0:00,31/10/2016 0:00,No,No,Kana/Verint,Kana enterprise,2000000
+PSBA,[PSBA] Complaints Management System - Archived (CMS-Archived),Complaints Management,10000,0,0.1,0,06/01/2005 0:00,06/01/2015 0:00,Yes,No,DCS,Custom,200000
+PSBA,[PSBA] ESRA-Corporate,"Executive, Management Information Systems",1300,0,0.7,0,01/07/2015 0:00,30/06/2020 0:00,Yes,No,DCS,Custom,100000
+PSBA,INCSnap,Information Submission,1500,0,0,5,01/06/2014 0:00,31/05/2018 0:00,Yes,No,Mnet,INCSnap,150000
+PSBA,[QAS] QAS Portal,Information Submission,4300,Not reported,0.35,0,19/05/2015 0:00,19/05/2020 0:00,Yes,No,Microsoft,SharePoint,100000
+PSBA,[QAS] SAP,Case Management,221,221,0.25,0,03/08/2010 0:00,06/01/2016 0:00,No,No,SAP,SAP,1262000
+PSBA,[QAS] Fraedom (formerly SpendVision),Payments,704,704,0.5,0,07/01/2002 0:00,06/01/2016 0:00,No,No,Fraedom,Fraedom,0
+PSBA,[QAS] Qtravel,Scheduling and Bookings,1129,1129,0.25,0,Not reported,Not reported,No,No,Qtravel,Qtravel,0
+PSBA,[QAS] Ambulance Information Management System (AIMS),Document and Records Management,15,1,0.1,0.1,06/01/1996 0:00,06/01/2009 0:00,Yes,No,PSBA,custom,120000
+PSBA,[QAS] Clinical Audit and Reporting Tool (CART),Information Provision,3000,1,0.25,0.25,2/12/2008 0:00,01/06/2017 0:00,Yes,No,QAS/ICS,custom,264000
+PSBA,[QAS] Electronic Ambulance Report Form (eARF),Case Management,3000,1,3.5,0,06/01/2006 0:00,01/01/2016 0:00,Yes,No,QAS/VACIS,VACIS,3765000
+PSBA,[QAS] IROAM,Information Provision,140,1,0.5,0.5,01/06/2012 0:00,01/06/2017 0:00,Yes,No,QAS,Oracle,260000
+PSBA,[QAS] QAS Data Warehouse,Information Provision,3200,1,1.5,0,06/01/2006 0:00,01/06/2017 0:00,No,No,QAS/ICS,Oracle,966023
+PSBA,[QAS] Ambulance Arrivals Board (AAB),Information Provision,60,60,0,0,23/12/2010 0:00,01/01/2020 0:00,No,No,"In House, QAS",AAB,75000
+PSBA,[QAS] ESCAD QAS,Case Management,1450,Not reported,4,0,03/01/2008 0:00,06/01/2018 0:00,Yes,No,Tritech,VisiCad,12004472
+PSBA,[QAS] QACIR,Enterprise Business Intelligence,5,0,Not reported,Not reported,09/01/2003 0:00,06/01/2016 0:00,Yes,No,QACIR,Custom,0
+PSBA,[QAS] AutoReg,Information Provision,5,2,0,0,01/02/2004 0:00,01/02/2019 0:00,No,No,Registration Solutions,AutoReg,750
+PSBA,[QAS] ProQA,Computer-aided Dispatch,420,226,0.1,0,18/06/1996 0:00,06/01/2016 0:00,No,No,Priority Dispatch Corporation.,ProQA,797895
+PSBA,[QAS] QAS e-Timesheet,Time and Attendance,4414,0,1,0,02/01/2006 0:00,06/01/2025 0:00,Yes,No,Custom,QAS e-Timesheet,750000
+PSBA,[QAS] Graduate Paramedic Induction Program website,Information Provision,1331,0,0,0,1/10/2012 0:00,31/12/2015 0:00,No,No,WordPress / iNGENUITY,WordPress / hosting,2000
+PSBA,[QAS] QAS Continuous Learning Online (QASCLO) previously QAS Collaborative Learning Online,Computer Based Training,3400,0,0.2,0,12/01/2007 0:00,30/06/2016 0:00,No,No,Moodle.org / entity data,Moodle / hosting,2000
+PSBA,[QAS] QAS Volunteers (qasvolunteers.net),Document and Records Management,433,0,0,0,01/07/2014 0:00,30/06/2016 0:00,Yes,No,Entity Data,hosting,2000
+PSBA,[QAS] Community Education e-Tool (CEET),Information Provision,150,1,0.01,0,01/01/2008 0:00,1/12/2020 0:00,No,No,Moodle,Community Education,3150
+PSBA,[QAS] First Aid Booking Online Service,Scheduling and Bookings,95,1,0.2,0,01/02/2014 0:00,1/12/2020 0:00,Yes,No,Go Bookings,Community Education,60000
+PSBA,[QAS] VetTrack,Accreditation,12,10,0.6,0,01/02/2014 0:00,1/12/2020 0:00,Yes,No,Ozsoft,Community Education,23000
+PSBA,[QAS] TrooTrax,ORGANISATIONAL OPTIMISATION,22,Not reported,0,0,01/01/2012 0:00,01/03/2016 0:00,No,No,Troo,TrooTrax,Not reported
+PSBA,[QAS] CARDIAC ACPHR,Enterprise Business Intelligence,1,0,Not reported,Not reported,11/01/2003 0:00,11/01/2017 0:00,Yes,No,"In House, QAS",Custom,0
+PSBA,[QAS] QASii,Rostering,59,Not reported,0,0,12/01/1999 0:00,06/01/2018 0:00,Yes,No,Don't Panic Management Solutions - John Jenkins,Custom,0
+PSBA,[QAS] AreaMan,Rostering,59,Not reported,0,0,12/01/1999 0:00,06/01/2018 0:00,Yes,No,Don't Panic Management Solutions - John Jenkins,Custom,0
+PSBA,[QAS] Brisnet,Rostering,1200,Not reported,0,0,12/01/1999 0:00,06/01/2018 0:00,Yes,No,PSBA,Custom,0
+PSBA,[QAS] Tableau,Enterprise Business Intelligence,3,3,0,0,03/06/2014 0:00,03/06/2019 0:00,No,No,Tableau Software,Tableau,0
+PSBA,[QAS] PSIAM,Case Management,13,4,0,0,01/06/2009 0:00,01/06/2019 0:00,Yes,No,Priority Solutions,PSIAM,75040
+PSBA,QAS Local Ambulance Committee   LAC Database,Employee Administration,20,Not reported,Not reported,0,01/07/2009 0:00,01/01/2017 0:00,Yes,No,PSBA,Not reported,Not reported
+PSBA,[QAS] Advanced Quality Assurance (AQUA),Investigations Management,21,21,0,0,18/06/1996 0:00,19/07/2018 0:00,No,No,"Priority Dispatch Corporation ,139 East South  te","Priority Dispatch Corporation ,139 East South  te",0
+PSBA,[QAS] Officer Dashboard,Enterprise Business Intelligence,500,0,Not reported,Not reported,3/10/2014 0:00,3/10/2019 0:00,Yes,No,"In House, QAS",Custom,0
+PSBA,[QAS] Station Manager,Enterprise Business Intelligence,1,0,Not reported,Not reported,21/08/2015 0:00,21/08/2020 0:00,Yes,No,"In House, QAS",Custom,0
+PSBA,[QAS] QHAT (ARTIS),Organisational Strategic Planning,6,0,Not reported,Not reported,01/07/2008 0:00,01/07/2017 0:00,Yes,No,"In House, QAS",Custom,0
+PSBA,[QAS] ADAPT,Enterprise Business Intelligence,500,0,Not reported,Not reported,01/07/2015 0:00,01/07/2020 0:00,Yes,No,"In House, QAS",Custom,0
+PSBA,[QAS] Mosaic,Library Management,4,9,0.1,0,01/01/2009 0:00,01/01/2020 0:00,No,No,Information Technology Services Perth (ITS),Mosaic Collections,10000
+PSBA,[QAS] Ministerial Correspondence Tracking System,Document and Records Management,100,5000,0,0,01/07/2015 0:00,30/06/2016 0:00,No,No,Bay Technologies,Mincor,150000
+PSBA,QLiTE Native Applications,Information Provision,2850,2850,1,9,07/04/2014 0:00,01/07/2017 0:00,Yes,No,"Gridstone, Telstra Managed Service, SMS.",Client Software,4500000
+PSBA,Risk Manager,Risk and Issue Management,36,95,0,0,31/03/2014 0:00,31/12/2017 0:00,No,No,Incom,Risk Manager,36750
+PSBA,[PSBA] TADPOLE,Time and Attendance,750,750,1.6,0,12/07/2004 0:00,01/07/2016 0:00,Yes,No,Information Plus,TADPOLE,150000
+PSBA,QPS Performance Reporting,Information Submission,300,Not reported,0.2,0.1,01/01/2000 0:00,30/06/2020 0:00,Yes,No,SAP,Crystal Reports,130000
+PSBA,[PSBA] PSBA SharePoint,Information Provision,Not reported,1,4,0,01/06/2014 0:00,01/01/2018 0:00,No,No,Microsoft,SharePoint,150000
+QT,Placeholder,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,Not reported,Not reported,Not reported
+TMR,131940,Information Provision,4100000,Not reported,0.1,0.1,01/01/1990 0:00,01/01/2020 0:00,Yes,No,Unknown,131940,0
+TMR,Digital Video Road (DVR),SCIENCE AND ENGINEERING,Not reported,1002,0,1,26/06/2012 0:00,01/01/2016 0:00,Yes,No,TMR,ARMIS - Digital Video Road (DVR),210000
+TMR,Taxi Subsidy System (TSS),"Subsidies, Grants, Benefits and Assistance",1500,Not reported,0.75,0.37,22/10/2012 0:00,30/06/2013 0:00,Yes,No,DTMR,Services Group Timecapture &#38; Reporting System,0
+TMR,Briefing Note Database,Document and Records Management,100,Not reported,0,0,01/01/1990 0:00,01/01/2020 0:00,Yes,No,TMR,Tracking corro,0
+TMR,Qprime   - TMR Web Service,Information Provision,10000,Not reported,0.75,0.37,01/01/2004 0:00,01/01/2020 0:00,Yes,No,TMR,QPrime,924000
+TMR,State Penalties Enforcement Registry (SPER)  - TMR Web Service,Budgeting,1200000,Not reported,0.75,0.37,01/01/2000 0:00,30/06/2020 0:00,Yes,No,TMR,State Penalties Enforcement Registry (SPER),0
+TMR,Toll Compliance Management (TCM)  - TMR Web Service,Information Provision,4100000,Not reported,0.75,0.37,01/01/2008 0:00,01/01/2020 0:00,Yes,No,DTMR,Toll Compliance Management (TCM),0
+TMR,Written Off Vehicle Register (WOVR)  - TMR Web Service,Registrations and Inspections,1500,Not reported,0.75,0.37,01/01/2002 0:00,30/06/2013 0:00,Yes,No,TMR,Written Off Vehicle Register (WOVR) Direct,0
+TMR,Work Improvement Notes (TMR WIN),ORGANISATIONAL OPTIMISATION,48,Not reported,0,0,01/06/2009 0:00,01/06/2014 0:00,Yes,No,TMR,WHS tracking system,0
+TMR,WHS SHE Salvus,Financial Management,110,Not reported,0.2,0,01/02/2011 0:00,01/02/2016 0:00,Yes,No,Salvus,WHS tracking system,0
+TMR,Road Inventory (RI),SCIENCE AND ENGINEERING,Not reported,93,0,2,01/01/1990 0:00,11/01/2017 0:00,No,No,TMR,ARMIS - Road Inventory (RI),1325144
+TMR,AutoCAD,Computer-aided Design,300,Not reported,0.1,0,01/06/2008 0:00,01/01/2020 0:00,No,No,Autodesk,AutoCAD 2010,900000
+TMR,AutoCAD 2013 Customisation,Computer-aided Design,6,Not reported,0.5,0,30/11/2010 0:00,01/01/2020 0:00,Yes,No,TMR,AutoCAD 2013 Customisation,500000
+TMR,AutoCAD Map 3D,Computer-aided Design,300,Not reported,0.5,0,01/06/2003 0:00,01/01/2020 0:00,No,No,Autodesk,AutoCAD Map 3D,550000
+TMR,Automated Number Plate Recognition (ANPR),Information Submission,40,0,4.25,0.12,01/01/2010 0:00,01/01/2016 0:00,Yes,No,TMR,Automated Number Plate Recognition (ANPR),210000
+TMR,CulvertMaster,"Authorities, Licences, Permits and Awards",3,2,0,0,01/01/2006 0:00,01/01/2020 0:00,No,No,Bentley,Not reported,0
+TMR,Case Manager,Enterprise Performance Management,10,10,0,0,1/10/2010 0:00,01/03/2019 0:00,No,No,Unisys,Case Management,275000
+TMR,eDAM - Electronic Develeopment Application Management,"Authorities, Licences, Permits and Awards",300,Not reported,0.1,0.1,1/12/2011 0:00,3/10/2016 0:00,Yes,No,Dimension Data,eDAM - Electronic Develeopment Application Management,0
+TMR,Interactive Mapping,Information Provision,1000,Not reported,0,0.4,01/01/2010 0:00,01/01/2020 0:00,Yes,No,Unknown,Interactive Mapping,550000
+TMR,Pavement Ris System (PAVRISK),SCIENCE AND ENGINEERING,30,Not reported,0,0.1,22/08/2012 0:00,24/02/2017 0:00,Yes,No,TMR,Pavement Ris System (PAVRISK),0
+TMR,Portfolio Management System (PFM),Information Provision,300,Not reported,0,0,25/08/2012 0:00,22/09/2016 0:00,No,No,Unknown,Portfolio Management System (PFM),0
+TMR,Pursuit,Case Management,177,Not reported,0,0.1,01/09/2012 0:00,2/12/2016 0:00,No,No,Unknown,Pursuit,0
+TMR,ReportView,Information Provision,6,Not reported,1,0,1/11/2010 0:00,1/11/2015 0:00,No,No,TMR,N/A,0
+TMR,Resolve (RADV),SCIENCE AND ENGINEERING,150,Not reported,0,0.1,11/09/2012 0:00,20/04/2017 0:00,No,No,Unknown,Resolve (RADV),0
+TMR,Centreline Update,SCIENCE AND ENGINEERING,Not reported,Not reported,0,0,01/01/1990 0:00,01/01/2020 0:00,No,No,Unknown,ARMIS - Centreline Update,0
+TMR,Road Systems Integrator (RII),SCIENCE AND ENGINEERING,2,Not reported,0,0.05,14/09/2012 0:00,01/01/2020 0:00,No,No,TMR,Road Systems Integrator (RII),0
+TMR,Work Improvement Notes (Roadtek WIN),ORGANISATIONAL OPTIMISATION,1600,Not reported,0,0,01/06/2009 0:00,01/06/2014 0:00,Yes,No,TMR,Conformance database,0
+TMR,Reporting and Performance Management (RPM),"Authorities, Licences, Permits and Awards",552,552,2,3,01/03/2010 0:00,01/01/2017 0:00,Yes,No,TMR,Custom,7500000
+TMR,SITAR,SCIENCE AND ENGINEERING,20,Not reported,0,0.2,01/01/1990 0:00,01/01/2020 0:00,No,No,Unknown,SITAR,0
+TMR,Statewide Program Investment Delivery Application (SPIDA),Costing,3000,Not reported,0,2,08/05/2012 0:00,08/05/2017 0:00,Yes,No,TMR,Statewide Program Investment Delivery Application,20000000
+TMR,Digital Road Network (DRN),SCIENCE AND ENGINEERING,1,Not reported,0,0,01/01/1990 0:00,01/01/2020 0:00,No,No,Unknown,ARMIS - Digital Road Network (DRN),0
+TMR,Corptech SAP services (QSS),"Authorities, Licences, Permits and Awards",7500,7500,3,2,01/01/2004 0:00,01/01/2017 0:00,No,No,SAP,SAP,9000000
+TMR,SPIDA FAP,Costing,200,Not reported,0,2,01/07/1998 0:00,01/01/2017 0:00,Yes,No,TMR,FAP,0
+TMR,STREAMS and SIMS,SCIENCE AND ENGINEERING,Not reported,Not reported,0,0,01/01/1990 0:00,1/12/2025 0:00,Yes,No,Transmax,STREAMS,0
+TMR,SPIDA Live,Budgeting,3000,Not reported,0,2,01/07/1998 0:00,01/01/2017 0:00,Yes,No,TMR,SPIDA Live,0
+TMR,SPIDA Publish,Budgeting,10,Not reported,0,2,01/07/1997 0:00,01/01/2017 0:00,Yes,No,TMR,SPIDA Publish,0
+TMR,Primavera - TIP,Project Portfolio Management,Not reported,Not reported,0,0,01/08/2012 0:00,01/09/2016 0:00,Yes,No,Oracle,TIP - Primavera,2000000
+TMR,AutoCAD Mechanical,Information Submission,1,Not reported,0,0,01/06/2003 0:00,01/01/2020 0:00,No,No,Autodesk,AutoCAD Mechanical,50000
+TMR,TMR Internet Site,GENERIC SERVICE DELIVERY,4100000,Not reported,0,0,Not reported,Not reported,Yes,No,TMR,Not reported,Not reported
+TMR,Transport Models (EMME),SCIENCE AND ENGINEERING,20,15,0,0,01/01/1992 0:00,01/01/2020 0:00,No,No,INRO,EMME,500000
+TMR,BOM/IIC extract,Design and Engineering,20,Not reported,2,3,01/03/2010 0:00,01/01/2017 0:00,Yes,No,TMR,BOM/IIC extract,0
+TMR,CTP Random Allocation,"Authorities, Licences, Permits and Awards",2,Not reported,0,0,23/06/2005 0:00,01/01/2020 0:00,Yes,No,unknown,Paradox,0
+TMR,CTP Uploads,Design and Engineering,5,Not reported,0,0,23/06/2005 0:00,01/01/2020 0:00,Yes,No,unknown,Paradox,0
+TMR,DvTEL,SCIENCE AND ENGINEERING,Not reported,Not reported,Not reported,Not reported,Not reported,Not reported,No,No,unknown,DvTEL,0
+TMR,EBI Solutions,Enterprise Business Intelligence,600,1,6.25,2,01/07/2001 0:00,30/06/2016 0:00,No,No,IBM,"Cognos Business Intelligence, InfoSphere Information Server, Cognos TM1, Cognos SPSS",3000000
+TMR,Facial Image Capture,"Authorities, Licences, Permits and Awards",420,Not reported,0,0,1/10/2010 0:00,01/03/2019 0:00,No,No,"Unisys, Face4Systems, Cognitec",Facial Image Capture,1342672
+TMR,ArcGIS for Desktop,Modelling and Simulation,10,35,0,0,30/11/2010 0:00,01/01/2030 0:00,No,No,ESRI,ArcGIS for Desktop,0
+TMR,Facial Recognition,Information Submission,420,Not reported,0,0,1/10/2010 0:00,01/03/2019 0:00,No,No,"Unisys,DAON,Cognitec",Facial Recognition,2060776
+TMR,Forecasting Framework (Datastage & EDW),Enterprise Business Intelligence,Not reported,4,0.75,0,30/09/2014 0:00,30/06/2016 0:00,No,No,IBM,InfoSphere Information Server,1000000
+TMR,"Generate Excess Mass Conditions Report (Excess Mass, EXM, XMS) - Online Services","Authorities, Licences, Permits and Awards",Not reported,Not reported,0,0,Not reported,Not reported,Yes,No,TMR,TMR,0
+TMR,Generic Payment Service,Payments,4100000,Not reported,0,0,01/01/2001 0:00,30/06/2018 0:00,Yes,No,TMR,Generic Payment Service,0
+TMR,Intelligent Access Program  - TMR Web Service,Information Provision,Not reported,Not reported,0,0,01/01/2008 0:00,30/06/2018 0:00,Yes,No,TMR,Intelligent Access Program  - TMR Web Service,0
+TMR,Interactive Voice Response  - TMR Web Service,Information Provision,4100000,Not reported,0,0,01/01/2008 0:00,Not reported,Yes,No,TMR,Interactive Voice Response  - TMR Web Service,0
+TMR,"ITS, electrical asset system",Customer Service,100,Not reported,0,0,Not reported,Not reported,No,No,Unknown,"ITS, electrical asset system",0
+TMR,Microstation,Modelling and Simulation,10,5,0.5,0,Not reported,01/01/2020 0:00,No,No,Bentley,Microstation,0
+TMR,MIRS,Modelling and Simulation,40,Not reported,0,0,Not reported,01/01/2020 0:00,Yes,No,TMR,MIRS,0
+TMR,Motor Accident Insurance Commission - MAIC Reporting,Information Provision,6,Not reported,0,0,01/07/2003 0:00,01/01/2020 0:00,Yes,No,Corel,Paradox,0
+TMR,National Exchange of Vehicle and Driver Information System (NEVDIS) MQ Services,Information Provision,Not reported,Not reported,0,0,01/01/2008 0:00,Not reported,Yes,No,TMR,NEVDIS Stolen,0
+TMR,NEVDIS Stolen,"Authorities, Licences, Permits and Awards",Not reported,Not reported,0,0,01/01/2008 0:00,Not reported,No,No,TMR,NEVDIS Stolen,0
+TMR,PRISM,Project Scheduling,250,0,0,0,Not reported,01/01/2030 0:00,No,No,Not reported,PRISM,0
+TMR,MapInfo Professional,SCIENCE AND ENGINEERING,420,Not reported,0,0,01/07/2003 0:00,1/12/2018 0:00,No,No,Pitney Bowes,MapInfo Professional (CL),0
+TMR,PS Info,Case Management,130,0,0,0,Not reported,Not reported,Yes,No,TMR,PS Info,0
+TMR,Public Traffic Data System (PTDS),SCIENCE AND ENGINEERING,Not reported,Not reported,0,0,Not reported,Not reported,No,No,Unknown,Public Traffic Data System (PTDS),0
+TMR,Registration and Licensing Price Host,"Authorities, Licences, Permits and Awards",11,Not reported,0,0,26/06/1999 0:00,01/01/2020 0:00,Yes,No,unknown,Registration and Licensing Price Host,0
+TMR,AutoCAD Civil 3D,Computer-aided Design,6,Not reported,0,0,01/06/2003 0:00,01/01/2020 0:00,No,No,Autodesk,AutoCAD Civil 3D,100000
+TMR,RIP Database Archive,Information Provision,3,Not reported,0,2,01/01/1997 0:00,Not reported,Yes,No,TMR,RIP historical databases,0
+TMR,Autocad Design Review,Computer-aided Design,1000,Not reported,0,0,01/06/2003 0:00,01/01/2020 0:00,No,No,Autodesk,Autocad Design Review,100000
+TMR,Settlement Statement,"Authorities, Licences, Permits and Awards",10,Not reported,0,0,01/01/1998 0:00,30/06/2020 0:00,Yes,No,Not reported,Settlement Statement,0
+TMR,RM,Document and Records Management,600,650,0,1,01/01/2008 0:00,30/06/2016 0:00,Yes,No,HP,CHANGED TO: HP Records Manager 8,0
+TMR,GoCard,"Authorities, Licences, Permits and Awards",1124000,Not reported,0,0,01/02/2008 0:00,01/02/2016 0:00,Yes,No,Cubic Transportation Systems (Australia) Pty Limited,Integrated public transport ticketing system,100000000
+TMR,HASTUS,Scheduling and Bookings,80,2500,1,1,01/07/2010 0:00,01/06/2020 0:00,No,No,Giro Inc.,HASTUS / HASTInfo,5000000
+TMR,Online Passenger Information Application  (OPIA),"Authorities, Licences, Permits and Awards",3900000,Not reported,1,1,01/01/2008 0:00,01/03/2017 0:00,Yes,No,TMR/Microsoft,Custom web and app interface into HASTUS passenger information data,0
+TMR,TransLink website,GENERIC SERVICE DELIVERY,3700000,Not reported,1,1,01/01/2008 0:00,01/03/2017 0:00,Yes,No,Acquia,"Public facing TransLink informational website built on Drupal CMS-based platform provided by Acquia, hosted by Amazon Web Services",0
+TMR,Coorporate Measures,Contract Management,100,Not reported,0.2,0.2,01/01/2004 0:00,1/12/2017 0:00,Yes,No,IBM,Lotus Notes,200000
+TMR,Asset Maintenance Management System (AMMS),Enterprise Asset Management,343,Not reported,1,1,01/05/2012 0:00,1/12/2014 0:00,Yes,No,Unknown,Asset Maintenance Management System (AMMS),945000
+TMR,Geospatial Information Management System (GIMS) 3.6,Information Provision,Not reported,300,0,0.5,04/07/2012 0:00,01/01/2016 0:00,Yes,No,Unknown,ARMIS - Geospatial Information Management System (GIMS) 3.6,2625000
+TMR,ExcessMass,Financial Management,150,Not reported,0.75,0.37,01/07/2012 0:00,30/06/2013 0:00,Yes,No,TMR,ExcessMass,2000000
+TMR,Highway 21,Information Provision,200,Not reported,0,0,07/07/2012 0:00,31/03/2016 0:00,Yes,No,TMR,Highway 21,840000
+TMR,Projman,SCIENCE AND ENGINEERING,1406,Not reported,1.3,0,28/08/2012 0:00,01/01/2020 0:00,Yes,No,TMR,Projman,1575000
+TMR,Roads Implementation Program Application (RIPA),Costing,400,Not reported,0.2,3,16/09/2012 0:00,01/01/2017 0:00,Yes,No,TMR,Roads Implementation Program Application (RIPA),3150000
+TMR,Scenario Suite Millenium,"Authorities, Licences, Permits and Awards",Not reported,Not reported,0,0.7,27/09/2012 0:00,01/01/2016 0:00,Yes,No,Unknown,ARMIS - Scenario Suite Millenium,525000
+TMR,Weigh in Motion,"Authorities, Licences, Permits and Awards",Not reported,Not reported,0,0,01/01/1990 0:00,01/01/2020 0:00,No,No,Unknown,Unknown,210000
+TMR,Works Management System (WMS),Project Portfolio Management,1300,Not reported,0.9,1,14/10/2011 0:00,14/10/2016 0:00,Yes,No,TMR,Works Management System (WMS),2100000
+TMR,Bridge Information System (BIS),Information Provision,241,241,0.85,0.12,07/06/2012 0:00,23/05/2017 0:00,Yes,No,Unknown,ARMIS - Bridge Information System (BIS),2100000
+TMR,Chartview,Information Provision,600,600,0,0,10/06/2012 0:00,01/01/2020 0:00,No,No,Unknown,ARMIS - Chartview,0
+TMR,12d Model Civil Surveying 10x 64,Modelling and Simulation,300,Not reported,1.5,0,23/05/2012 0:00,01/01/2020 0:00,No,No,12D Solutions,12d Model Civil Surveying 10x 64,1400000
+TMR,MapView,Information Provision,Not reported,200,0,0.5,18/07/2012 0:00,01/01/2020 0:00,Yes,No,Unknown,ARMIS - MapView,168593
+TMR,Pavement Condition System (PAVCON),SCIENCE AND ENGINEERING,Not reported,87,0,0.4,21/08/2012 0:00,24/02/2017 0:00,Yes,No,TMR,ARMIS - Pavement Condition System (PAVCON),2100000
+TMR,Road Crash 2 System (RCRASH2),SCIENCE AND ENGINEERING,Not reported,227,0,0.5,01/01/1990 0:00,23/11/2016 0:00,No,No,TMR,ARMIS - Road Crash 2 System (RCRASH2),525000
+TMR,Road Maintenance Performance Contract Management System (RMPC),SCIENCE AND ENGINEERING,106,Not reported,0,0.7,02/02/2011 0:00,02/02/2016 0:00,No,No,TMR,ARMIS - Road Maintenance Performance Contract Mana,495665
+TMR,Road Reference (RR),SCIENCE AND ENGINEERING,Not reported,126,0,2,22/09/2012 0:00,27/07/2016 0:00,No,No,TMR,ARMIS - Road Reference (RR),2087187
+TMR,Roads Information Data Centre (RIDC),Budgeting,Not reported,100,0,1,19/09/2012 0:00,01/01/2020 0:00,Yes,No,Unknown,ARMIS - Roads Information Data Centre (RIDC),0
+TMR,Road Asset Valuation Extract (RAVE),SCIENCE AND ENGINEERING,Not reported,1,0,0,07/09/2012 0:00,05/05/2016 0:00,No,No,TMR,ARMIS - Road Asset Valuation Extract (RAVE),269749
+TMR,Roadside Impact Severity Calculator (RISC),"Subsidies, Grants, Benefits and Assistance",3,Not reported,0,0,17/09/2012 0:00,01/01/2020 0:00,No,No,Unknown,ARMIS - Roadside Impact Severity Calculator (RISC),315000
+TMR,Culvert,Design and Engineering,300,Not reported,0.5,0,6/12/2011 0:00,01/01/2020 0:00,Yes,No,TMR,Not reported,300000
+TMR,Transport Registration & Integrated Licensing System (TRAILS),"Authorities, Licences, Permits and Awards",3000,Not reported,3.75,3.12,01/01/1996 0:00,01/06/2017 0:00,Yes,No,TMR,Transport Registration &#38; Integrated Licensing,60000000
+TMR,Road Use Management Integrated Information System (RUMIIS),SCIENCE AND ENGINEERING,Not reported,Not reported,0,0,01/01/2006 0:00,01/01/2020 0:00,Yes,No,IBM,Unknown,0
+TMR,CIRMS - Commercial Information and Registration Systes,"Authorities, Licences, Permits and Awards",50,Not reported,0.85,0.12,12/06/2012 0:00,04/01/2017 0:00,Yes,No,TMR,Commercial Information and Registration Systes (CIRMS),0
+TMR,DocBase3,Document and Records Management,1800,0,0.5,0.01,01/01/2005 0:00,01/06/2015 0:00,Yes,No,IBM,DocBase3,0
+TMR,DMS - Document Management System,Document and Records Management,10000,0,0.2,0.2,22/06/2012 0:00,01/01/2020 0:00,Yes,No,IBM,Document Management System (DMS),15750000
+TMR,Disabled Parking,Document and Records Management,10,0,0.1,0,21/06/2012 0:00,01/01/2020 0:00,Yes,No,Unknown,Disabled Parking db,200000
+TMR,DocTrak,SCIENCE AND ENGINEERING,110,0,0.5,0.5,01/04/2008 0:00,01/06/2015 0:00,Yes,No,IBM,DocTrak,315000
+TMR,School Transport Information Management System (STIMS),Budgeting,100,Not reported,2,1,01/01/1990 0:00,01/01/2025 0:00,Yes,No,TMR,STIMS,1000000
+TMR,Ship Reporting System (SRS),"Authorities, Licences, Permits and Awards",10,Not reported,0,0,01/01/1990 0:00,01/06/2021 0:00,No,No,Unknown,REEFREP,0
+TMR,QSHIPS - Queensland Ship Information Planning System,SCIENCE AND ENGINEERING,Not reported,Not reported,0,0,12/06/2012 0:00,1/12/2020 0:00,No,No,Klein Systems Group,Queensland Ship Information Planning System,0
+TMR,Learnzone,Skills Management,10000,Not reported,0,0,01/01/1990 0:00,18/07/2017 0:00,No,No,DOTS Talent Solutions,LearnZone,0
+TMR,Transport Research and Information Planning (TRIP),Project Portfolio Management,Not reported,Not reported,0,0,01/01/1990 0:00,01/01/2020 0:00,No,No,Unknown,Unknown,0
+TMR,Written Off Vehicle Inspections (WOVI),"Authorities, Licences, Permits and Awards",50,Not reported,0.75,0.37,01/01/2002 0:00,30/06/2013 0:00,Yes,No,TMR,Written Off Vehicle Inspections (WOVI),0
+TMR,Electronic Payment Service Financial Administration (EPSFA),"Authorities, Licences, Permits and Awards",20,Not reported,0.75,0.37,01/01/2004 0:00,30/06/2018 0:00,Yes,No,TMR,Electronic Payment Service Financial Administration,0
+TMR,Tidal Data Enquiries System (TIDES),Information Provision,9,Not reported,0.1,0,14/10/2012 0:00,30/06/2018 0:00,Yes,No,Unknown,Tidal Data Enquiries System (TIDES),0
+TMR,Business Directory,Information Provision,7900,7900,0.1,0.2,01/02/2014 0:00,1/10/2019 0:00,Yes,No,NetIQ,UserApp Whitepages,0
+TMR,Generic Payment Service (GPS) Administration,Payments,20,Not reported,0.75,0.37,01/01/2004 0:00,30/06/2018 0:00,Yes,No,TMR,Generic Payment Service (GPS) Administration,0
+TMR,Property Search (PSS)  - TMR Web Service,Information Provision,30000,Not reported,0.75,0.37,01/01/1990 0:00,30/06/2020 0:00,Yes,No,TMR,Property Search,0
+TMR,Transport Integrated Customer Access (TICA),Information Provision,3000,Not reported,0.75,0.37,01/01/2007 0:00,30/06/2020 0:00,Yes,No,TMR,Transport Integrated Customer Access (TICA),1000000
+TMR,Intelligent Access Program (IAP),Information Provision,20,Not reported,0.75,0.37,01/01/2008 0:00,30/06/2018 0:00,Yes,No,TMR,Intelligent Access Program (IAP),0
+TMR,Property Search,Information Provision,50,Not reported,0.75,0.37,30/08/2012 0:00,30/06/2020 0:00,Yes,No,TMR,Property Search,0
+TMR,RoadCrash - Roadcrash 1,SCIENCE AND ENGINEERING,45,Not reported,0.85,0.12,01/01/1990 0:00,30/06/2014 0:00,Yes,No,TMR,RoadCrash,0
+TMR,Property Enquiry,Information Provision,30000,Not reported,0,0,01/06/2004 0:00,01/06/2017 0:00,No,No,TMR,PSS,0
+TMR,Service Industry Licensing & Accreditation System (SILAS),"Subsidies, Grants, Benefits and Assistance",300,Not reported,0.85,0.12,01/01/1998 0:00,01/06/2014 0:00,Yes,No,TMR,Service Industry Licensing &#38; Accreditation Sys,0
+TMR,Taxi Subsidy Scheme (TSS)  - TMR Web Service,Information Provision,20,Not reported,0.85,0.13,22/10/2012 0:00,30/06/2013 0:00,Yes,No,TMR,Taxi Subsidy (TSS),0
+TMR,RoadCrash - WebCrash2,SCIENCE AND ENGINEERING,1741,Not reported,0.3,0,01/01/1990 0:00,30/06/2014 0:00,Yes,No,TMR,WebCrash2,0
+TMR,Transport Integrated Customer Access (TICA)  SQQ aacess,Information Provision,250,0,0,0,01/01/2007 0:00,01/01/2015 0:00,Yes,No,TMR,CRM Tool,0
